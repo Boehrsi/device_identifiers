@@ -4,7 +4,7 @@ A Dart script which fetches device information for Android and iOS. Generates di
 
 ## Supported output languages
 
-- Dart / Flutter
+- Dart / Flutter: https://github.com/Boehrsi/device_identifiers/blob/main/output/device_identifiers.dart
 
 ## Sources
 
