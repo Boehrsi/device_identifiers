@@ -6,6 +6,10 @@ A Dart script which fetches device information for Android and iOS. Generates di
 
 - Dart / Flutter: https://github.com/Boehrsi/device_identifiers/blob/main/output/device_identifiers.dart
 
+## Usage
+- Android: Use the `android` map with the key obtained via `Build.MODEL` (https://developer.android.com/reference/android/os/Build#MODEL)
+- iOS: Use the `iOS` map with the key obtained via `utsname.machine`
+
 ## Sources
 
 - **iOS**: https://github.com/SeparateRecords/apple_device_identifiers
