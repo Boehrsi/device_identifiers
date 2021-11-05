@@ -6,14 +6,6 @@ on:
     branches: [main]
   schedule:
     - cron:  '0 1 * * *'
-jobs:
-  analyze:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: axel-op/dart-package-analyzer@v3
-        with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
