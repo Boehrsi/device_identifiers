@@ -1,7 +1,8 @@
 import 'package:csv/csv.dart';
 import 'package:http/http.dart' as http;
 
-final androidCsv = 'https://storage.googleapis.com/play_public/supported_devices.csv';
+final androidCsv =
+    'https://storage.googleapis.com/play_public/supported_devices.csv';
 final androidMap = 'Map<String, String> android = {';
 
 Future<Map<dynamic, dynamic>> requestAndroidIdentifiers(String target) async {
@@ -20,7 +21,8 @@ Future<Map<dynamic, dynamic>> requestAndroidIdentifiers(String target) async {
 List<List<dynamic>> decode(http.Response response) {
   var utf16Bytes = response.bodyBytes.buffer.asUint16List();
   var responseString = String.fromCharCodes(utf16Bytes);
-  List<List<dynamic>> decodedResponse = const CsvToListConverter().convert(responseString);
+  List<List<dynamic>> decodedResponse =
+      const CsvToListConverter().convert(responseString);
   return decodedResponse;
 }
 
@@ -30,7 +32,10 @@ void removeNullOrEmpty(List<List<dynamic>> list) {
   list.removeWhere((element) {
     var key = getKey(element);
     var value = getValue(element);
-    return key == null || value == null || key.toString().isEmpty || value.toString().isEmpty;
+    return key == null ||
+        value == null ||
+        key.toString().isEmpty ||
+        value.toString().isEmpty;
   });
 }
 
