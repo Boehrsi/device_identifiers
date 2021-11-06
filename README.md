@@ -1,4 +1,4 @@
-# device_identifiers
+# Device Identifiers
 
 A Dart script which fetches device information for Android and iOS. Generates directly usable code. 
 
