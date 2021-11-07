@@ -1,4 +1,4 @@
-// [2021-11-06 10:15:01.776571] Auto generated file, do not change.
+// [2021-11-07 02:03:09.908986] Auto generated file, do not change.
 
 Map<String, String> iOS = {
   'iPhone1,1': 'iPhone',
@@ -10559,6 +10559,7 @@ Map<String, String> android = {
   'JVC US 2K Android TV': 'JVC',
   'US 2K Android TV': 'JVC',
   'J20': 'JVC J20',
+  'JVC Android TV': 'South Africa/Australia /Israel/Paraguay',
   'UK 2K Android TV': 'UK',
   'JVL070TAB812BLK': 'JVL070TAB812BLK',
   'JVL101TAB811BLK': 'JVL101TAB811BLK',
@@ -16091,7 +16092,8 @@ Map<String, String> android = {
   'Titan_10_LTE': 'Titan_10_LTE',
   'XELIO_HD10': 'XELIO_HD10',
   'FALCON_10_PLUS_3G': ' FALCON_10_PLUS_3G',
-  'OK 4K Android TV': 'OK',
+  'OK 2K Android TV': 'EU',
+  'OK 4K Android TV': 'OK / eu',
   'OK 2K TV': 'OK 2K TV',
   'Okapi10': 'Okapi10',
   'Okapi10 Pro': 'Okapi10_Pro',
@@ -25039,6 +25041,8 @@ Map<String, String> android = {
   'TECH-TVE19J': 'Technika',
   'W032I_C3': 'W032I_C3',
   'AEONSR570': 'AEONSR570',
+  'Tesla 2K Android TV': 'EU',
+  'Tesla 4K Android TV': 'EU',
   'TTM813G': 'M8.1 3G',
   'Tesla_SP3.5': 'SMARTPHONE3.5',
   'Tesla_SP3_4': 'Smartphone 3.4',
