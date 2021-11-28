@@ -24,6 +24,9 @@ jobs:
       - name: Format
         run: dart format output/device_identifiers.dart
 
+      - name: Test
+        run: dart test test/test_data.dart
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update device database via CI
