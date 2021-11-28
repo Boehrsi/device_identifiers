@@ -1,12 +1,12 @@
 import 'package:csv/csv.dart';
+import 'utils/collections.dart';
 import 'package:http/http.dart' as http;
 
 final androidCsv =
     'https://storage.googleapis.com/play_public/supported_devices.csv';
-final androidMap = 'Map<String, String> android = {';
 
-Future<Map<dynamic, dynamic>> requestAndroidIdentifiers(String target) async {
-  final resultMap = Map<dynamic, dynamic>();
+Future<Map<String, Map>> requestAndroidIdentifiers(String target) async {
+  final resultMap = {};
   final url = Uri.parse(target);
   final response = await http.get(url);
   final decodedResponse = decode(response);
@@ -15,7 +15,7 @@ Future<Map<dynamic, dynamic>> requestAndroidIdentifiers(String target) async {
   removeDuplicates(decodedResponse).forEach((key, value) {
     resultMap[key] = value.join(' / ');
   });
-  return resultMap;
+  return resultMap.sortByKey().chunk();
 }
 
 List<List<dynamic>> decode(http.Response response) {

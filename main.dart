@@ -1,41 +1,31 @@
 import 'dart:io';
 
 import 'lib/android.dart';
-import 'lib/io.dart';
 import 'lib/ios.dart';
+import 'lib/targets/dart.dart';
+import 'lib/targets/kotlin.dart';
+import 'lib/targets/target_definition.dart';
+import 'lib/utils/io.dart';
 
 main(List<String> args) async {
-  final file = await File(output);
-  final sink = file.openWrite();
+  final targets = [targetDart, targetKotlin];
+  final information = setupInformation();
 
-  writeInformation(sink);
-  await writeIosIdentifiers(sink);
-  await writeAndroidIdentifiers(sink);
+  final iOsData = [await requestIosIdentifiers(iPhoneJson), await requestIosIdentifiers(iPadJson)];
+  final androidData = await requestAndroidIdentifiers(androidCsv);
 
-  sink.close();
+  await Future.forEach(targets, (TargetDefinition target) async {
+    final file = await File(target.outputFile);
+    final sink = file.openWrite();
+
+    sink.write(information);
+    sink.writeIosIdentifiers(target, iOsData);
+    sink.writeIosLookupMethod(target);
+    sink.writeAndroidIdentifiers(target, androidData);
+    sink.writeAndroidLookupMethod(target, androidData.keys.toList());
+
+    sink.close();
+  });
 }
 
-void writeInformation(IOSink sink) {
-  final date = DateTime.now();
-  sink.write('// [$date] Auto generated file, do not change.\n\n');
-}
-
-Future<void> writeIosIdentifiers(IOSink sink) async {
-  sink.write(iOsMap);
-
-  final iPhoneMap = await requestIosIdentifiers(iPhoneJson);
-  sink.writeMapToSink(iPhoneMap);
-  final iPadMap = await requestIosIdentifiers(iPadJson);
-  sink.writeMapToSink(iPadMap);
-
-  sink.write(closeMap);
-}
-
-Future<void> writeAndroidIdentifiers(IOSink sink) async {
-  sink.write(androidMap);
-
-  final deviceMap = await requestAndroidIdentifiers(androidCsv);
-  sink.writeMapToSink(deviceMap);
-
-  sink.write(closeMap);
-}
+String setupInformation() => '// [${DateTime.now()}] Auto generated file, do not change.\n\n';

@@ -7,10 +7,8 @@ final iPhoneJson =
 final iPadJson =
     'https://raw.githubusercontent.com/SeparateRecords/apple_device_identifiers/main/devices/iPad.json';
 
-final iOsMap = 'Map<String, String> iOS = {';
-
-Future<Map<dynamic, dynamic>> requestIosIdentifiers(String target) async {
-  final resultMap = Map<dynamic, dynamic>();
+Future<Map> requestIosIdentifiers(String target) async {
+  final resultMap = {};
   final url = Uri.parse(target);
   final response = await http.get(url);
   final decodedResponse = jsonDecode(utf8.decode(response.bodyBytes)) as Map;
