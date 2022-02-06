@@ -1,4 +1,4 @@
-// [2022-02-06 10:21:21.053833] Auto generated file, do not change.
+// [2022-02-06 10:35:29.297366] Auto generated file, do not change.
 
 late Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
