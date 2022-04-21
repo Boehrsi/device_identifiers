@@ -2,19 +2,25 @@ import 'target_definition.dart';
 
 String outputFile = 'output/device_identifiers.dart';
 
-ChunkMapTemplate openAndroidMap = (String chunkKey) => 'late Map<String, String> _android$chunkKey = {\n';
-String lookupAndroidHeader = '''String? lookupAndroidName(String model) {
+ChunkMapTemplate openAndroidMap =
+    (String chunkKey) => 'late Map<String, String> _android$chunkKey = {\n';
+String lookupAndroidHeader = '''String lookupAndroidName(String model) {
+  String? result; 
   final chunkKey = model.toString()[0];
   switch (chunkKey) {\n''';
 LookupBody lookupAndroidBody = (String chunkKey) => '''    case '$chunkKey':
-      return _android$chunkKey[model];\n''';
+      result = _android$chunkKey[model];
+      break;\n''';
 String lookupAndroidFooter = '''    default:
-      return null;
+      result = null;
+      break;
   }
+  return result ?? model;
 }\n''';
 
 String openIosMap = 'late Map<String, String> _iOs = {\n';
-String lookupIosMap = 'String? lookupIosName(String model) => _iOs[model];\n';
+String lookupIosMap =
+    'String lookupIosName(String model) => _iOs[model] ?? model;\n';
 
 MapEntry mapEntry = (String key, String value) => "  '$key': '$value', \n";
 String closeMap = '};\n';

@@ -11,7 +11,10 @@ main(List<String> args) async {
   final targets = [targetDart, targetKotlin];
   final information = setupInformation();
 
-  final iOsData = [await requestIosIdentifiers(iPhoneJson), await requestIosIdentifiers(iPadJson)];
+  final iOsData = [
+    await requestIosIdentifiers(iPhoneJson),
+    await requestIosIdentifiers(iPadJson)
+  ];
   final androidData = await requestAndroidIdentifiers(androidCsv);
 
   await Future.forEach(targets, (TargetDefinition target) async {
@@ -28,4 +31,5 @@ main(List<String> args) async {
   });
 }
 
-String setupInformation() => '// [${DateTime.now()}] Auto generated file, do not change.\n\n';
+String setupInformation() =>
+    '// [${DateTime.now()}] Auto generated file, do not change.\n\n';

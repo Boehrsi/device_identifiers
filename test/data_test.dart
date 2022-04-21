@@ -6,7 +6,7 @@ void main() {
   test('No iOS match', () {
     final model = 'ios';
     final result = lookupIosName(model);
-    expect(result, null);
+    expect(result, model);
   });
 
   test('iOS match', () {
@@ -18,7 +18,7 @@ void main() {
   test('No Android match', () {
     final model = 'android';
     final result = lookupAndroidName(model);
-    expect(result, null);
+    expect(result, model);
   });
 
   test('Android match', () {

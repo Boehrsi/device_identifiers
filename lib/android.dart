@@ -15,6 +15,7 @@ Future<Map<String, Map>> requestAndroidIdentifiers(String target) async {
   removeDuplicates(decodedResponse).forEach((key, value) {
     resultMap[key] = value.join(' / ');
   });
+  removeEqualKeyValue(resultMap);
   return resultMap.sortByKey().chunk();
 }
 
@@ -53,6 +54,10 @@ Map<dynamic, List<dynamic>> removeDuplicates(List<List<dynamic>> list) {
   });
   return correctedMap;
 }
+
+void removeEqualKeyValue(Map<dynamic, dynamic> map) =>
+    map.removeWhere((key, value) => key.toString() == value
+      ..toString());
 
 getValue(List<dynamic> element) => element[1];
 

@@ -1,7 +1,8 @@
 import 'dart:collection';
 
 extension Adjust on Map {
-  Map sortByKey() => SplayTreeMap.from(this, (left, right) => left.toString().compareTo(right.toString()));
+  Map sortByKey() => SplayTreeMap.from(
+      this, (left, right) => left.toString().compareTo(right.toString()));
 
   Map<String, Map> chunk() {
     String chunkKey = "";
