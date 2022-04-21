@@ -10,6 +10,9 @@ ChunkMapTemplate openAndroidMap = (String chunkKey) {
 ''';
 };
 String lookupAndroidHeader = '''fun lookupAndroidName(model: String): String {
+  if (model.isBlank()) {
+    return ""
+  }
   val result = when (model[0]) {
 ''';
 LookupBody lookupAndroidBody = (String chunkKey) {
