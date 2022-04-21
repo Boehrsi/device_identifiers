@@ -1,4 +1,4 @@
-// [2022-04-21 11:59:26.580346] Auto generated file, do not change.
+// [2022-04-21 14:36:33.704825] Auto generated file, do not change.
 
 object Ios {
   internal val map by lazy {
@@ -241,7 +241,7 @@ object Android2 {
       put("21091116C", "Redmi Note 11 Pro")
       put("21091116UC", "Redmi Note 11 Pro+")
       put("21091116UG", "Redmi Note 11 Pro+ 5G")
-      put("2109119BC", "Xiaomi Civi")
+      put("2109119BC", "Xiaomi Civi / Xiaomi Civi 1S")
       put("2109119DG", "Xiaomi 11 Lite 5G NE")
       put("2109119DI", "Xiaomi 11 Lite NE")
       put("211033MI", "POCO C31")
@@ -1482,6 +1482,7 @@ object AndroidA {
       put("ANE-LX2J", "HUAWEI P20 Lite")
       put("ANE-LX3", "P20 lite")
       put("ANE-TL00", "nova 3e")
+      put("ANY-LX1", "HONOR Magic4 Lite")
       put("ANY-LX2", "HONOR X9")
       put("ANY-NX1", "HONOR Magic 4 Lite 5G / HONOR X9 5G")
       put("AO5510", "Yureka")
@@ -3145,6 +3146,7 @@ object AndroidC {
       put("CPH2285", "F19 Pro")
       put("CPH2303", "A54 5G")
       put("CPH2305", "Find X5 Pro")
+      put("CPH2307", "Find X5")
       put("CPH2321", "OPPO A53s 5G")
       put("CPN-AL00", "HUAWEI MediaPad M3 Lite")
       put("CPN-L09", "HUAWEI MediaPad M3 Lite")
@@ -12181,8 +12183,13 @@ object AndroidR {
       put("RMX3475", "realme V25")
       put("RMX3493", "realme 9i / realme 9i	")
       put("RMX3501", "realme C31")
+      put("RMX3502", "realme C31")
+      put("RMX3503", "realme C31")
       put("RMX3511", "realme C35")
+      put("RMX3512", "realme C35")
+      put("RMX3513", "realme C35")
       put("RMX3516", "realme narzo 50A Prime")
+      put("RMX3517", "realme narzo 50A Prime")
       put("RNE-AL00", "MAIMANG 6")
       put("RNE-L01", "Mate 10 lite")
       put("RNE-L02", "nova 2i")
@@ -16250,9 +16257,7 @@ object AndroidV {
       put("V2101", "V2054 / V2101")
       put("V2114", "vivo X70 Pro+")
       put("V2136", "V2110")
-      put("V2140", "V2131")
       put("V2144", "X80")
-      put("V2146", "V2135 / V2146")
       put("V2149", "Y21A")
       put("V2154A", "iQOO Neo5S")
       put("V2164A", "Y55s")
@@ -18746,6 +18751,9 @@ object AndroidLowercaseZ {
   }
 }
 fun lookupAndroidName(model: String): String {
+  if (model.isBlank()) {
+    return ""
+  }
   val result = when (model[0]) {
     '0' -> Android0.map[model]
     '1' -> Android1.map[model]

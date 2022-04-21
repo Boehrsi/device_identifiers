@@ -1,4 +1,4 @@
-// [2022-04-21 11:59:26.580346] Auto generated file, do not change.
+// [2022-04-21 14:36:33.704825] Auto generated file, do not change.
 
 late Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -228,7 +228,7 @@ late Map<String, String> _android2 = {
   '21091116C': 'Redmi Note 11 Pro',
   '21091116UC': 'Redmi Note 11 Pro+',
   '21091116UG': 'Redmi Note 11 Pro+ 5G',
-  '2109119BC': 'Xiaomi Civi',
+  '2109119BC': 'Xiaomi Civi / Xiaomi Civi 1S',
   '2109119DG': 'Xiaomi 11 Lite 5G NE',
   '2109119DI': 'Xiaomi 11 Lite NE',
   '211033MI': 'POCO C31',
@@ -1449,6 +1449,7 @@ late Map<String, String> _androidA = {
   'ANE-LX2J': 'HUAWEI P20 Lite',
   'ANE-LX3': 'P20 lite',
   'ANE-TL00': 'nova 3e',
+  'ANY-LX1': 'HONOR Magic4 Lite',
   'ANY-LX2': 'HONOR X9',
   'ANY-NX1': 'HONOR Magic 4 Lite 5G / HONOR X9 5G',
   'AO5510': 'Yureka',
@@ -3114,6 +3115,7 @@ late Map<String, String> _androidC = {
   'CPH2285': 'F19 Pro',
   'CPH2303': 'A54 5G',
   'CPH2305': 'Find X5 Pro',
+  'CPH2307': 'Find X5',
   'CPH2321': 'OPPO A53s 5G',
   'CPN-AL00': 'HUAWEI MediaPad M3 Lite',
   'CPN-L09': 'HUAWEI MediaPad M3 Lite',
@@ -12129,8 +12131,13 @@ late Map<String, String> _androidR = {
   'RMX3475': 'realme V25',
   'RMX3493': 'realme 9i / realme 9i	',
   'RMX3501': 'realme C31',
+  'RMX3502': 'realme C31',
+  'RMX3503': 'realme C31',
   'RMX3511': 'realme C35',
+  'RMX3512': 'realme C35',
+  'RMX3513': 'realme C35',
   'RMX3516': 'realme narzo 50A Prime',
+  'RMX3517': 'realme narzo 50A Prime',
   'RNE-AL00': 'MAIMANG 6',
   'RNE-L01': 'Mate 10 lite',
   'RNE-L02': 'nova 2i',
@@ -16194,9 +16201,7 @@ late Map<String, String> _androidV = {
   'V2101': 'V2054 / V2101',
   'V2114': 'vivo X70 Pro+',
   'V2136': 'V2110',
-  'V2140': 'V2131',
   'V2144': 'X80',
-  'V2146': 'V2135 / V2146',
   'V2149': 'Y21A',
   'V2154A': 'iQOO Neo5S',
   'V2164A': 'Y55s',
@@ -18582,6 +18587,9 @@ late Map<String, String> _androidz = {
   'zx70': 'ZX70',
 };
 String lookupAndroidName(String model) {
+  if (model.isEmpty) {
+    return "";
+  }
   String? result;
   final chunkKey = model.toString()[0];
   switch (chunkKey) {
