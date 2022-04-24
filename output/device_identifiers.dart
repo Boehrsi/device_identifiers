@@ -1,4 +1,4 @@
-// [2022-04-21 14:36:33.704825] Auto generated file, do not change.
+// [2022-04-24 02:34:45.479855] Auto generated file, do not change.
 
 late Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -1451,7 +1451,7 @@ late Map<String, String> _androidA = {
   'ANE-TL00': 'nova 3e',
   'ANY-LX1': 'HONOR Magic4 Lite',
   'ANY-LX2': 'HONOR X9',
-  'ANY-NX1': 'HONOR Magic 4 Lite 5G / HONOR X9 5G',
+  'ANY-NX1': 'HONOR Magic 4 Lite 5G / HONOR Magic4 Lite 5G / HONOR X9 5G',
   'AO5510': 'Yureka',
   'AOSP on IA Emulator': 'Emualtor',
   'AOSP on x86': 'gcar emulator',
@@ -12361,6 +12361,7 @@ late Map<String, String> _androidS = {
   'SA 2K TV': 'South America',
   'SA 4K Android TV': 'JVC',
   'SAH55': 'TAP-POS',
+  'SAH55AM': 'tap-POS-AM',
   'SAMSUNG-EK-GC100': 'Galaxy Camera',
   'SAMSUNG-SGH-I257': 'Galaxy S4 Mini',
   'SAMSUNG-SGH-I317': 'Galaxy Note II / Galaxy Note2',

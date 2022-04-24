@@ -1,4 +1,4 @@
-// [2022-04-21 14:36:33.704825] Auto generated file, do not change.
+// [2022-04-24 02:34:45.479855] Auto generated file, do not change.
 
 object Ios {
   internal val map by lazy {
@@ -1484,7 +1484,7 @@ object AndroidA {
       put("ANE-TL00", "nova 3e")
       put("ANY-LX1", "HONOR Magic4 Lite")
       put("ANY-LX2", "HONOR X9")
-      put("ANY-NX1", "HONOR Magic 4 Lite 5G / HONOR X9 5G")
+      put("ANY-NX1", "HONOR Magic 4 Lite 5G / HONOR Magic4 Lite 5G / HONOR X9 5G")
       put("AO5510", "Yureka")
       put("AOSP on IA Emulator", "Emualtor")
       put("AOSP on x86", "gcar emulator")
@@ -12415,6 +12415,7 @@ object AndroidS {
       put("SA 2K TV", "South America")
       put("SA 4K Android TV", "JVC")
       put("SAH55", "TAP-POS")
+      put("SAH55AM", "tap-POS-AM")
       put("SAMSUNG-EK-GC100", "Galaxy Camera")
       put("SAMSUNG-SGH-I257", "Galaxy S4 Mini")
       put("SAMSUNG-SGH-I317", "Galaxy Note II / Galaxy Note2")
