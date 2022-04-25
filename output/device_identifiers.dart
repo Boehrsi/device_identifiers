@@ -1,4 +1,4 @@
-// [2022-04-24 02:34:45.479855] Auto generated file, do not change.
+// [2022-04-25 11:30:52.848387] Auto generated file, do not change.
 
 late Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -3528,7 +3528,7 @@ late Map<String, String> _androidD = {
   'DM-01H': 'Disney Mobile on docomo DM-01H',
   'DM-01J': 'Disney Mobile on docomo DM-01J',
   'DM014SH': 'Disney Mobile DM014SH',
-  'DM65UXR': 'DM65UXR\DM65USR\DM85UXR',
+  'DM65UXR': 'DM65UXR\\DM65USR\\DM85UXR',
   'DMC-CM1': 'LUMIX CM1',
   'DMTAB-IN08A': 'DreamTab HD8 Tablet',
   'DMTAB-NV08B': 'DreamTab HD8 Tablet',
@@ -10649,6 +10649,7 @@ late Map<String, String> _androidN = {
   'Notepad_Go_801': 'NotepadGo801 / Notepad_Go_801',
   'Notepad_Go_801_EEA': 'NotepadGo801_EEA / Notepad_Go_801_EEA',
   'Now': 'Danamic Now',
+  'Now TV Android TV 3103A': '3103A',
   'Nura 2': 'Nura2',
 };
 late Map<String, String> _androidO = {
@@ -12129,6 +12130,7 @@ late Map<String, String> _androidR = {
   'RMX3471': 'realme 9Pro 5G',
   'RMX3472': 'realme 9Pro 5G',
   'RMX3475': 'realme V25',
+  'RMX3491': 'realme 9i',
   'RMX3493': 'realme 9i / realme 9i	',
   'RMX3501': 'realme C31',
   'RMX3502': 'realme C31',
@@ -12138,6 +12140,8 @@ late Map<String, String> _androidR = {
   'RMX3513': 'realme C35',
   'RMX3516': 'realme narzo 50A Prime',
   'RMX3517': 'realme narzo 50A Prime',
+  'RMX3560': '真我 GT NEO 3',
+  'RMX3562': '真我 GT NEO  3  150W',
   'RNE-AL00': 'MAIMANG 6',
   'RNE-L01': 'Mate 10 lite',
   'RNE-L02': 'nova 2i',

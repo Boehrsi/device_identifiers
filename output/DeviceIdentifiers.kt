@@ -1,4 +1,4 @@
-// [2022-04-24 02:34:45.479855] Auto generated file, do not change.
+// [2022-04-25 11:30:52.848387] Auto generated file, do not change.
 
 object Ios {
   internal val map by lazy {
@@ -10690,6 +10690,7 @@ object AndroidN {
       put("Notepad_Go_801", "NotepadGo801 / Notepad_Go_801")
       put("Notepad_Go_801_EEA", "NotepadGo801_EEA / Notepad_Go_801_EEA")
       put("Now", "Danamic Now")
+      put("Now TV Android TV 3103A", "3103A")
       put("Nura 2", "Nura2")
     }
   }
@@ -12181,6 +12182,7 @@ object AndroidR {
       put("RMX3471", "realme 9Pro 5G")
       put("RMX3472", "realme 9Pro 5G")
       put("RMX3475", "realme V25")
+      put("RMX3491", "realme 9i")
       put("RMX3493", "realme 9i / realme 9i	")
       put("RMX3501", "realme C31")
       put("RMX3502", "realme C31")
@@ -12190,6 +12192,8 @@ object AndroidR {
       put("RMX3513", "realme C35")
       put("RMX3516", "realme narzo 50A Prime")
       put("RMX3517", "realme narzo 50A Prime")
+      put("RMX3560", "真我 GT NEO 3")
+      put("RMX3562", "真我 GT NEO  3  150W")
       put("RNE-AL00", "MAIMANG 6")
       put("RNE-L01", "Mate 10 lite")
       put("RNE-L02", "nova 2i")
