@@ -1,6 +1,6 @@
-// [2022-06-05 02:51:02.877649] Auto generated file, do not change.
+// [2022-06-06 11:20:42.395396] Auto generated file, do not change.
 
-late Map<String, String> _iOs = {
+Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
   'iPhone1,2': 'iPhone 3G',
   'iPhone2,1': 'iPhone 3GS',
@@ -124,7 +124,7 @@ late Map<String, String> _iOs = {
   'iPad14,2': 'iPad mini (6th generation) Wi-Fi + Cellular',
 };
 String lookupIosName(String model) => _iOs[model] ?? model;
-late Map<String, String> _android0 = {
+Map<String, String> _android0 = {
   '001DL': 'Streak',
   '001HT': 'Desire HD',
   '003Z': 'Blade',
@@ -134,7 +134,7 @@ late Map<String, String> _android0 = {
   '0PJA2': 'One M9',
   '0PM92': 'Desire 626s',
 };
-late Map<String, String> _android1 = {
+Map<String, String> _android1 = {
   '1': 'mu 1',
   '10.1Myros': 'VP100+',
   '100003561': '	onn_100003561',
@@ -181,7 +181,7 @@ late Map<String, String> _android1 = {
   '1DY4G': '1DY4G_eea',
   '1EY': 'M-SP1EY',
 };
-late Map<String, String> _android2 = {
+Map<String, String> _android2 = {
   '2000_000170_00': 'rephone',
   '2013022': 'Hong Mi',
   '2013023': 'Redmi',
@@ -293,7 +293,7 @@ late Map<String, String> _android2 = {
   '2Q9U100': 'HTC Desire 20+',
   '2QAG100': 'HTC Desire 21 Pro 5G / HTC Desire 21 pro 5G',
 };
-late Map<String, String> _android3 = {
+Map<String, String> _android3 = {
   '301F': 'ARROWS A SoftBank 301F',
   '302HW': 'P6S-L04',
   '302KC': 'DIGNO T',
@@ -304,7 +304,7 @@ late Map<String, String> _android3 = {
   '3917JR': 'Rakuten BIG s',
   '3G': '3G MY8300',
 };
-late Map<String, String> _android4 = {
+Map<String, String> _android4 = {
   '4003A': 'PIXI3(4)',
   '4003J': 'PIXI3(4)',
   '4009A': 'ALCATEL ONETOUCH PIXI 3 (3.5)',
@@ -418,7 +418,7 @@ late Map<String, String> _android4 = {
   '4KTV-JUP': 'Panasonic',
   '4S806_Z31S': 'TH-43JX580C',
 };
-late Map<String, String> _android5 = {
+Map<String, String> _android5 = {
   '5001A': 'Alcatel 1V',
   '5001D_EEA': 'Alcatel 1V',
   '5001D_RU': 'Alcatel 1V',
@@ -763,7 +763,7 @@ late Map<String, String> _android5 = {
   '5701': 'ADVAN G2 plus',
   '5S': '5_S',
 };
-late Map<String, String> _android6 = {
+Map<String, String> _android6 = {
   '6001': 'G3',
   '6002': 'G3 Pro',
   '6003': 'G5 Elite',
@@ -827,7 +827,7 @@ late Map<String, String> _android6 = {
   '65TR3BF': 'TR3BF',
   '6801': 'GX',
 };
-late Map<String, String> _android7 = {
+Map<String, String> _android7 = {
   '7008': 'X7 Pro',
   '701HW': 'HUAWEI MediaPad M3 Lite',
   '701LV': 'Lenovo TAB4',
@@ -878,7 +878,7 @@ late Map<String, String> _android7 = {
   '7WC1': 'Koral',
   '7WD1': 'Koral',
 };
-late Map<String, String> _android8 = {
+Map<String, String> _android8 = {
   '80-1': 'Maxwell 10 / Maxwell-10',
   '8001': 'G-Tab',
   '8002': 'TAB 8',
@@ -964,7 +964,7 @@ late Map<String, String> _android8 = {
   '8TT-A': '8TT-A_EEA',
   '8WC1': 'Koral',
 };
-late Map<String, String> _android9 = {
+Map<String, String> _android9 = {
   '9 Pro': '9_Pro',
   '9 inch SDU': 'SDU',
   '9007A': 'ONETOUCH PIXI3(7)',
@@ -1047,7 +1047,7 @@ late Map<String, String> _android9 = {
   '9DTB7': 'Hipstreet 9DTB7 / Lazer MY9308P',
   '9S61Z_ZQ20S': '43GX580C',
 };
-late Map<String, String> _androidA = {
+Map<String, String> _androidA = {
   'A0001': 'One',
   'A001KC': 'かんたんスマホ２',
   'A001LG': 'V60 ThinQ',
@@ -2219,7 +2219,7 @@ late Map<String, String> _androidA = {
   'Azumi_V65': 'Azumi V65',
   'Azumi_V65_PLUS': 'Azumi V65+',
 };
-late Map<String, String> _androidB = {
+Map<String, String> _androidB = {
   'B BOT 50': 'B bot 50',
   'B BOT 550': 'B bot 550',
   'B UHD Android TV': 'Continental Edison',
@@ -2760,7 +2760,7 @@ late Map<String, String> _androidB = {
   'Bush Spira E2X 5" Smartphone': 'Spira E2X 5\'\'',
   'Byybuo': 'TAB_MAX_7',
 };
-late Map<String, String> _androidC = {
+Map<String, String> _androidC = {
   'C Bot Tab 100': 'C bot tab 100',
   'C Bot Tab 70': 'C bot tab 70',
   'C-6': 'C_5',
@@ -3427,7 +3427,7 @@ late Map<String, String> _androidC = {
   'Cynus_F10': 'Cynus F10',
   'Cynus_F9_4G': 'Cynus F9 4G',
 };
-late Map<String, String> _androidD = {
+Map<String, String> _androidD = {
   'D000-000001-B01': 'LifeTouch S',
   'D000-000001-B02': 'LifeTouch S',
   'D000-000001-C01': 'LifeTouch S',
@@ -3702,7 +3702,7 @@ late Map<String, String> _androidD = {
   'Dyon 2K Android TV': 'Dyon',
   'Dyon 4K Android TV': 'Dyon',
 };
-late Map<String, String> _androidE = {
+Map<String, String> _androidE = {
   'E-Tab 4G': 'chagall',
   'E-tel i10': 'E-tel_i10',
   'E-tel i240': 'i240',
@@ -4093,7 +4093,7 @@ late Map<String, String> _androidE = {
   'Express3': 'Sico Express 3',
   'EyeOnGo': 'EyeOnGo10',
 };
-late Map<String, String> _androidF = {
+Map<String, String> _androidF = {
   'F VIZZION TV': 'SA / vizzion',
   'F and U Android TV': 'Greece',
   'F-01D': 'ARROWS Tab LTE F-01D',
@@ -4406,7 +4406,7 @@ late Map<String, String> _androidF = {
   'Fusion5_F104B': 'Fusion5',
   'Fusion5_F104E': 'Fusion5_F104E_EEA',
 };
-late Map<String, String> _androidG = {
+Map<String, String> _androidG = {
   'G-TiDE FANS7': 'FANS7',
   'G-TiDE_H1': 'G-TiDE_H1_1 / G-TiDE_H1_2 / G-TiDE_H1_3 / G-TiDE_H1_4',
   'G-TiDE_H1_4G': 'G-TiDE_H1_4G / PL1080',
@@ -5081,7 +5081,7 @@ late Map<String, String> _androidG = {
   'Gtel X5': 'X5',
   'Gtel X5plus': 'X5plus',
 };
-late Map<String, String> _androidH = {
+Map<String, String> _androidH = {
   'H1003_LTE_PRO': 'Viva H1003 LTE PRO / Viva H1003 LTE PRO/B6',
   'H1003_LTE_PRO1': 'Viva H1003 LTE PRO/1 / Viva H1003 LTE PRO/1-64GB',
   'H1003_LTE_PRO3': 'Viva H1003 LTE PRO3',
@@ -6469,7 +6469,7 @@ late Map<String, String> _androidH = {
   'Hyundai_Eternity_G57': 'Eternity_G57',
   'Hyundai_Eternity_G57L': 'Hyundai_Eternity_G57',
 };
-late Map<String, String> _androidI = {
+Map<String, String> _androidI = {
   'I-K1': 'ULALA',
   'I10A-LE': 'Leader I10A-LE',
   'I10_Pro': 'I10_Pro_EEA / I10_Pro_ROW',
@@ -7028,7 +7028,7 @@ late Map<String, String> _androidI = {
   'Ixion X150': 'DEXP Ixion X150',
   'Ixion XL155': 'XL155',
 };
-late Map<String, String> _androidJ = {
+Map<String, String> _androidJ = {
   'J20': 'JVC J20',
   'J3': 'J3 / J3_EEA',
   'J3173': 'Xperia Ace',
@@ -7117,7 +7117,7 @@ late Map<String, String> _androidJ = {
   'Jupiter': 'AV Receiver / Car Navigation',
   'Just5': 'Konrow',
 };
-late Map<String, String> _androidK = {
+Map<String, String> _androidK = {
   'K-Elec 4K Android TV': 'K-ELEC',
   'K-LITE_NEXT_M1': 'K-LITE NEXT M1',
   'K-Lite F1+4G': 'F1+4G',
@@ -7437,7 +7437,7 @@ late Map<String, String> _androidK = {
   'KurioPhone': 'Kurio Phone',
   'Kyivstar Spark': 'Blade',
 };
-late Map<String, String> _androidL = {
+Map<String, String> _androidL = {
   'L-01D': 'Optimus LTE',
   'L-01E': 'LG Optimus G',
   'L-01J': 'V20 PRO',
@@ -9419,7 +9419,7 @@ late Map<String, String> _androidL = {
   'Luno': 'Y330-U01 / Luno',
   'Luvo 001': '1',
 };
-late Map<String, String> _androidM = {
+Map<String, String> _androidM = {
   'M BOT 551': 'M bot 551',
   'M BOT TAB 100': 'M bot tab 100',
   'M BOT TAB 101': 'M bot tab 101',
@@ -10459,7 +10459,7 @@ late Map<String, String> _androidM = {
   'Myria_Wide_2': 'Myria Wide 2',
   'Myria_Wide_4G': 'Myria Wide 4G',
 };
-late Map<String, String> _androidN = {
+Map<String, String> _androidN = {
   'N-01D': 'MEDIAS PP N-01D',
   'N-02E': 'MEDIAS U N-02E',
   'N-03E': 'Disney Mobile on docomoN-03E',
@@ -10739,7 +10739,7 @@ late Map<String, String> _androidN = {
   'Now TV Android TV 3103A': '3103A',
   'Nura 2': 'Nura2',
 };
-late Map<String, String> _androidO = {
+Map<String, String> _androidO = {
   'O2': 'FONOS O2',
   'O3': 'O3_EEA',
   'OBASMART_3': 'OBASMART 3',
@@ -10977,7 +10977,7 @@ late Map<String, String> _androidO = {
   'Orinoquia Gran Roraima S7-702u': 'Youth',
   'Orinoquia Roraima S7-932u': 'S7',
 };
-late Map<String, String> _androidP = {
+Map<String, String> _androidP = {
   'P-02E': 'ELUGA X',
   'P-03E': 'ELUGA P',
   'P-06D': 'ELUGA V',
@@ -11798,7 +11798,7 @@ late Map<String, String> _androidP = {
   'Pure1': 'M-HORSE',
   'Pyxis': 'MI CC 9 / Pyxis / SEI500TV',
 };
-late Map<String, String> _androidQ = {
+Map<String, String> _androidQ = {
   'Q Explorist HR': 'Wear',
   'Q Marshal': 'Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan',
   'Q Sport 41': 'Fossil Sport',
@@ -11962,7 +11962,7 @@ late Map<String, String> _androidQ = {
   'Quick 5.0': 'Quick_5_0',
   'Quicktab': 'QUICKTAB',
 };
-late Map<String, String> _androidR = {
+Map<String, String> _androidR = {
   'R1 PLUS': 'R1 PLUS / R1 Plus',
   'R1 Pro': 'R1_Pro',
   'R10': 'R10 / R10E',
@@ -12326,7 +12326,7 @@ late Map<String, String> _androidR = {
   'Rugged Tablet': 'TDI 600',
   'Runway': 'Wear',
 };
-late Map<String, String> _androidS = {
+Map<String, String> _androidS = {
   'S TAB 10\'\' II': 'VT10E2',
   'S01-orange': 'STYLISTIC S01',
   'S1': 'S1 / Flair S1 / Android One S1',
@@ -15348,7 +15348,7 @@ late Map<String, String> _androidS = {
   'Symphony Z50': 'Symphony_Z50',
   'Symphony Z9': 'Symphony_Z9',
 };
-late Map<String, String> _androidT = {
+Map<String, String> _androidT = {
   'T-01C': 'REGZA Phone T-01C',
   'T-01D': 'REGZA Phone T-01D',
   'T-02D': 'REGZA Phone T-02D',
@@ -16229,7 +16229,7 @@ late Map<String, String> _androidT = {
   'Twist Tab': 'Twist Tab / Twist Tab Kids',
   'Twist Tab Kids': 'Twist Tab / Twist Tab Kids',
 };
-late Map<String, String> _androidU = {
+Map<String, String> _androidU = {
   'U1 MINI': 'U1_MINI',
   'U2': 'HCL ME TABLET PC U2 / U2',
   'U20a': 'Xperia X10 mini pro',
@@ -16319,7 +16319,7 @@ late Map<String, String> _androidU = {
   'Unionaire Android TV 2K': 'Africa',
   'Unitel Smart 1': 'Unitel_Smart_1',
 };
-late Map<String, String> _androidV = {
+Map<String, String> _androidV = {
   'V TAB 10\'\' LITE': 'VT10E2',
   'V TAB 2': 'VTAB2_3G',
   'V TAB 7.85\'\' LITE': 'VT785P2',
@@ -16781,7 +16781,7 @@ late Map<String, String> _androidV = {
   'VucaPad_N20_LTE_JP': 'Vucatimes',
   'Vyper PRO': 'VYPER PRO',
 };
-late Map<String, String> _androidW = {
+Map<String, String> _androidW = {
   'W-K130-BYT': 'Y50',
   'W-K130-EEA': 'Y50',
   'W-K130-OPE': 'Y50',
@@ -16973,7 +16973,7 @@ late Map<String, String> _androidW = {
   'Wooze_XL': 'Wooze XL',
   'Woxter_N70': 'Woxter',
 };
-late Map<String, String> _androidX = {
+Map<String, String> _androidX = {
   'X Bot Senior': 'XBOT_SENIOR',
   'X Pro': 'X Pro / X_Pro',
   'X-Max': 'X Max',
@@ -17302,7 +17302,7 @@ late Map<String, String> _androidX = {
   'Xylo P': 'Xylo  P',
   'Xylo X': 'Xylo X A6 / Xylo_X_TM',
 };
-late Map<String, String> _androidY = {
+Map<String, String> _androidY = {
   'Y10': 'Y10 / Y10_1 / Y10_1_EEA / Y10_EEA',
   'Y10 Premium': 'Y10_Premium',
   'Y220-U00': 'Y220',
@@ -17405,7 +17405,7 @@ late Map<String, String> _androidY = {
   'Ypy 7 - TB07FTA': 'YPY7 3G',
   'Ypy 7 - TB07STA': 'YPY7 wifi',
 };
-late Map<String, String> _androidZ = {
+Map<String, String> _androidZ = {
   'Z-Ultra': 'ZTE Blade A5 2020',
   'Z00D': 'ZenFone 2 (ZE500CL)',
   'Z08MK': 'VIPER-Z08MK',
@@ -17971,7 +17971,7 @@ late Map<String, String> _androidZ = {
   'Zumbo_S_2017_Lite': 'LAI Zumbo S 2017 Lite',
   'Zun X': 'Zun X / Zun X A6',
 };
-late Map<String, String> _androida = {
+Map<String, String> _androida = {
   'a37dj dugl': 'Desire 10 compact',
   'a5': 'Blade',
   'a500': 'A500',
@@ -17998,7 +17998,7 @@ late Map<String, String> _androida = {
   'atlas': 'Pixelbook',
   'atom': 'Redmi 10X',
 };
-late Map<String, String> _androidb = {
+Map<String, String> _androidb = {
   'b1-720': 'B1-720',
   'b1-721': 'B1-721',
   'ba101': 'BANDOTT / BandOTT',
@@ -18011,7 +18011,7 @@ late Map<String, String> _androidb = {
   'brown 2': 'Brown2',
   'brya': 'Intel Alder Lake Chromebook',
 };
-late Map<String, String> _androidc = {
+Map<String, String> _androidc = {
   'c71kw200': 'DIRECTV STREAM',
   'calgary': 'Devour',
   'caroline': 'Chromebook Pro',
@@ -18034,7 +18034,7 @@ late Map<String, String> _androidc = {
   'cyprus': 'moto e30',
   'cyprus64': 'TBD / moto e40',
 };
-late Map<String, String> _androidd = {
+Map<String, String> _androidd = {
   'd-41A': 'dtab d-41A',
   'dL1': 'ELUGA',
   'dTV01': 'M220',
@@ -18050,7 +18050,7 @@ late Map<String, String> _androidd = {
   'dtacPhoneX3': 'Phone X3',
   'dtac_Phone_S2': 'Phone S2 / dtac_Phone_S2',
 };
-late Map<String, String> _androide = {
+Map<String, String> _androide = {
   'e-tab4': 'E-tab 4',
   'e-tab_style_REV3': 'e-tab_style_rev.3',
   'e6': 'e6_plus',
@@ -18074,7 +18074,7 @@ late Map<String, String> _androide = {
   'era_4G': 'Era 4G',
   'era_X': 'Xolo Era X',
 };
-late Map<String, String> _androidf = {
+Map<String, String> _androidf = {
   'f100_65u': 'F100',
   'f400': 'F400',
   'falcon': 'Falcon',
@@ -18082,7 +18082,7 @@ late Map<String, String> _androidf = {
   'fizz': 'Chromebox',
   'freebit PandA': 'CINK KING',
 };
-late Map<String, String> _androidg = {
+Map<String, String> _androidg = {
   'g06': 'g06+',
   'galahad': 'Redmi 9',
   'globe': 'Asia / Europe / North America / South America',
@@ -18092,7 +18092,7 @@ late Map<String, String> _androidg = {
   'grunt': 'AMD Stoney Ridge Chromebook',
   'gucci': 'HM NOTE 1S CT',
 };
-late Map<String, String> _androidh = {
+Map<String, String> _androidh = {
   'h31': 'H-31',
   'h33': 'H-33',
   'haierATV': 'Haier Android TV',
@@ -18105,7 +18105,7 @@ late Map<String, String> _androidh = {
   'hsw4026atl': 'XStream Smart Box',
   'hudl ht7s3': 'Hudl HT7S3',
 };
-late Map<String, String> _androidi = {
+Map<String, String> _androidi = {
   'i-mobile IQ II': 'IQ II',
   'i-mobile IQ X2': 'i-mobile IQ X2A',
   'i-mobile IQ XA': 'i-mobile IQ X',
@@ -18380,18 +18380,18 @@ late Map<String, String> _androidi = {
   'ivvi i1-01': 'i1-01',
   'ivvi i3-M1': 'i3-M1',
 };
-late Map<String, String> _androidj = {
+Map<String, String> _androidj = {
   'jacuzzi': 'Mediatek MT8173 Chromebook',
   'jupiter': 'B.PROカーナビ / CyberNavi / Navigation',
 };
-late Map<String, String> _androidk = {
+Map<String, String> _androidk = {
   'kPad': 'kPad / Chosunbiz',
   'keeby': 'Intel Jasper Lake Chromebook',
   'kevin': 'Chromebook Plus',
   'kr101': 'viewing',
   'kukui': 'Mediatek MT8183 Tablet',
 };
-late Map<String, String> _androidl = {
+Map<String, String> _androidl = {
   'l3453': 'L5450C',
   'l4300': 'L4300',
   'l5400': 'L5450 / L5450/L5400 / L5450ME',
@@ -18414,7 +18414,7 @@ late Map<String, String> _androidl = {
   'logikids4': 'Logikids 4',
   'lotus': 'MI  PLAY',
 };
-late Map<String, String> _androidm = {
+Map<String, String> _androidm = {
   'm384wb': 'Wibox / WiboxTv',
   'malta': 'moto e(7) / moto e(7) power',
   'maltalsc': 'Lenovo K13 / moto e(7i) power',
@@ -18523,7 +18523,7 @@ late Map<String, String> _androidm = {
   'myPhone_Q-Smart_III': 'Q-Smart_III',
   'myTouch_4G_Slide': 'myTouch 4G Slide',
 };
-late Map<String, String> _androidn = {
+Map<String, String> _androidn = {
   'nJoy_Arcas_7': 'Arcas 7',
   'nJoy_Tityos_10': 'Tityos 10',
   'nJoy_Turnus_8': 'Turnus 8',
@@ -18540,7 +18540,7 @@ late Map<String, String> _androidn = {
   'nuvifone A50': 'Nuvifone',
   'nüvifone A50': 'Nuvifone',
 };
-late Map<String, String> _androido = {
+Map<String, String> _androido = {
   'octopus': 'Intel Gemini Lake Chromebook',
   'omega_lite_4': 'Omega Lite 4',
   'one touch D920': 'one touch D920 / one_touch_D920_ALIQ',
@@ -18557,14 +18557,14 @@ late Map<String, String> _androido = {
   'oraimo R401': 'R401',
   'oraimo R402': 'R402',
 };
-late Map<String, String> _androidp = {
+Map<String, String> _androidp = {
   'pad_d85': 'Haier',
   'pearl': 'NETBOX',
   'pine': 'Redmi  7A',
   'puff': 'Chromebox',
   'pulse': 'PULSE',
 };
-late Map<String, String> _androidr = {
+Map<String, String> _androidr = {
   'rammus': 'Intel Amber Lake Y Chromebook',
   'reeder_M10 Plus': 'reeder M10 Plus',
   'reeder_M7_Go': 'reeder M7',
@@ -18575,7 +18575,7 @@ late Map<String, String> _androidr = {
   'ref_SCTF': 'Smart Dios V8700',
   'rg730': 'RugGear rg730',
 };
-late Map<String, String> _androids = {
+Map<String, String> _androids = {
   's2': 'Turbo-X s2',
   's5Pro': 'Gini s5Pro',
   's6005X': 'verykool s6005x',
@@ -18603,7 +18603,7 @@ late Map<String, String> _androids = {
   'surface7': 'Active Surface',
   'sweam': 'Sweam',
 };
-late Map<String, String> _androidt = {
+Map<String, String> _androidt = {
   'telma i401': 'Telma i401 / telma_i401',
   'theaterv3': 'Theater v3',
   'thunderc': 'Optimus One',
@@ -18618,7 +18618,7 @@ late Map<String, String> _androidt = {
   'trogdor': 'Qualcomm SC7180 Chromebook',
   'twist neo': 'Twist Neo',
 };
-late Map<String, String> _androidu = {
+Map<String, String> _androidu = {
   'uie4027lgu': 'U+tv UHD3',
   'uiw4030dnm': 'NETBOX',
   'umts': 'Droid',
@@ -18626,7 +18626,7 @@ late Map<String, String> _androidu = {
   'ute7057lgu': 'U+tv Soundbar Black',
   'uvh1301': 'Kitchen Hub',
 };
-late Map<String, String> _androidv = {
+Map<String, String> _androidv = {
   'vernee_M5': 'M5',
   'verykool Luna II S4513': 's4513',
   'verykool Wave Pro s5021': 's5021',
@@ -18745,19 +18745,19 @@ late Map<String, String> _androidv = {
   'vsi8q_1': 'ViewPadi8Q',
   'vsi8q_1_coho': 'ViewPadi8Q',
 };
-late Map<String, String> _androidw = {
+Map<String, String> _androidw = {
   'weplus_3': 'weplus 3',
   'willow': 'Redmi Note 8T',
   'wolverine12': 'Wolverine12',
   'wolverine7': 'Wolverine7',
 };
-late Map<String, String> _androidx = {
+Map<String, String> _androidx = {
   'x600': 'Le1',
 };
-late Map<String, String> _androidy = {
+Map<String, String> _androidy = {
   'yes': 'Yes / yes',
 };
-late Map<String, String> _androidz = {
+Map<String, String> _androidz = {
   'zork': 'AMD Raven Ridge Chromebook',
   'zx70': 'ZX70',
 };
