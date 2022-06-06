@@ -3,7 +3,7 @@ import 'target_definition.dart';
 String outputFile = 'output/device_identifiers.dart';
 
 ChunkMapTemplate openAndroidMap =
-    (String chunkKey) => 'late Map<String, String> _android$chunkKey = {\n';
+    (String chunkKey) => 'Map<String, String> _android$chunkKey = {\n';
 String lookupAndroidHeader = '''String lookupAndroidName(String model) {
   if (model.isEmpty) {
     return "";
@@ -21,7 +21,7 @@ String lookupAndroidFooter = '''    default:
   return result ?? model;
 }\n''';
 
-String openIosMap = 'late Map<String, String> _iOs = {\n';
+String openIosMap = 'Map<String, String> _iOs = {\n';
 String lookupIosMap =
     'String lookupIosName(String model) => _iOs[model] ?? model;\n';
 
