@@ -1,4 +1,4 @@
-// [2022-06-06 11:20:42.395396] Auto generated file, do not change.
+// [2022-06-06 12:08:03.332314] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -6968,7 +6968,7 @@ Map<String, String> _androidI = {
   'Infinix X689B': 'Infinix HOT 10S',
   'Infinix X689C': 'Infinix HOT 10T',
   'Infinix X689D': 'Infinix HOT 10S NFC',
-  'Infinix X689F': 'HOT  11 / HOT 11',
+  'Infinix X689F': 'HOT / HOT 11',
   'Infinix X690': 'NOTE 7',
   'Infinix X690B': 'NOTE 7',
   'Infinix X690C': 'NOTE 7',
@@ -11262,7 +11262,7 @@ Map<String, String> _androidP = {
   'PENM00': 'Reno6 Pro+ 5G',
   'PENTA_73AAQ1': 'ETBA0692 / PENTA_73AAQ1',
   'PENTA_83AAQ2': 'ETBA0552',
-  'PERM00': 'A7x 中国版',
+  'PERM00': 'K7x 中国版',
   'PET 101-H332S-W': 'PET-101-H332S-W',
   'PET 1081-H232S': 'PET-1081-H232S',
   'PET 1081-LH332S': 'PET-1081-LH332S',
@@ -12236,7 +12236,7 @@ Map<String, String> _androidR = {
   'RMX3560': '真我 GT NEO 3',
   'RMX3561': 'realme GT NEO 3',
   'RMX3562': '真我 GT NEO  3  150W',
-  'RMX3563': 'realme GT NEO 3 150W / realme GT NEO 3 150w',
+  'RMX3563': 'realme GT NEO 3 150W',
   'RMX3571': 'narzo 50 5G / realme V23',
   'RMX3572': 'narzo 50 5G',
   'RMX3574': 'realme Q5i',
@@ -15533,6 +15533,7 @@ Map<String, String> _androidT = {
   'TB01': 'M620',
   'TB108W': 'Customer need debug',
   'TB128FU': '启天K10 Pro',
+  'TB128XC': '启天K10 Pro',
   'TB132FU': 'Lenovo Tab P11 Pro (2nd Gen)',
   'TB328FU': 'Lenovo Tab M10 (3rd Gen)',
   'TB328XU': 'Lenovo Tab M10 (3rd Gen)',

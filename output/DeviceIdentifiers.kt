@@ -1,4 +1,6 @@
-// [2022-06-06 11:20:42.395396] Auto generated file, do not change.
+// [2022-06-06 12:08:03.332314] Auto generated file, do not change.
+
+package com.example.package // Adjust to match your desired package
 
 object Ios {
   internal val map by lazy {
@@ -7012,7 +7014,7 @@ object AndroidI {
       put("Infinix X689B", "Infinix HOT 10S")
       put("Infinix X689C", "Infinix HOT 10T")
       put("Infinix X689D", "Infinix HOT 10S NFC")
-      put("Infinix X689F", "HOT  11 / HOT 11")
+      put("Infinix X689F", "HOT / HOT 11")
       put("Infinix X690", "NOTE 7")
       put("Infinix X690B", "NOTE 7")
       put("Infinix X690C", "NOTE 7")
@@ -11307,7 +11309,7 @@ object AndroidP {
       put("PENM00", "Reno6 Pro+ 5G")
       put("PENTA_73AAQ1", "ETBA0692 / PENTA_73AAQ1")
       put("PENTA_83AAQ2", "ETBA0552")
-      put("PERM00", "A7x 中国版")
+      put("PERM00", "K7x 中国版")
       put("PET 101-H332S-W", "PET-101-H332S-W")
       put("PET 1081-H232S", "PET-1081-H232S")
       put("PET 1081-LH332S", "PET-1081-LH332S")
@@ -12287,7 +12289,7 @@ object AndroidR {
       put("RMX3560", "真我 GT NEO 3")
       put("RMX3561", "realme GT NEO 3")
       put("RMX3562", "真我 GT NEO  3  150W")
-      put("RMX3563", "realme GT NEO 3 150W / realme GT NEO 3 150w")
+      put("RMX3563", "realme GT NEO 3 150W")
       put("RMX3571", "narzo 50 5G / realme V23")
       put("RMX3572", "narzo 50 5G")
       put("RMX3574", "realme Q5i")
@@ -15583,6 +15585,7 @@ object AndroidT {
       put("TB01", "M620")
       put("TB108W", "Customer need debug")
       put("TB128FU", "启天K10 Pro")
+      put("TB128XC", "启天K10 Pro")
       put("TB132FU", "Lenovo Tab P11 Pro (2nd Gen)")
       put("TB328FU", "Lenovo Tab M10 (3rd Gen)")
       put("TB328XU", "Lenovo Tab M10 (3rd Gen)")
