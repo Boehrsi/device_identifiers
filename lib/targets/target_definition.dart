@@ -21,6 +21,7 @@ class TargetDefinition {
     this.lookupIosMethod,
     this.closeMap,
     this.mapEntry,
+    this.additionalInformation,
   );
 
   final Type type;
@@ -33,4 +34,5 @@ class TargetDefinition {
   final String lookupIosMethod;
   final MapEntry mapEntry;
   final String closeMap;
+  final String additionalInformation;
 }

@@ -44,6 +44,9 @@ String _getAdjustedChunkKey(String chunkKey) =>
         ? "Lowercase${chunkKey.toUpperCase()}"
         : chunkKey;
 
+String _addtionalInformation =
+    'package com.example.package // Adjust to match your desired package\n\n';
+
 final targetKotlin = TargetDefinition(
   Type.kotlin,
   outputFile,
@@ -55,4 +58,5 @@ final targetKotlin = TargetDefinition(
   lookupIosMap,
   closeMap,
   mapEntry,
+  _addtionalInformation,
 );

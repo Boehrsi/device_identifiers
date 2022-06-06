@@ -22,6 +22,7 @@ main(List<String> args) async {
     final sink = file.openWrite();
 
     sink.write(information);
+    sink.write(target.additionalInformation);
     sink.writeIosIdentifiers(target, iOsData);
     sink.writeIosLookupMethod(target);
     sink.writeAndroidIdentifiers(target, androidData);

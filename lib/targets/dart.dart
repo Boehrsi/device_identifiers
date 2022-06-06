@@ -28,6 +28,8 @@ String lookupIosMap =
 MapEntry mapEntry = (String key, String value) => "  '$key': '$value', \n";
 String closeMap = '};\n';
 
+String _addtionalInformation = '';
+
 final targetDart = TargetDefinition(
   Type.dart,
   outputFile,
@@ -39,4 +41,5 @@ final targetDart = TargetDefinition(
   lookupIosMap,
   closeMap,
   mapEntry,
+  _addtionalInformation,
 );
