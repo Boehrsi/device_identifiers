@@ -45,7 +45,7 @@ String _getAdjustedChunkKey(String chunkKey) =>
         : chunkKey;
 
 String _addtionalInformation =
-    'package com.example.package // Adjust to match your desired package\n\n';
+    'package com.example.mypackage // Adjust to match your desired package\n\n';
 
 final targetKotlin = TargetDefinition(
   Type.kotlin,
