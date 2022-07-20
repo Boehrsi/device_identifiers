@@ -25,8 +25,7 @@ jobs:
         run: dart format output/device_identifiers.dart
 
       - name: Format Kotlin
-        run: curl -sSLO https://github.com/pinterest/ktlint/releases/download/0.46.1/ktlint && chmod a+x ktlint
-        run: ./ktlint -F output/DeviceIdentifiers.kt
+        run: curl -sSLO https://github.com/pinterest/ktlint/releases/download/0.46.1/ktlint && chmod a+x ktlint && ./ktlint -F output/DeviceIdentifiers.kt
 
       - name: Test
         run: dart test
