@@ -1,4 +1,4 @@
-// [2022-07-20 21:57:55.124779] Auto generated file, do not change.
+// [2022-07-24 03:14:15.767719] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -4458,6 +4458,7 @@ object AndroidF {
             put("Flix TV Box", "Flix  TV  Box")
             put("Flow 7S", "Flow_7S_EEA")
             put("Flow 9", "Flow_9_EEA")
+            put("FlowBox-F1", "FlowBox-F1 / Flowbox-F1")
             put("Fly Ego Art 2", "Ego Art 2")
             put("Fly IQ4405_Quad", "EVO Chic 1")
             put("Fly IQ4418 AF", "IQ4418")

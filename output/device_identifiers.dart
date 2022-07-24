@@ -1,4 +1,4 @@
-// [2022-07-20 21:57:55.124779] Auto generated file, do not change.
+// [2022-07-24 03:14:15.767719] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -4420,6 +4420,7 @@ Map<String, String> _androidF = {
   'Flix TV Box': 'Flix  TV  Box',
   'Flow 7S': 'Flow_7S_EEA',
   'Flow 9': 'Flow_9_EEA',
+  'FlowBox-F1': 'FlowBox-F1 / Flowbox-F1',
   'Fly Ego Art 2': 'Ego Art 2',
   'Fly IQ4405_Quad': 'EVO Chic 1',
   'Fly IQ4418 AF': 'IQ4418',
