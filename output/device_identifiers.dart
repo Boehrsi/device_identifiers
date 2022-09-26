@@ -1,4 +1,4 @@
-// [2022-09-25 03:40:25.793066] Auto generated file, do not change.
+// [2022-09-26 21:40:41.946913] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -1338,6 +1338,7 @@ Map<String, String> _androidA = {
   'AGE UHD Android TV': 'India',
   'AGM H1': 'AGM  H1',
   'AGM X2': 'AGM  X2 / AJM X2',
+  'AGM-W09HN': 'HONOR Pad X8 Lite',
   'AGM_H3': 'AGM H3',
   'AGM_H5': 'AGM H5',
   'AGORA XI': 'Kogan Agora XI',
@@ -1843,6 +1844,7 @@ Map<String, String> _androidA = {
   'AUM-TL20': 'Honor 7A',
   'AUPO Cute 75': 'AUPO_Cute_75_EEA',
   'AUPO_Zeus_10_Pro': 'AUPO_Zeus_10_Pro / AUPO_Zeus_10_Pro_ROW',
+  'AURA_Z': 'AURA Z',
   'AURII_XCITE': 'FIREFLY MOBILE',
   'AURUS III': 'ALCATEL ONE TOUCH 5020D',
   'AUTIOD9N': 'AUTOID9N',
@@ -9802,6 +9804,7 @@ Map<String, String> _androidM = {
   'M97': 'Matsunichi M97',
   'M9S_GO': 'ML_JI29_M9S_GO',
   'M9_3G': 'M9 3G',
+  'M9_WIFI': 'M9 WIFI',
   'M9_Wifi': 'M9 Wifi',
   'MAGELITE Android TV': 'Magelite android TV',
   'MAGELITE Android TV 2K': 'India',
@@ -10044,6 +10047,7 @@ Map<String, String> _androidM = {
   'MP0101635': 'MioTab MP0101635',
   'MP02': 'Power 5S / Power 5S EEA / Power 5S RU / Power 5S TR',
   'MP03': 'A13 Pro 5G / A13 Pro 5G EEA',
+  'MP04': 'A13 Pro Max 5G',
   'MP05': 'A13 / A13 EEA / A13 Pro / A13 Pro EEA / A13S / A13S EEA',
   'MP06':
       'Power 7 / Power 7 EEA / Power 7 Max / Power 7 Max EEA / Power 7S / Power 7S EEA',
@@ -10514,6 +10518,7 @@ Map<String, String> _androidM = {
   'Mito A67': 'A67',
   'MobiGo2': 'Mobigo2',
   'MobiGo2L': 'Mobigo2L',
+  'MobiGo2PP': 'MobiGo 2+ Pro',
   'Mobiistar Zumbo J2': 'Mobiistar_Zumbo_J2',
   'Mobiistar_Zumbo_J2': 'ZUMBO J2',
   'Mobile Sosh': 'ONE TOUCH 6012D',
@@ -13336,6 +13341,7 @@ Map<String, String> _androidS = {
   'SKY_KID1': 'SKY KID1',
   'SL-TAB07116': 'SMARTLIFE',
   'SL-TAB10232': 'SMARTLIFE',
+  'SL004T': 'Koobee_K100',
   'SL100EA': '	DEMK4120 / DEMK4115',
   'SL101AE': 'DEMK4119',
   'SL104D': 'CSSL104DBL16',
@@ -15091,6 +15097,7 @@ Map<String, String> _androidS = {
   'SM-W2020': '三星W20',
   'SM-W2021': '三星 W21 5G',
   'SM-W2022': '三星W22 5G',
+  'SM-W7023': '心系天下 三星 W23 Flip',
   'SM-X200': 'Galaxy Tab A8',
   'SM-X205': 'Galaxy Tab A8',
   'SM-X205C': 'Galaxy Tab A8',
@@ -15123,7 +15130,7 @@ Map<String, String> _androidS = {
   'SMART PLUS LTE': 'Smart Plus Lte',
   'SMART Start': 'V815W',
   'SMART Surf2 4G': 'Smart Surf2 4G',
-  'SMART TV': 'AIWA / hyundai / SA',
+  'SMART TV': 'AIWA / hyundai / FASTLIFE / SA',
   'SMART63': 'Smart 63',
   'SMART66': 'Smart 66',
   'SMARTTVBOX': 'SmartTV Box / SmartTVBox',
@@ -18635,6 +18642,7 @@ Map<String, String> _androidi = {
   'itel A611W': 'itel A57',
   'itel A611WP': 'itel A57 2GB',
   'itel A62': 'A62',
+  'itel A631L': 'itel A49 Play',
   'itel A631W':
       'A58 Lite / Itel A58 Lite / itel  A58 Lite / itel A58 Lite / itel A58 lite',
   'itel A661L': 'A49',

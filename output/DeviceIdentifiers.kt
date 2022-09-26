@@ -1,4 +1,4 @@
-// [2022-09-25 03:40:25.793066] Auto generated file, do not change.
+// [2022-09-26 21:40:41.946913] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -1380,6 +1380,7 @@ object AndroidA {
             put("AGE UHD Android TV", "India")
             put("AGM H1", "AGM  H1")
             put("AGM X2", "AGM  X2 / AJM X2")
+            put("AGM-W09HN", "HONOR Pad X8 Lite")
             put("AGM_H3", "AGM H3")
             put("AGM_H5", "AGM H5")
             put("AGORA XI", "Kogan Agora XI")
@@ -1870,6 +1871,7 @@ object AndroidA {
             put("AUM-TL20", "Honor 7A")
             put("AUPO Cute 75", "AUPO_Cute_75_EEA")
             put("AUPO_Zeus_10_Pro", "AUPO_Zeus_10_Pro / AUPO_Zeus_10_Pro_ROW")
+            put("AURA_Z", "AURA Z")
             put("AURII_XCITE", "FIREFLY MOBILE")
             put("AURUS III", "ALCATEL ONE TOUCH 5020D")
             put("AUTIOD9N", "AUTOID9N")
@@ -9846,6 +9848,7 @@ object AndroidM {
             put("M97", "Matsunichi M97")
             put("M9S_GO", "ML_JI29_M9S_GO")
             put("M9_3G", "M9 3G")
+            put("M9_WIFI", "M9 WIFI")
             put("M9_Wifi", "M9 Wifi")
             put("MAGELITE Android TV", "Magelite android TV")
             put("MAGELITE Android TV 2K", "India")
@@ -10087,6 +10090,7 @@ object AndroidM {
             put("MP0101635", "MioTab MP0101635")
             put("MP02", "Power 5S / Power 5S EEA / Power 5S RU / Power 5S TR")
             put("MP03", "A13 Pro 5G / A13 Pro 5G EEA")
+            put("MP04", "A13 Pro Max 5G")
             put("MP05", "A13 / A13 EEA / A13 Pro / A13 Pro EEA / A13S / A13S EEA")
             put("MP06", "Power 7 / Power 7 EEA / Power 7 Max / Power 7 Max EEA / Power 7S / Power 7S EEA")
             put("MP07", "UMIDIGI C1 / UMIDIGI C1 EEA")
@@ -10555,6 +10559,7 @@ object AndroidM {
             put("Mito A67", "A67")
             put("MobiGo2", "Mobigo2")
             put("MobiGo2L", "Mobigo2L")
+            put("MobiGo2PP", "MobiGo 2+ Pro")
             put("Mobiistar Zumbo J2", "Mobiistar_Zumbo_J2")
             put("Mobiistar_Zumbo_J2", "ZUMBO J2")
             put("Mobile Sosh", "ONE TOUCH 6012D")
@@ -13383,6 +13388,7 @@ object AndroidS {
             put("SKY_KID1", "SKY KID1")
             put("SL-TAB07116", "SMARTLIFE")
             put("SL-TAB10232", "SMARTLIFE")
+            put("SL004T", "Koobee_K100")
             put("SL100EA", "	DEMK4120 / DEMK4115")
             put("SL101AE", "DEMK4119")
             put("SL104D", "CSSL104DBL16")
@@ -15138,6 +15144,7 @@ object AndroidS {
             put("SM-W2020", "三星W20")
             put("SM-W2021", "三星 W21 5G")
             put("SM-W2022", "三星W22 5G")
+            put("SM-W7023", "心系天下 三星 W23 Flip")
             put("SM-X200", "Galaxy Tab A8")
             put("SM-X205", "Galaxy Tab A8")
             put("SM-X205C", "Galaxy Tab A8")
@@ -15170,7 +15177,7 @@ object AndroidS {
             put("SMART PLUS LTE", "Smart Plus Lte")
             put("SMART Start", "V815W")
             put("SMART Surf2 4G", "Smart Surf2 4G")
-            put("SMART TV", "AIWA / hyundai / SA")
+            put("SMART TV", "AIWA / hyundai / FASTLIFE / SA")
             put("SMART63", "Smart 63")
             put("SMART66", "Smart 66")
             put("SMARTTVBOX", "SmartTV Box / SmartTVBox")
@@ -18729,6 +18736,7 @@ object AndroidLowercaseI {
             put("itel A611W", "itel A57")
             put("itel A611WP", "itel A57 2GB")
             put("itel A62", "A62")
+            put("itel A631L", "itel A49 Play")
             put("itel A631W", "A58 Lite / Itel A58 Lite / itel  A58 Lite / itel A58 Lite / itel A58 lite")
             put("itel A661L", "A49")
             put("itel A661W", "A58")
