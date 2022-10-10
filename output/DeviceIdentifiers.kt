@@ -1,4 +1,4 @@
-// [2022-10-09 03:34:37.375050] Auto generated file, do not change.
+// [2022-10-10 16:04:12.444965] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -322,6 +322,7 @@ object Android2 {
             put("220733SL", "Redmi A1")
             put("220743FI", "Redmi A1+")
             put("22081212C", "Xiaomi 12T Pro")
+            put("22081212UG", "Xiaomi 12T Pro")
             put("22081281AC", "Xiaomi Pad 5 Pro")
             put("22087RA4DI", "Redmi Note 11 SE")
             put("22M Gathers", "Gathers")
@@ -15558,7 +15559,7 @@ object AndroidS {
             put("SmartTAB1007", "SmartTab1007")
             put("SmartTV", "MB300")
             put("SmartTV 4K", "OEM50ANDROID22/OEM55ANDROID22 / U6H/A6H/U6G1 / huangshan / songshan / X7500 / 50 google tv/58 google tv/65 google tv/75 google tv / HIKA5")
-            put("SmartTV 4K FFM", "A65 / A6H/E6H/A6600H/A6500H/E7H/A6HA / U60H / U6H / U70H/U8H/U80H/U85H / huangshan / X9500")
+            put("SmartTV 4K FFM", "A65 / A6H/E6H/A6600H/A6500H/E7H/A6HA / SmartTV 4K FFM / U60H / U6H / U70H/U8H/U80H/U85H / huangshan / X9500")
             put("SmartTV 8K FFM", "9980")
             put("SmartTV FFM", "taishan-jpT")
             put("SmartTab1005", "Smart TAB 1005")
@@ -15895,7 +15896,7 @@ object AndroidT {
             put("TB310FU", "Lenovo Tab M9")
             put("TB328FU", "Lenovo Tab M10 (3rd Gen)")
             put("TB328XU", "Lenovo Tab M10 (3rd Gen)")
-            put("TB350FU", "Lenovo Tab P11 (2nd Gen)")
+            put("TB350FU", "Lenovo Tab P11 (2nd Gen) / 小新Pad Plus 2023")
             put("TB350XU", "Lenovo Tab P11 (2nd Gen)")
             put("TB717G", "TB717G / TB717G_8_1")
             put("TBD", "Redmi Note 10T 5G")
