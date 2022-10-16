@@ -1,4 +1,4 @@
-// [2022-10-10 16:04:12.444965] Auto generated file, do not change.
+// [2022-10-16 03:45:53.295348] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -305,10 +305,12 @@ Map<String, String> _android2 = {
   '220733SG': 'Redmi A1',
   '220733SI': 'Redmi A1',
   '220733SL': 'Redmi A1',
+  '220733SPI': 'POCO C50',
   '220743FI': 'Redmi A1+',
   '22081212C': 'Xiaomi 12T Pro',
   '22081212UG': 'Xiaomi 12T Pro',
   '22081281AC': 'Xiaomi Pad 5 Pro',
+  '22081283G': 'Redmi Pad',
   '22087RA4DI': 'Redmi Note 11 SE',
   '22M Gathers': 'Gathers',
   '22in-I-Series-4-Value': '22in-I-Series 4-Value',
@@ -1172,6 +1174,7 @@ Map<String, String> _androidA = {
   'A202SO': 'Xperia 10 IV',
   'A203SO': 'Xperia Ace III',
   'A204SH': 'AQUOS wish2',
+  'A208SH': 'AQUOS sense7 plus',
   'A20Pro': 'Blackview A20 Pro',
   'A20S PRO': 'A20S_PRO',
   'A20_Lite': 'A20 Lite',
@@ -4503,6 +4506,7 @@ Map<String, String> _androidF = {
   'ForwardRuby': 'Ruby',
   'Fossil 5e': 'Fossil Gen 5e',
   'Fossil G5L': 'Fossil Gen 5 LTE',
+  'Fossil Gen 6 Venture Edition': 'Fossil Gen 6',
   'Fossil SS': 'Fossil Gen 5e',
   'FreeTAB 8015 IPS X4': 'FreeTAB 8015 IPS X4 LTE',
   'Freebox Player Mini': 'Mini 4K',
@@ -5168,7 +5172,7 @@ Map<String, String> _androidG = {
   'Gone': 'FIGI Gone',
   'Google Chromebook Pixel (2015)': 'Chromebook Pixel (2015)',
   'Google Pixel Slate': 'Pixel Slate',
-  'Google Pixel Watch': 'Google Pixel Watch / Pixel Watch',
+  'Google Pixel Watch': 'Pixel Watch',
   'Google Pixelbook': 'Pixelbook',
   'Google Pixelbook Go': 'Pixelbook',
   'Gorgeo_4GL': 'iBall Slide Gorgeo 4GL',
@@ -12856,6 +12860,7 @@ Map<String, String> _androidS = {
   'SC-55B': 'Galaxy Z Fold3 5G',
   'SC-55C': 'Galaxy Z Fold4',
   'SC-56B': 'Galaxy A22 5G',
+  'SC-56C': 'Galaxy A23 5G',
   'SC-725': 'EVERPAD',
   'SC51Aa': 'Galaxy S20 5G',
   'SCC-U21': 'Honor 4A / Y6',
@@ -12873,6 +12878,7 @@ Map<String, String> _androidS = {
   'SCG13': 'Galaxy S22',
   'SCG14': 'Galaxy S22 Ultra',
   'SCG15': 'Galaxy A53 5G',
+  'SCG18': 'Galaxy A23 5G',
   'SCH-I100': 'Gem',
   'SCH-I110': 'Illusion',
   'SCH-I200': 'Galaxy Stellar',
@@ -13471,6 +13477,7 @@ Map<String, String> _androidS = {
   'SM-A226B': 'Galaxy A22 5G / Galaxy A22s 5G',
   'SM-A226BR': 'Galaxy A22 5G',
   'SM-A226L': 'Galaxy Buddy',
+  'SM-A233C': 'Galaxy A23 5G',
   'SM-A235F': 'Galaxy A23',
   'SM-A235M': 'Galaxy A23',
   'SM-A235N': 'Galaxy A23',
@@ -15518,7 +15525,7 @@ Map<String, String> _androidS = {
   'SmartTV 4K':
       'OEM50ANDROID22/OEM55ANDROID22 / U6H/A6H/U6G1 / huangshan / songshan / X7500 / 50 google tv/58 google tv/65 google tv/75 google tv / HIKA5',
   'SmartTV 4K FFM':
-      'A65 / A6H/E6H/A6600H/A6500H/E7H/A6HA / SmartTV 4K FFM / U60H / U6H / U70H/U8H/U80H/U85H / huangshan / X9500',
+      '55U7H / A65 / A6H/E6H/A6600H/A6500H/E7H/A6HA / U60H / U6H / U70H/U8H/U80H/U85H / huangshan / X9500',
   'SmartTV 8K FFM': '9980',
   'SmartTV FFM': 'taishan-jpT',
   'SmartTab1005': 'Smart TAB 1005',
