@@ -1,4 +1,4 @@
-// [2022-11-06 03:03:19.331068] Auto generated file, do not change.
+// [2022-11-13 03:00:58.486033] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -125,10 +125,16 @@ object Ios {
             put("iPad13,9", "iPad Pro 12.9 inch (5th generation) Wi-Fi + Cellular (US)")
             put("iPad13,10", "iPad Pro 12.9 inch (5th generation) Wi-Fi + Cellular (Global)")
             put("iPad13,11", "iPad Pro 12.9 inch (5th generation) Wi-Fi + Cellular (China)")
-            put("iPad13,16", "iPad Air (5th generation) Wi-Fi")
-            put("iPad13,17", "iPad Air (5th generation) Wi-Fi + Cellular")
+            put("iPad13,16", "iPad Air (5th generation) Wi-Fi / iPad Air 5th Gen (WiFi)")
+            put("iPad13,17", "iPad Air (5th generation) Wi-Fi + Cellular / iPad Air 5th Gen (WiFi + Cellular)")
             put("iPad14,1", "iPad mini (6th generation) Wi-Fi")
             put("iPad14,2", "iPad mini (6th generation) Wi-Fi + Cellular")
+            put("iPad13,18", "iPad (10th generation) Wi-Fi")
+            put("iPad13,19", "iPad (10th generation) Wi-Fi + Cellular")
+            put("iPad14,3", "iPad Pro 11 inch (4rd generation) Wi-Fi")
+            put("iPad14,4", "iPad Pro 11 inch (4rd generation) Wi-Fi + Cellular")
+            put("iPad14,5", "iPad Pro 12.9 inch (6th generation) Wi-Fi")
+            put("iPad14,6", "iPad Pro 12.9 inch (6th generation) Wi-Fi + Cellular")
         }
     }
 }
