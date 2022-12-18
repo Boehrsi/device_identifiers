@@ -1,4 +1,4 @@
-// [2022-12-11 02:25:43.193724] Auto generated file, do not change.
+// [2022-12-18 02:11:14.680180] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
