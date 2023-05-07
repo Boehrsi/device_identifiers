@@ -1,4 +1,4 @@
-// [2023-04-30 02:06:24.360635] Auto generated file, do not change.
+// [2023-05-07 02:11:22.100656] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -2143,6 +2143,7 @@ Map<String, String> _androidA = {
   'Andromax I46D1G': 'I46D1G',
   'Andromax I56D2G': 'I56D2G',
   'Apex1': 'APEX1',
+  'Apollo Premium2K TV': 'Europe',
   'Apollo Premium4K TV': 'EXPRESS / North American',
   'Aprix Tab64': 'Tab64',
   'Aprix_Phat6': 'Phat6',
@@ -3687,6 +3688,7 @@ Map<String, String> _androidC = {
   'Cynus T5': 'Wiko CINK FIVE',
   'Cynus_F10': 'Cynus F10',
   'Cynus_F9_4G': 'Cynus F9 4G',
+  'Cypher': 'Nokia C02',
 };
 Map<String, String> _androidD = {
   'D000-000001-B01': 'LifeTouch S',
@@ -6980,6 +6982,7 @@ Map<String, String> _androidI = {
   'INTEX i1': 'i1',
   'INTEX_AQUA_4.0_4G': 'AQUA_4.0_4G',
   'INVES FHD Android TV': 'Spain',
+  'INVES SMART TV': 'Spain',
   'INVES UHD Android TV': 'Spain',
   'IN_Note1': 'IN_Note1 / In_Note1',
   'IO 3D': 'IO 3D / dingo',
@@ -11324,6 +11327,7 @@ Map<String, String> _androidO = {
   'OPPO R9st': 'R9st',
   'OPPO R9t': 'R9t',
   'OPPO R9tm': 'R9 / R9k / R9tm',
+  'OPS-8195A-3-V0': 'LANGO OPS8195',
   'ORBIT TAB 7': 'ORBIT_TAB_7',
   'ORCA FHD Android TV': 'Kuwait',
   'ORCA UHD Android TV': 'Kuwait',
@@ -16172,6 +16176,7 @@ Map<String, String> _androidT = {
   'T600M': '8050E',
   'T601DL': 'TCL 4X 5G',
   'T608M': 'TCL 40XL',
+  'T609J': 'TCL 40 XE 5G',
   'T610E': 'TCL 40 SE',
   'T610K': 'TCL 40 SE',
   'T650': 'KIRISUN T650',
@@ -16441,6 +16446,7 @@ Map<String, String> _androidT = {
   'TECNO BF7': 'TECNO',
   'TECNO BF7h': 'POP 7 Pro',
   'TECNO BF7n': 'SPARK Go 2023 / TECNO',
+  'TECNO BF7s': 'TECNO',
   'TECNO CA6': 'CAMON CM',
   'TECNO CA6S': 'COMAN CM',
   'TECNO CA7': 'CAMON X',
@@ -16608,6 +16614,7 @@ Map<String, String> _androidT = {
   'TECNO LG6n': 'POVA Neo 2',
   'TECNO LG7n': 'POVA 4 / TECNO POVA 4',
   'TECNO LG8n': 'TECNO POVA 4 Pro',
+  'TECNO LH7n': 'POVA 5',
   'TECNO M3S': 'M3',
   'TECNO Mobile AD8': 'PHANTOM X2 5G',
   'TECNO Mobile BF7n': 'SPARK Go 2023',
@@ -17292,8 +17299,10 @@ Map<String, String> _androidV = {
   'V2271A': 'Y78+',
   'V2272A': 'iQOO Z7x / iQOO Z7x (m)',
   'V2278A': 'Y78 / Y78m',
+  'V2279A': 'Y35+ / Y35m+',
   'V2285A': 'vivo S17e',
   'V22S': 'V22S1 / V22S',
+  'V2302A': 'iQOO Neo8 Pro',
   'V2305': 'Y16',
   'V23GB': 'V2 3GB',
   'V2_Viper': 'V2 Viper',
@@ -19475,6 +19484,7 @@ Map<String, String> _androidm = {
   'moto e5 supra': 'moto e5 plus',
   'moto e6': 'moto e6 / moto e6s',
   'moto e6 (XT2005DL)': 'moto e6',
+  'moto g 5G (2022)': 'moto g 5G (2022) / motorola edge 40',
   'moto g 5G plus': 'moto g 5G plus / motorola one 5G',
   'moto g play (XT2093DL)': 'moto g play (2021)',
   'moto g power': 'moto g power / moto g power (2021) / moto g pure',
@@ -19489,7 +19499,7 @@ Map<String, String> _androidm = {
   'moto g(50)':
       'moto g stylus 5G (2022) / moto g(50) / moto g(50) 5G / moto g51 5G / moto g52 / moto g52j 5G / moto g71 5G',
   'moto g(50) 5G':
-      'moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)',
+      'moto g power 5G - 2023 / moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)',
   'moto g(6)': 'moto e6 / moto g(6) / moto g(7) / moto g(7) play',
   'moto g(6) (XT1925DL)': 'moto g(6)',
   'moto g(6) play': 'moto g(6) play / moto g(7) power / moto g6 play',
@@ -19514,7 +19524,7 @@ Map<String, String> _androidm = {
   'motorola edge': 'moto g 5G / motorola edge / motorola edge 30 ultra',
   'motorola edge 20 pro': 'moto g200 5G / motorola edge 20 pro',
   'motorola edge 30 pro':
-      'ThinkPhone by Motorola / motorola edge 30 pro / motorola razr 2022',
+      'ThinkPhone by Motorola / motorola edge 30 pro / motorola edge 40 pro / motorola razr 2022',
   'motorola edge 5G UW': 'motorola edge 5G UW (2021)',
   'motorola edge plus':
       'motorola edge (2021) / motorola edge 20 / motorola edge 30 pro / motorola edge plus',
@@ -19587,6 +19597,7 @@ Map<String, String> _androido = {
 Map<String, String> _androidp = {
   'pad_d85': 'Haier',
   'pearl': 'NETBOX',
+  'penangf': 'moto g13',
   'pine': 'Redmi  7A',
   'puff': 'Chromebox',
   'pulse': 'PULSE',

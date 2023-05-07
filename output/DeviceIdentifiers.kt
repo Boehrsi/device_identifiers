@@ -1,4 +1,4 @@
-// [2023-04-30 02:06:24.360635] Auto generated file, do not change.
+// [2023-05-07 02:11:22.100656] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -2166,6 +2166,7 @@ object AndroidA {
             put("Andromax I46D1G", "I46D1G")
             put("Andromax I56D2G", "I56D2G")
             put("Apex1", "APEX1")
+            put("Apollo Premium2K TV", "Europe")
             put("Apollo Premium4K TV", "EXPRESS / North American")
             put("Aprix Tab64", "Tab64")
             put("Aprix_Phat6", "Phat6")
@@ -3713,6 +3714,7 @@ object AndroidC {
             put("Cynus T5", "Wiko CINK FIVE")
             put("Cynus_F10", "Cynus F10")
             put("Cynus_F9_4G", "Cynus F9 4G")
+            put("Cypher", "Nokia C02")
         }
     }
 }
@@ -7017,6 +7019,7 @@ object AndroidI {
             put("INTEX i1", "i1")
             put("INTEX_AQUA_4.0_4G", "AQUA_4.0_4G")
             put("INVES FHD Android TV", "Spain")
+            put("INVES SMART TV", "Spain")
             put("INVES UHD Android TV", "Spain")
             put("IN_Note1", "IN_Note1 / In_Note1")
             put("IO 3D", "IO 3D / dingo")
@@ -11357,6 +11360,7 @@ object AndroidO {
             put("OPPO R9st", "R9st")
             put("OPPO R9t", "R9t")
             put("OPPO R9tm", "R9 / R9k / R9tm")
+            put("OPS-8195A-3-V0", "LANGO OPS8195")
             put("ORBIT TAB 7", "ORBIT_TAB_7")
             put("ORCA FHD Android TV", "Kuwait")
             put("ORCA UHD Android TV", "Kuwait")
@@ -16207,6 +16211,7 @@ object AndroidT {
             put("T600M", "8050E")
             put("T601DL", "TCL 4X 5G")
             put("T608M", "TCL 40XL")
+            put("T609J", "TCL 40 XE 5G")
             put("T610E", "TCL 40 SE")
             put("T610K", "TCL 40 SE")
             put("T650", "KIRISUN T650")
@@ -16475,6 +16480,7 @@ object AndroidT {
             put("TECNO BF7", "TECNO")
             put("TECNO BF7h", "POP 7 Pro")
             put("TECNO BF7n", "SPARK Go 2023 / TECNO")
+            put("TECNO BF7s", "TECNO")
             put("TECNO CA6", "CAMON CM")
             put("TECNO CA6S", "COMAN CM")
             put("TECNO CA7", "CAMON X")
@@ -16642,6 +16648,7 @@ object AndroidT {
             put("TECNO LG6n", "POVA Neo 2")
             put("TECNO LG7n", "POVA 4 / TECNO POVA 4")
             put("TECNO LG8n", "TECNO POVA 4 Pro")
+            put("TECNO LH7n", "POVA 5")
             put("TECNO M3S", "M3")
             put("TECNO Mobile AD8", "PHANTOM X2 5G")
             put("TECNO Mobile BF7n", "SPARK Go 2023")
@@ -17330,8 +17337,10 @@ object AndroidV {
             put("V2271A", "Y78+")
             put("V2272A", "iQOO Z7x / iQOO Z7x (m)")
             put("V2278A", "Y78 / Y78m")
+            put("V2279A", "Y35+ / Y35m+")
             put("V2285A", "vivo S17e")
             put("V22S", "V22S1 / V22S")
+            put("V2302A", "iQOO Neo8 Pro")
             put("V2305", "Y16")
             put("V23GB", "V2 3GB")
             put("V2_Viper", "V2 Viper")
@@ -19573,6 +19582,7 @@ object AndroidLowercaseM {
             put("moto e5 supra", "moto e5 plus")
             put("moto e6", "moto e6 / moto e6s")
             put("moto e6 (XT2005DL)", "moto e6")
+            put("moto g 5G (2022)", "moto g 5G (2022) / motorola edge 40")
             put("moto g 5G plus", "moto g 5G plus / motorola one 5G")
             put("moto g play (XT2093DL)", "moto g play (2021)")
             put("moto g power", "moto g power / moto g power (2021) / moto g pure")
@@ -19585,7 +19595,7 @@ object AndroidLowercaseM {
             put("moto g(100)", "moto g(100) / moto g32 / moto g42 / motorola edge 20 pro")
             put("moto g(40) fusion", "moto g40 fusion")
             put("moto g(50)", "moto g stylus 5G (2022) / moto g(50) / moto g(50) 5G / moto g51 5G / moto g52 / moto g52j 5G / moto g71 5G")
-            put("moto g(50) 5G", "moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)")
+            put("moto g(50) 5G", "moto g power 5G - 2023 / moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)")
             put("moto g(6)", "moto e6 / moto g(6) / moto g(7) / moto g(7) play")
             put("moto g(6) (XT1925DL)", "moto g(6)")
             put("moto g(6) play", "moto g(6) play / moto g(7) power / moto g6 play")
@@ -19608,7 +19618,7 @@ object AndroidLowercaseM {
             put("motorola", "moto g stylus (2022) / moto g31 / moto g41 / motorola edge 20 fusion / motorola edge 20 lite")
             put("motorola edge", "moto g 5G / motorola edge / motorola edge 30 ultra")
             put("motorola edge 20 pro", "moto g200 5G / motorola edge 20 pro")
-            put("motorola edge 30 pro", "ThinkPhone by Motorola / motorola edge 30 pro / motorola razr 2022")
+            put("motorola edge 30 pro", "ThinkPhone by Motorola / motorola edge 30 pro / motorola edge 40 pro / motorola razr 2022")
             put("motorola edge 5G UW", "motorola edge 5G UW (2021)")
             put("motorola edge plus", "motorola edge (2021) / motorola edge 20 / motorola edge 30 pro / motorola edge plus")
             put("motorola one", "Motorola one / motorola one")
@@ -19692,6 +19702,7 @@ object AndroidLowercaseP {
         buildMap {
             put("pad_d85", "Haier")
             put("pearl", "NETBOX")
+            put("penangf", "moto g13")
             put("pine", "Redmi  7A")
             put("puff", "Chromebox")
             put("pulse", "PULSE")
