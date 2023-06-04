@@ -1,6 +1,6 @@
 # Device Identifiers
 
-A Dart script which fetches device information for Android and iOS. Generates directly usable code. 
+A Dart script which fetches Android and iOS device information. Generates directly usable code, which maps the device model to the corresponding device name(s).
 
 ## Supported output languages
 
