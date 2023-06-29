@@ -16,3 +16,8 @@ A Dart script which fetches Android and iOS device information. Generates direct
 
 - **iOS**: https://github.com/SeparateRecords/apple_device_identifiers
 - **Android**: https://storage.googleapis.com/play_public/supported_devices.html (via https://support.google.com/googleplay/answer/1727131?hl=en)
+
+## Used in
+
+- https://github.com/Boehrsi/DeviceMarketingNames (Android library)
+- https://github.com/Boehrsi/device_marketing_names (Flutter library)
