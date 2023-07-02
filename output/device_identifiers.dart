@@ -1,4 +1,4 @@
-// [2023-06-29 21:22:37.642706] Auto generated file, do not change.
+// [2023-07-02 02:40:31.702980] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -1831,6 +1831,7 @@ Map<String, String> _androidA = {
   'ASUS_AI2203_D': 'ROG Phone 6D Ultimate',
   'ASUS_AI2205_A': 'ROG Phone 7 (AI2205)',
   'ASUS_AI2205_C': 'ROG Phone 7 (AI2205)',
+  'ASUS_AI2302': 'Zenfone 10 (VanGogh)',
   'ASUS_I001D': 'ROG Phone II',
   'ASUS_I001DC': 'ROG Phone II',
   'ASUS_I001DE': 'ROG Phone II',
@@ -7145,6 +7146,7 @@ Map<String, String> _androidI = {
   'Ilium_L950': 'ILIUM L950',
   'Ilium_PAD_RX8v4': 'RX8',
   'Ilium_PAD_i7': 'ilium PAD i7',
+  'Impact_Lux_Display': 'Clevertouch 65" Impact LUX',
   'Imperium7': 'Imperium 7',
   'Imperium8': 'Imperium 8',
   'Impress Disco': 'Impress_Disco',
@@ -15263,6 +15265,10 @@ Map<String, String> _androidS = {
   'SM-R925F': 'Galaxy Watch5 Pro',
   'SM-R925N': 'Galaxy Watch5 Pro',
   'SM-R925U': 'Galaxy Watch5 Pro',
+  'SM-R930': 'Galaxy Watch6',
+  'SM-R940': 'Galaxy Watch6',
+  'SM-R950': 'Galaxy Watch6 Classic',
+  'SM-R960': 'Galaxy Watch6 Classic',
   'SM-S102DL': 'Galaxy A10e',
   'SM-S111DL': 'Galaxy A01',
   'SM-S120VL': 'Galaxy J1',
@@ -15673,6 +15679,7 @@ Map<String, String> _androidS = {
   'SM-X906B': 'Galaxy Tab S8 Ultra 5G',
   'SM-X906C': 'Galaxy Tab S8 Ultra 5G',
   'SM-X906N': 'Galaxy Tab S8 Ultra 5G',
+  'SM1': 'SM1_Tablet',
   'SM7216': 'mini_SM7216',
   'SM7216H': 'SCHOK',
   'SMADL Abay5+': 'Abay5_Plus',
@@ -16626,6 +16633,7 @@ Map<String, String> _androidT = {
   'TECNO CI8n': 'CAMON 19 Pro',
   'TECNO CK6': 'TECNO CAMON 20',
   'TECNO CK6n': 'TECNO CAMON 20 / TECNO CAMON 20 PRO',
+  'TECNO CK6ns': 'TECNO CAMON 20',
   'TECNO CK7n': 'CAMON 20 Pro',
   'TECNO CK8n': 'CAMON 20 Pro 5G',
   'TECNO CK9n': 'TECNO CAMON 20 Premier 5G',

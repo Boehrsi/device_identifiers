@@ -1,4 +1,4 @@
-// [2023-06-29 21:22:37.642706] Auto generated file, do not change.
+// [2023-07-02 02:40:31.702980] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -1859,6 +1859,7 @@ object AndroidA {
             put("ASUS_AI2203_D", "ROG Phone 6D Ultimate")
             put("ASUS_AI2205_A", "ROG Phone 7 (AI2205)")
             put("ASUS_AI2205_C", "ROG Phone 7 (AI2205)")
+            put("ASUS_AI2302", "Zenfone 10 (VanGogh)")
             put("ASUS_I001D", "ROG Phone II")
             put("ASUS_I001DC", "ROG Phone II")
             put("ASUS_I001DE", "ROG Phone II")
@@ -7182,6 +7183,7 @@ object AndroidI {
             put("Ilium_L950", "ILIUM L950")
             put("Ilium_PAD_RX8v4", "RX8")
             put("Ilium_PAD_i7", "ilium PAD i7")
+            put("Impact_Lux_Display", "Clevertouch 65\" Impact LUX")
             put("Imperium7", "Imperium 7")
             put("Imperium8", "Imperium 8")
             put("Impress Disco", "Impress_Disco")
@@ -15302,6 +15304,10 @@ object AndroidS {
             put("SM-R925F", "Galaxy Watch5 Pro")
             put("SM-R925N", "Galaxy Watch5 Pro")
             put("SM-R925U", "Galaxy Watch5 Pro")
+            put("SM-R930", "Galaxy Watch6")
+            put("SM-R940", "Galaxy Watch6")
+            put("SM-R950", "Galaxy Watch6 Classic")
+            put("SM-R960", "Galaxy Watch6 Classic")
             put("SM-S102DL", "Galaxy A10e")
             put("SM-S111DL", "Galaxy A01")
             put("SM-S120VL", "Galaxy J1")
@@ -15712,6 +15718,7 @@ object AndroidS {
             put("SM-X906B", "Galaxy Tab S8 Ultra 5G")
             put("SM-X906C", "Galaxy Tab S8 Ultra 5G")
             put("SM-X906N", "Galaxy Tab S8 Ultra 5G")
+            put("SM1", "SM1_Tablet")
             put("SM7216", "mini_SM7216")
             put("SM7216H", "SCHOK")
             put("SMADL Abay5+", "Abay5_Plus")
@@ -16660,6 +16667,7 @@ object AndroidT {
             put("TECNO CI8n", "CAMON 19 Pro")
             put("TECNO CK6", "TECNO CAMON 20")
             put("TECNO CK6n", "TECNO CAMON 20 / TECNO CAMON 20 PRO")
+            put("TECNO CK6ns", "TECNO CAMON 20")
             put("TECNO CK7n", "CAMON 20 Pro")
             put("TECNO CK8n", "CAMON 20 Pro 5G")
             put("TECNO CK9n", "TECNO CAMON 20 Premier 5G")
