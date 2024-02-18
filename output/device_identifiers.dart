@@ -1,4 +1,4 @@
-// [2024-02-11 01:53:07.171551] Auto generated file, do not change.
+// [2024-02-18 01:52:31.655098] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -5783,6 +5783,7 @@ Map<String, String> _androidH = {
   'HARDCASEH550S': 'H550S',
   'HAT4KDTV':
       'laoshan-Akino / laoshan / laoshan-Hisense / laoshan-emT / laoshan_emH / laoshan_laser / xiaoyushan',
+  'HC50': 'HC50 / TC22',
   'HCA-6010': 'HCA6010 / Homeplus_ATV HCA-6010',
   'HCTT1': 'HC-16TT1',
   'HD PSEB v2': 'HDPSEB v2',
@@ -8045,6 +8046,7 @@ Map<String, String> _androidK = {
   'KC-S304': 'DIGNO SANGA edition',
   'KC-S701': 'TORQUE(KC-S701)',
   'KC-S702': 'DURA FORCE PRO',
+  'KC-S703': 'DuraForce EX',
   'KC516 Pro': 'KC516_Pro',
   'KCP01K': 'LUCE',
   'KD50': 'Kodak_KD50',
@@ -8479,6 +8481,7 @@ Map<String, String> _androidL = {
   'LEMENT_TAB901': 'LEMENTTAB901',
   'LEO-BX9': 'Watch 2',
   'LEO-DLXX': 'Watch 2',
+  'LET02': 'Lenovo Tab M10a 5G',
   'LETAB731': 'LEOTEC',
   'LEX L11a': 'LEX L11',
   'LEX L11j': 'LEX L11',
@@ -9647,6 +9650,7 @@ Map<String, String> _androidL = {
   'LYA-TL00': 'Mate 20 Pro',
   'LYF_LS-4006': 'LS-4006',
   'LYO-L21': 'Honor 5A',
+  'LZX415': 'YUVA 3',
   'La Tab 107': 'La Tab 107 HD',
   'La Tab 109 HD': 'La Tab 109 HD / LaTab109HD',
   'La Tab 292': 'La_Tab_292',
@@ -14623,6 +14627,13 @@ Map<String, String> _androidS = {
   'SM-A346E': 'Galaxy A34 5G',
   'SM-A346M': 'Galaxy A34 5G',
   'SM-A346N': 'Galaxy A34 5G',
+  'SM-A3560': 'Galaxy A35 5G',
+  'SM-A356B': 'Galaxy A35 5G',
+  'SM-A356E': 'Galaxy A35 5G',
+  'SM-A356N': 'Galaxy A35 5G',
+  'SM-A356U': 'Galaxy A35 5G',
+  'SM-A356U1': 'Galaxy A35 5G',
+  'SM-A356W': 'Galaxy A35 5G',
   'SM-A405FM': 'Galaxy A40',
   'SM-A405FN': 'Galaxy A40',
   'SM-A405S': 'Galaxy A40',
@@ -15910,6 +15921,7 @@ Map<String, String> _androidS = {
   'SM-S326DL': 'Galaxy A32 5G',
   'SM-S327VL': 'Galaxy J3 Pop',
   'SM-S337TL': 'Galaxy J3 Pop',
+  'SM-S356V': 'Galaxy A35 5G',
   'SM-S357BL': 'Galaxy J3 Orbit',
   'SM-S367VL': 'Galaxy J3 Orbit',
   'SM-S426DL': 'Galaxy A42 5G',
@@ -17211,6 +17223,7 @@ Map<String, String> _androidT = {
   'TB328FU': 'Lenovo Tab M10 (3rd Gen)',
   'TB328XU': 'Lenovo Tab M10 (3rd Gen)',
   'TB330FU': 'Lenovo Tab M11 / 联想平板电脑 启天K10c',
+  'TB330FUP': 'Lenovo Tab K11',
   'TB330XC': '联想平板电脑 启天K10c',
   'TB330XU': 'Lenovo Tab M11',
   'TB350FU': 'Lenovo Tab P11 (2nd Gen) / 小新Pad Plus 2023',

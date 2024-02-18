@@ -1,4 +1,4 @@
-// [2024-02-11 01:53:07.171551] Auto generated file, do not change.
+// [2024-02-18 01:52:31.655098] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -5822,6 +5822,7 @@ object AndroidH {
             put("HAMMER_ENERGY", "myPhone HAMMER ENERGY")
             put("HARDCASEH550S", "H550S")
             put("HAT4KDTV", "laoshan-Akino / laoshan / laoshan-Hisense / laoshan-emT / laoshan_emH / laoshan_laser / xiaoyushan")
+            put("HC50", "HC50 / TC22")
             put("HCA-6010", "HCA6010 / Homeplus_ATV HCA-6010")
             put("HCTT1", "HC-16TT1")
             put("HD PSEB v2", "HDPSEB v2")
@@ -8084,6 +8085,7 @@ object AndroidK {
             put("KC-S304", "DIGNO SANGA edition")
             put("KC-S701", "TORQUE(KC-S701)")
             put("KC-S702", "DURA FORCE PRO")
+            put("KC-S703", "DuraForce EX")
             put("KC516 Pro", "KC516_Pro")
             put("KCP01K", "LUCE")
             put("KD50", "Kodak_KD50")
@@ -8519,6 +8521,7 @@ object AndroidL {
             put("LEMENT_TAB901", "LEMENTTAB901")
             put("LEO-BX9", "Watch 2")
             put("LEO-DLXX", "Watch 2")
+            put("LET02", "Lenovo Tab M10a 5G")
             put("LETAB731", "LEOTEC")
             put("LEX L11a", "LEX L11")
             put("LEX L11j", "LEX L11")
@@ -9685,6 +9688,7 @@ object AndroidL {
             put("LYA-TL00", "Mate 20 Pro")
             put("LYF_LS-4006", "LS-4006")
             put("LYO-L21", "Honor 5A")
+            put("LZX415", "YUVA 3")
             put("La Tab 107", "La Tab 107 HD")
             put("La Tab 109 HD", "La Tab 109 HD / LaTab109HD")
             put("La Tab 292", "La_Tab_292")
@@ -14660,6 +14664,13 @@ object AndroidS {
             put("SM-A346E", "Galaxy A34 5G")
             put("SM-A346M", "Galaxy A34 5G")
             put("SM-A346N", "Galaxy A34 5G")
+            put("SM-A3560", "Galaxy A35 5G")
+            put("SM-A356B", "Galaxy A35 5G")
+            put("SM-A356E", "Galaxy A35 5G")
+            put("SM-A356N", "Galaxy A35 5G")
+            put("SM-A356U", "Galaxy A35 5G")
+            put("SM-A356U1", "Galaxy A35 5G")
+            put("SM-A356W", "Galaxy A35 5G")
             put("SM-A405FM", "Galaxy A40")
             put("SM-A405FN", "Galaxy A40")
             put("SM-A405S", "Galaxy A40")
@@ -15947,6 +15958,7 @@ object AndroidS {
             put("SM-S326DL", "Galaxy A32 5G")
             put("SM-S327VL", "Galaxy J3 Pop")
             put("SM-S337TL", "Galaxy J3 Pop")
+            put("SM-S356V", "Galaxy A35 5G")
             put("SM-S357BL", "Galaxy J3 Orbit")
             put("SM-S367VL", "Galaxy J3 Orbit")
             put("SM-S426DL", "Galaxy A42 5G")
@@ -17243,6 +17255,7 @@ object AndroidT {
             put("TB328FU", "Lenovo Tab M10 (3rd Gen)")
             put("TB328XU", "Lenovo Tab M10 (3rd Gen)")
             put("TB330FU", "Lenovo Tab M11 / 联想平板电脑 启天K10c")
+            put("TB330FUP", "Lenovo Tab K11")
             put("TB330XC", "联想平板电脑 启天K10c")
             put("TB330XU", "Lenovo Tab M11")
             put("TB350FU", "Lenovo Tab P11 (2nd Gen) / 小新Pad Plus 2023")
