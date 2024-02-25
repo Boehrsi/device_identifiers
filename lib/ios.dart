@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 final iPhoneJson =
-    'https://raw.githubusercontent.com/SeparateRecords/apple_device_identifiers/main/devices/iPhone.json';
+    'https://raw.githubusercontent.com/clo4/apple_device_identifiers/main/devices/iPhone.json';
 final iPadJson =
-    'https://raw.githubusercontent.com/SeparateRecords/apple_device_identifiers/main/devices/iPad.json';
+    'https://raw.githubusercontent.com/clo4/apple_device_identifiers/main/devices/iPad.json';
 
 Future<Map> requestIosIdentifiers(String target) async {
   final resultMap = {};
