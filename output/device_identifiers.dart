@@ -1,4 +1,4 @@
-// [2024-02-25 20:32:24.811136] Auto generated file, do not change.
+// [2024-02-26 18:54:43.086917] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'iPhone1,1': 'iPhone',
@@ -7887,6 +7887,7 @@ Map<String, String> _androidJ = {
   'JVC PA 4K Android TV': 'JVC',
   'JVC SA 2K Android TV': 'JVC',
   'JVC SA 4K Android TV': 'JVC',
+  'JVC TV Ultra': 'JVC',
   'JVC UK 2K Android TV': 'JVC',
   'JVC UK 4K Android TV': 'JVC',
   'JVC US 2K Android TV': 'JVC',
@@ -10654,6 +10655,7 @@ Map<String, String> _androidM = {
   'MEO TV Box 4K (DIW3930)': 'MEO TV Box 4K (DIW3930) / MEOBox 4K',
   'MEOBox 4K DV8985': 'MEO TV Box 4K',
   'MEP2Q421G': 'MEP2',
+  'METHOD_XI_8600': 'KW_IWB',
   'MF8604': 'Blade',
   'MF97B': 'MF97B / Spro 2',
   'MF97B_ROGERS': 'MF97B',
@@ -19495,6 +19497,7 @@ Map<String, String> _androidZ = {
   'Z00D': 'ZenFone 2 (ZE500CL)',
   'Z08MK': 'VIPER-Z08MK',
   'Z1': 'Z1 / Z12',
+  'Z13': 'I KALL Z13 / Z13',
   'Z130': 'Liquid E3S / Liquid Z3',
   'Z150': 'Liquid Z5 / Z150',
   'Z160': 'Liquid Z4',

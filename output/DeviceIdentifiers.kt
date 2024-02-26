@@ -1,4 +1,4 @@
-// [2024-02-25 20:32:24.811136] Auto generated file, do not change.
+// [2024-02-26 18:54:43.086917] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -7922,6 +7922,7 @@ object AndroidJ {
             put("JVC PA 4K Android TV", "JVC")
             put("JVC SA 2K Android TV", "JVC")
             put("JVC SA 4K Android TV", "JVC")
+            put("JVC TV Ultra", "JVC")
             put("JVC UK 2K Android TV", "JVC")
             put("JVC UK 4K Android TV", "JVC")
             put("JVC US 2K Android TV", "JVC")
@@ -10687,6 +10688,7 @@ object AndroidM {
             put("MEO TV Box 4K (DIW3930)", "MEO TV Box 4K (DIW3930) / MEOBox 4K")
             put("MEOBox 4K DV8985", "MEO TV Box 4K")
             put("MEP2Q421G", "MEP2")
+            put("METHOD_XI_8600", "KW_IWB")
             put("MF8604", "Blade")
             put("MF97B", "MF97B / Spro 2")
             put("MF97B_ROGERS", "MF97B")
@@ -19544,6 +19546,7 @@ object AndroidZ {
             put("Z00D", "ZenFone 2 (ZE500CL)")
             put("Z08MK", "VIPER-Z08MK")
             put("Z1", "Z1 / Z12")
+            put("Z13", "I KALL Z13 / Z13")
             put("Z130", "Liquid E3S / Liquid Z3")
             put("Z150", "Liquid Z5 / Z150")
             put("Z160", "Liquid Z4")
