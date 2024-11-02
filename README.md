@@ -2,6 +2,21 @@
 
 A Dart script which fetches Android and iOS device information. Generates directly usable code, which maps the device model to the corresponding device name(s).
 
+<a href="https://idx.google.com/import?url=https://github.com/Boehrsi/device_identifiers">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <img
+      height="32"
+      alt="Open in IDX"
+      src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+
 ## Supported output languages
 
 - **Dart / Flutter**: https://github.com/Boehrsi/device_identifiers/blob/main/output/device_identifiers.dart
