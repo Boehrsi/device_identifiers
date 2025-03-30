@@ -20,10 +20,13 @@ Future<Map<String, Map>> requestAndroidIdentifiers(String target) async {
 }
 
 List<List<dynamic>> decode(http.Response response) {
-  var utf16Bytes = response.bodyBytes.buffer.asUint16List();
-  var responseString = String.fromCharCodes(utf16Bytes);
-  List<List<dynamic>> decodedResponse =
-      const CsvToListConverter().convert(responseString);
+  final utf16Bytes = response.bodyBytes.buffer.asUint16List();
+  final responseString = String.fromCharCodes(utf16Bytes);
+  final List<List<dynamic>> decodedResponse =
+      const CsvToListConverter().convert(
+    responseString,
+    eol: '\n',
+  );
   return decodedResponse;
 }
 
@@ -31,8 +34,8 @@ void removeHeader(List<List<dynamic>> list) => list.removeAt(0);
 
 void removeNullOrEmpty(List<List<dynamic>> list) {
   list.removeWhere((element) {
-    var key = getKey(element);
-    var value = getValue(element);
+    final key = getKey(element);
+    final value = getValue(element);
     return key == null ||
         value == null ||
         key.toString().isEmpty ||

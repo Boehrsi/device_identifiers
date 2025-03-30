@@ -6,7 +6,7 @@ import '../utils/text.dart';
 extension SinkWriter on IOSink {
   void writeIosIdentifiers(TargetDefinition target, List<Map> maps) {
     write(target.openIosMap);
-    for(final map in maps) {
+    for (final map in maps) {
       _writeMap(map, target);
     }
     write(target.closeMap);
@@ -26,7 +26,7 @@ extension SinkWriter on IOSink {
   void writeAndroidLookupMethod(
       TargetDefinition target, List<String> chunkKeys) {
     write(target.lookupAndroidHeader);
-    for(final key in chunkKeys) {
+    for (final key in chunkKeys) {
       write(target.lookupAndroidBody(key));
     }
     write(target.lookupAndroidFooter);
