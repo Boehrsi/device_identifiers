@@ -41,8 +41,8 @@ void removeNullOrEmpty(List<List<dynamic>> list) {
 }
 
 Map<dynamic, List<dynamic>> removeDuplicates(List<List<dynamic>> list) {
-  final correctedMap = Map<dynamic, List<dynamic>>();
-  list.forEach((element) {
+  final correctedMap = <dynamic, List<dynamic>>{};
+  for (final element in list) {
     final key = getKey(element);
     final value = getValue(element);
     correctedMap.update(key, (existingValue) {
@@ -51,7 +51,7 @@ Map<dynamic, List<dynamic>> removeDuplicates(List<List<dynamic>> list) {
       }
       return existingValue;
     }, ifAbsent: () => [value]);
-  });
+  }
   return correctedMap;
 }
 

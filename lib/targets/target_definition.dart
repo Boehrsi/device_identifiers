@@ -1,8 +1,8 @@
-typedef String MapEntry(String key, String value);
+typedef MapEntry = String Function(String key, String value);
 
-typedef String ChunkMapTemplate(String chunkKeys);
+typedef ChunkMapTemplate = String Function(String chunkKeys);
 
-typedef String LookupBody(String chunkKey);
+typedef LookupBody = String Function(String chunkKey);
 
 enum Type {
   dart,

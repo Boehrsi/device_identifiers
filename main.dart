@@ -18,7 +18,7 @@ main(List<String> args) async {
   final androidData = await requestAndroidIdentifiers(androidCsv);
 
   await Future.forEach(targets, (TargetDefinition target) async {
-    final file = await File(target.outputFile);
+    final file = File(target.outputFile);
     final sink = file.openWrite();
 
     sink.write(information);
