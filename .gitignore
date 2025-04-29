@@ -21,3 +21,6 @@ doc/api/
 *.js.map
 /.vscode
 /ktlint
+
+# Idea / Android Studio files
+.idea/workspace.xml

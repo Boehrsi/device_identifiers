@@ -29,7 +29,7 @@ A Dart script which fetches Android and iOS device information. Generates direct
 
 ## Sources
 
-- **iOS**: https://github.com/clo4/apple_device_identifiers
+- **iOS**: https://github.com/kyle-seongwoo-jun/apple-device-identifiers
 - **Android**: https://storage.googleapis.com/play_public/supported_devices.html (via https://support.google.com/googleplay/answer/1727131?hl=en)
 
 ## Used in
