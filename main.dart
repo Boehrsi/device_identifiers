@@ -11,7 +11,10 @@ main(List<String> args) async {
   final targets = [targetDart, targetKotlin];
   final information = setupInformation();
 
-  final iOsData = await requestIosIdentifiers(iosJson);
+  final iOsData = [
+    await requestIosIdentifiers(iPhoneJson),
+    await requestIosIdentifiers(iPadJson)
+  ];
   final androidData = await requestAndroidIdentifiers(androidCsv);
 
   await Future.forEach(targets, (TargetDefinition target) async {

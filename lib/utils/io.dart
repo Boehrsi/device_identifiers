@@ -4,9 +4,11 @@ import '../targets/target_definition.dart';
 import '../utils/text.dart';
 
 extension SinkWriter on IOSink {
-  void writeIosIdentifiers(TargetDefinition target, Map map) {
+  void writeIosIdentifiers(TargetDefinition target, List<Map> maps) {
     write(target.openIosMap);
-    _writeMap(map, target);
+    for (final map in maps) {
+      _writeMap(map, target);
+    }
     write(target.closeMap);
   }
 
