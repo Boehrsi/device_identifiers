@@ -1,4 +1,4 @@
-// [2025-04-29 07:07:44.070315] Auto generated file, do not change.
+// [2025-05-04 02:47:47.332302] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -1467,6 +1467,7 @@ Map<String, String> _android9 = {
 };
 Map<String, String> _androidA = {
   'A0001': 'One',
+  'A001': 'CMF Phone 2 Pro',
   'A001KC': 'かんたんスマホ２',
   'A001LG': 'V60 ThinQ',
   'A001OP': 'Reno3 5G',
@@ -7877,7 +7878,7 @@ Map<String, String> _androidI = {
   'I-K1': 'ULALA',
   'I10A-LE': 'Leader I10A-LE',
   'I10Pro': 'I10Pro_LTE / I10Pro_LTE_EEA',
-  'I10_Plus': 'I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA',
+  'I10_Plus': 'I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA / I10_Plus_WLAN',
   'I10_Plus_EEA': 'I10_Plus',
   'I10_Pro': 'I10_Pro_EEA / I10_Pro_ROW',
   'I11': 'I11 / redbeatM2',
@@ -9246,7 +9247,6 @@ Map<String, String> _androidL = {
   'LAVA LZG409': 'Yuva Star',
   'LAVA LZX406': 'Blaze 2 Pro',
   'LAVA LZX408': 'YUVA 2 PRO',
-  'LAVA LZX419': 'Lava Shark',
   'LAVA V5': 'V5',
   'LAVA Z3 UP': 'Z3',
   'LAVA Z3 UP 2': 'Z3',
@@ -13316,6 +13316,7 @@ Map<String, String> _androidP = {
   'P8_eMagic': 'P8 eMagic',
   'P8_eMagic_TM': 'P8 eMagic',
   'P9 Plus': 'P9+',
+  'P90': 'P90_ROW',
   'P900/Q900': 'P900',
   'P9000_MAX': 'P9000 MAX',
   'P902/A900': 'Polaroid P902/A900',
@@ -13714,6 +13715,7 @@ Map<String, String> _androidP = {
   'PRO 1800F 4G RS1249PL': 'PRO 1800F 4G',
   'PRO 7-H': 'PRO 7',
   'PRO 7-S': 'PRO 7 / PRO7S',
+  'PRO-AT-Series': 'PRO AT Series',
   'PRO5023': 'Phantom 5',
   'PRO5548PR010': 'PRO5548PR010.191',
   'PRO6048PR001': 'PRO6048',
@@ -14728,7 +14730,7 @@ Map<String, String> _androidR = {
   'RMX3921': 'realme 13 Pro+ 5G',
   'RMX3933': 'RMX3933 / realme Note 60',
   'RMX3938': 'realme Note 60x',
-  'RMX3939': 'realme C61 / realme C63',
+  'RMX3939': 'RMX3939 / realme C61 / realme C63',
   'RMX3941': 'realme C75',
   'RMX3943': 'realme 14x 5G / realme C75 5G',
   'RMX3946': '真我V70',
@@ -14785,6 +14787,7 @@ Map<String, String> _androidR = {
   'ROD2-W69': '荣耀平板GT PRO',
   'ROL-W00': 'HONOR Pad V9 / 荣耀平板V9',
   'ROL-W10': '荣耀平板V9',
+  'ROL-W60': '荣耀平板GT',
   'RP01':
       'BISON X10 / BISON X10 EEA / BISON X10 Pro / BISON X10 Pro EEA / BISON X10 Pro TR / BISON X10 RU / BISON_X10_Pro_RU / BISON_X10_TR',
   'RP02': 'BISON_GT2_5G',
@@ -17891,6 +17894,7 @@ Map<String, String> _androidS = {
   'SM-X205N': 'Galaxy Tab A8',
   'SM-X207': 'Galaxy Tab A8',
   'SM-X210': 'Galaxy Tab A9+',
+  'SM-X210R': 'Galaxy Tab A9+',
   'SM-X216B': 'Galaxy Tab A9+ 5G',
   'SM-X216C': 'Galaxy Tab A9+ 5G',
   'SM-X216N': 'Galaxy Tab A9+ 5G',
@@ -20247,6 +20251,7 @@ Map<String, String> _androidV = {
   'V2430': 'vivo Y04',
   'V2430A': 'S20 Pro',
   'V2431': 'vivo Y19e',
+  'V2432': 'Y19 5G',
   'V2433': 'Y28',
   'V2434': 'vivo Y29',
   'V2435': 'vivo Y29',
@@ -20267,6 +20272,7 @@ Map<String, String> _androidV = {
   'V2448': 'V50',
   'V2450': 'vivo V50 Lite 5G',
   'V2451': 'V50',
+  'V2452A': 'iQOO Z10 Turbo',
   'V2453': 'vivo V50 Lite',
   'V2454': 'JOVI Y19s',
   'V2454A': 'X200 Ultra',
@@ -20980,6 +20986,7 @@ Map<String, String> _androidW = {
   'WX05SH': 'AQUOS PHONE WX05SH',
   'WX442': 'Citrus',
   'WX445': 'Citrus',
+  'WX_IFPD01': 'Interactive Flat Panel',
   'W_C800S': 'C800',
   'W_C860': 'C860 / W_C860',
   'W_K300S': 'K300S',

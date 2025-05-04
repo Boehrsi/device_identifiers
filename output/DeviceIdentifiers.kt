@@ -1,4 +1,4 @@
-// [2025-04-29 07:07:44.070315] Auto generated file, do not change.
+// [2025-05-04 02:47:47.332302] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -1510,6 +1510,7 @@ object AndroidA {
     internal val map by lazy {
         buildMap {
             put("A0001", "One")
+            put("A001", "CMF Phone 2 Pro")
             put("A001KC", "かんたんスマホ２")
             put("A001LG", "V60 ThinQ")
             put("A001OP", "Reno3 5G")
@@ -7911,7 +7912,7 @@ object AndroidI {
             put("I-K1", "ULALA")
             put("I10A-LE", "Leader I10A-LE")
             put("I10Pro", "I10Pro_LTE / I10Pro_LTE_EEA")
-            put("I10_Plus", "I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA")
+            put("I10_Plus", "I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA / I10_Plus_WLAN")
             put("I10_Plus_EEA", "I10_Plus")
             put("I10_Pro", "I10_Pro_EEA / I10_Pro_ROW")
             put("I11", "I11 / redbeatM2")
@@ -9285,7 +9286,6 @@ object AndroidL {
             put("LAVA LZG409", "Yuva Star")
             put("LAVA LZX406", "Blaze 2 Pro")
             put("LAVA LZX408", "YUVA 2 PRO")
-            put("LAVA LZX419", "Lava Shark")
             put("LAVA V5", "V5")
             put("LAVA Z3 UP", "Z3")
             put("LAVA Z3 UP 2", "Z3")
@@ -13338,6 +13338,7 @@ object AndroidP {
             put("P8_eMagic", "P8 eMagic")
             put("P8_eMagic_TM", "P8 eMagic")
             put("P9 Plus", "P9+")
+            put("P90", "P90_ROW")
             put("P900/Q900", "P900")
             put("P9000_MAX", "P9000 MAX")
             put("P902/A900", "Polaroid P902/A900")
@@ -13735,6 +13736,7 @@ object AndroidP {
             put("PRO 1800F 4G RS1249PL", "PRO 1800F 4G")
             put("PRO 7-H", "PRO 7")
             put("PRO 7-S", "PRO 7 / PRO7S")
+            put("PRO-AT-Series", "PRO AT Series")
             put("PRO5023", "Phantom 5")
             put("PRO5548PR010", "PRO5548PR010.191")
             put("PRO6048PR001", "PRO6048")
@@ -14754,7 +14756,7 @@ object AndroidR {
             put("RMX3921", "realme 13 Pro+ 5G")
             put("RMX3933", "RMX3933 / realme Note 60")
             put("RMX3938", "realme Note 60x")
-            put("RMX3939", "realme C61 / realme C63")
+            put("RMX3939", "RMX3939 / realme C61 / realme C63")
             put("RMX3941", "realme C75")
             put("RMX3943", "realme 14x 5G / realme C75 5G")
             put("RMX3946", "真我V70")
@@ -14811,6 +14813,7 @@ object AndroidR {
             put("ROD2-W69", "荣耀平板GT PRO")
             put("ROL-W00", "HONOR Pad V9 / 荣耀平板V9")
             put("ROL-W10", "荣耀平板V9")
+            put("ROL-W60", "荣耀平板GT")
             put("RP01", "BISON X10 / BISON X10 EEA / BISON X10 Pro / BISON X10 Pro EEA / BISON X10 Pro TR / BISON X10 RU / BISON_X10_Pro_RU / BISON_X10_TR")
             put("RP02", "BISON_GT2_5G")
             put("RP03", "BISON_GT2")
@@ -17917,6 +17920,7 @@ object AndroidS {
             put("SM-X205N", "Galaxy Tab A8")
             put("SM-X207", "Galaxy Tab A8")
             put("SM-X210", "Galaxy Tab A9+")
+            put("SM-X210R", "Galaxy Tab A9+")
             put("SM-X216B", "Galaxy Tab A9+ 5G")
             put("SM-X216C", "Galaxy Tab A9+ 5G")
             put("SM-X216N", "Galaxy Tab A9+ 5G")
@@ -20271,6 +20275,7 @@ object AndroidV {
             put("V2430", "vivo Y04")
             put("V2430A", "S20 Pro")
             put("V2431", "vivo Y19e")
+            put("V2432", "Y19 5G")
             put("V2433", "Y28")
             put("V2434", "vivo Y29")
             put("V2435", "vivo Y29")
@@ -20291,6 +20296,7 @@ object AndroidV {
             put("V2448", "V50")
             put("V2450", "vivo V50 Lite 5G")
             put("V2451", "V50")
+            put("V2452A", "iQOO Z10 Turbo")
             put("V2453", "vivo V50 Lite")
             put("V2454", "JOVI Y19s")
             put("V2454A", "X200 Ultra")
@@ -21005,6 +21011,7 @@ object AndroidW {
             put("WX05SH", "AQUOS PHONE WX05SH")
             put("WX442", "Citrus")
             put("WX445", "Citrus")
+            put("WX_IFPD01", "Interactive Flat Panel")
             put("W_C800S", "C800")
             put("W_C860", "C860 / W_C860")
             put("W_K300S", "K300S")
