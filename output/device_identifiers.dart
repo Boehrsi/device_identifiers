@@ -1,4 +1,4 @@
-// [2025-05-04 02:47:47.332302] Auto generated file, do not change.
+// [2025-05-11 02:45:50.049632] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -586,7 +586,7 @@ Map<String, String> _android2 = {
   '2K SA Smart TV': 'Smart TV',
   '2K SMART ISDB TV': 'VIOTTO',
   '2K SMART TV':
-      'AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / BOTECH / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / Dyon / ECOSTAR / ENGLAON / GAZER / GRAETZ / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / NA / MAG / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / NEXT / NEXT_G / PEL / PHILIPS / POWER_GREEN / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / Siragon / SMART TECHNOLOGY / SONEVIEW / 2K SMART TV / VIVAX / WISMANN',
+      'AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / BOTECH / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / Dyon / ECOSTAR / ENGLAON / GAZER / GRAETZ / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / NA / MAG / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / NEXT / NEXT_G / PEL / PHILIPS / POWER_GREEN / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / Siragon / SMART TECHNOLOGY / SONEVIEW / THEUHD / 2K SMART TV / VIVAX / WISMANN',
   '2K SMART TV PH': 'PHILIPS',
   '2K Siera SMART TV': 'SIERA',
   '2K Smart Monitor': 'Smart Monitor',
@@ -755,6 +755,7 @@ Map<String, String> _android4 = {
   '4K PA Smart TV': '4K Smart TV / Smart TV',
   '4K Pro TV': 'Altus Android TV',
   '4K SA Google TV': 'Google TV',
+  '4K SA SMART TV': 'DAHUA',
   '4K SA Smart TV': '4K Smart TV',
   '4K SMART ATSC TV': 'HYUNDAI',
   '4K SMART COL TV': 'HYUNDAI',
@@ -8163,6 +8164,7 @@ Map<String, String> _androidI = {
   'IRA_BHARATAB_1021': 'IRA explore more',
   'IRA_DUO_PRO': 'IRADUO_PRO',
   'IRA_T1015': 'T1015',
+  'IRA_T1021': 'Wishtel Pvt Ltd',
   'IRIS_ITAB05': 'IRIS ITAB05',
   'IRO A6 Q': 'IRO_A6_Q',
   'IRON 2': 'IRON  2',
@@ -12020,7 +12022,7 @@ Map<String, String> _androidM = {
   'Meizu mblu S6': 'M6s',
   'Memor 1': 'MEMOR 1',
   'Memor 11': 'MEMOR 11',
-  'Memor K2': 'Memor K25',
+  'Memor K2': 'Memor K20 / Memor K25',
   'Meri': 'MI 5C',
   'Metal_Tablet_10': 'Metal Tablet',
   'Mi 10': 'MI 10 / Mi 10',
@@ -12886,6 +12888,7 @@ Map<String, String> _androidO = {
   'OPD2405': 'OPPO Pad 3',
   'OPD2406': 'OPPO Pad 3',
   'OPD2407': 'OnePlus Pad',
+  'OPD2409': 'Pad 4 Pro',
   'OPG01': 'Find X2 Pro',
   'OPG02': 'OPG02_jp_kdi',
   'OPG03': 'Find X3 Pro',
@@ -16201,6 +16204,7 @@ Map<String, String> _androidS = {
   'SM-A5660': 'Galaxy A56 5G',
   'SM-A566B': 'Galaxy A56 5G',
   'SM-A566E': 'Galaxy A56 5G',
+  'SM-A566S': 'Galaxy A56 5G',
   'SM-A600A': 'Galaxy A6',
   'SM-A600AZ': 'Galaxy A6',
   'SM-A600F': 'Galaxy A6',

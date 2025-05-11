@@ -1,4 +1,4 @@
-// [2025-05-04 02:47:47.332302] Auto generated file, do not change.
+// [2025-05-11 02:45:50.049632] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -601,7 +601,7 @@ object Android2 {
             put("2K SA Google TV", "Google TV")
             put("2K SA Smart TV", "Smart TV")
             put("2K SMART ISDB TV", "VIOTTO")
-            put("2K SMART TV", "AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / BOTECH / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / Dyon / ECOSTAR / ENGLAON / GAZER / GRAETZ / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / NA / MAG / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / NEXT / NEXT_G / PEL / PHILIPS / POWER_GREEN / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / Siragon / SMART TECHNOLOGY / SONEVIEW / 2K SMART TV / VIVAX / WISMANN")
+            put("2K SMART TV", "AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / BOTECH / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / Dyon / ECOSTAR / ENGLAON / GAZER / GRAETZ / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / NA / MAG / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / NEXT / NEXT_G / PEL / PHILIPS / POWER_GREEN / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / Siragon / SMART TECHNOLOGY / SONEVIEW / THEUHD / 2K SMART TV / VIVAX / WISMANN")
             put("2K SMART TV PH", "PHILIPS")
             put("2K Siera SMART TV", "SIERA")
             put("2K Smart Monitor", "Smart Monitor")
@@ -775,6 +775,7 @@ object Android4 {
             put("4K PA Smart TV", "4K Smart TV / Smart TV")
             put("4K Pro TV", "Altus Android TV")
             put("4K SA Google TV", "Google TV")
+            put("4K SA SMART TV", "DAHUA")
             put("4K SA Smart TV", "4K Smart TV")
             put("4K SMART ATSC TV", "HYUNDAI")
             put("4K SMART COL TV", "HYUNDAI")
@@ -8196,6 +8197,7 @@ object AndroidI {
             put("IRA_BHARATAB_1021", "IRA explore more")
             put("IRA_DUO_PRO", "IRADUO_PRO")
             put("IRA_T1015", "T1015")
+            put("IRA_T1021", "Wishtel Pvt Ltd")
             put("IRIS_ITAB05", "IRIS ITAB05")
             put("IRO A6 Q", "IRO_A6_Q")
             put("IRON 2", "IRON  2")
@@ -12045,7 +12047,7 @@ object AndroidM {
             put("Meizu mblu S6", "M6s")
             put("Memor 1", "MEMOR 1")
             put("Memor 11", "MEMOR 11")
-            put("Memor K2", "Memor K25")
+            put("Memor K2", "Memor K20 / Memor K25")
             put("Meri", "MI 5C")
             put("Metal_Tablet_10", "Metal Tablet")
             put("Mi 10", "MI 10 / Mi 10")
@@ -12911,6 +12913,7 @@ object AndroidO {
             put("OPD2405", "OPPO Pad 3")
             put("OPD2406", "OPPO Pad 3")
             put("OPD2407", "OnePlus Pad")
+            put("OPD2409", "Pad 4 Pro")
             put("OPG01", "Find X2 Pro")
             put("OPG02", "OPG02_jp_kdi")
             put("OPG03", "Find X3 Pro")
@@ -16227,6 +16230,7 @@ object AndroidS {
             put("SM-A5660", "Galaxy A56 5G")
             put("SM-A566B", "Galaxy A56 5G")
             put("SM-A566E", "Galaxy A56 5G")
+            put("SM-A566S", "Galaxy A56 5G")
             put("SM-A600A", "Galaxy A6")
             put("SM-A600AZ", "Galaxy A6")
             put("SM-A600F", "Galaxy A6")
