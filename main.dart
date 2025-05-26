@@ -7,7 +7,7 @@ import 'lib/targets/kotlin.dart';
 import 'lib/targets/target_definition.dart';
 import 'lib/utils/io.dart';
 
-main(List<String> args) async {
+Future<void> main(List<String> args) async {
   final targets = [targetDart, targetKotlin];
   final information = setupInformation();
 
