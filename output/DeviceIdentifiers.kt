@@ -1,4 +1,4 @@
-// [2025-05-25 02:50:43.620147] Auto generated file, do not change.
+// [2025-05-26 18:16:16.641327] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -586,6 +586,8 @@ object Android2 {
             put("25028RN03L", "Redmi A5")
             put("25028RN03Y", "Redmi A5")
             put("2502FRA65G", "Redmi Note 14S")
+            put("25032RP42C", "Xiaomi Pad 7 Ultra")
+            put("25042PN24C", "Xiaomi 15S Pro")
             put("25053RT47C", "REDMI Turbo 4 Pro")
             put("27PM01", "PM01")
             put("2851F Google Monitor", "Google Monitor")
@@ -1697,6 +1699,7 @@ object AndroidA {
             put("A500", "Iconia Tab A500 / Picasso")
             put("A501", "Iconia Tab A501 / Picasso")
             put("A501DL", "tbd")
+            put("A501SO", "Xperia 1 VII")
             put("A502DL", "TCL LX")
             put("A503DL", "TCL XL2")
             put("A504SH", "AQUOS R9 pro")
@@ -2120,8 +2123,8 @@ object AndroidA {
             put("AQUOS-4KTVJ23-1", "4T-C**GP1/GS1/GQ1/GN1")
             put("AQUOS-4KTVJ23-2", "4T-C**GP2/GQ2/GN2")
             put("AQUOS-4KTVJ24-2", "4T-C**GL1/GJ1/GJ2")
-            put("AQUOS-4KTVJ25-1", "4T-C**HP1/HS1/HQ1/HN1")
-            put("AQUOS-4KTVJ25-2", "4T-C**HP2/HQ2/HN2")
+            put("AQUOS-4KTVJ25-1", "4T-C**HP1/HS1/HQ1")
+            put("AQUOS-4KTVJ25-2", "4T-C**HP2/HQ2")
             put("AQUOS-4KTVT17", "LC-UA6800T/4T-C**AM1T")
             put("AQUOS-4KTVX17", "LC-UA6800X")
             put("AQUOS-8KTVJ19", "8T-C**BW1")
@@ -18184,6 +18187,7 @@ object AndroidS {
             put("SOG12", "Xperia 5 V")
             put("SOG13", "Xperia 1 VI")
             put("SOG14", "Xperia 10 VI")
+            put("SOG15", "Xperia 1 VII")
             put("SOL21", "Xperia VL")
             put("SOL22", "Xperia UL")
             put("SOL23", "Xperia Z1")
@@ -18766,7 +18770,7 @@ object AndroidT {
             put("T20", "T20 / T20_EEA / T20_NEU")
             put("T2040", "M10 4G PRO X / T2040")
             put("T20Mini Kid", "P3Mini Kid")
-            put("T20_Play", "T20_Play_EEA")
+            put("T20_Play", "T20_Play / T20_Play_EEA")
             put("T2310", "Moxee_T2310")
             put("T2HD", "T2 HD")
             put("T3", "T3 / WINDS-T3")
@@ -21379,6 +21383,8 @@ object AndroidX {
             put("XQ-ES44", "Xperia 10 VI")
             put("XQ-ES54", "Xperia 10 VI")
             put("XQ-ES72", "Xperia 10 VI")
+            put("XQ-FS44", "Xperia 1 VII")
+            put("XQ-FS54", "Xperia 1 VII")
             put("XQ-FS72", "Xperia 1 VII")
             put("XR10 Tablet", "XR10_Tablet")
             put("XR8 Tablet", "XR8_Tablet")
