@@ -22,5 +22,8 @@ doc/api/
 /.vscode
 /ktlint
 
-# Idea / Android Studio files
-.idea/workspace.xml
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
