@@ -62,6 +62,6 @@ void removeEqualKeyValue(Map<dynamic, dynamic> map) =>
     map.removeWhere((key, value) => key.toString() == value
       ..toString());
 
-getValue(List<dynamic> element) => element[1];
+dynamic getValue(List<dynamic> element) => element[1];
 
-getKey(List<dynamic> element) => element[3];
+dynamic getKey(List<dynamic> element) => element[3];
