@@ -1,4 +1,4 @@
-// [2025-06-15 02:55:19.476457] Auto generated file, do not change.
+// [2025-06-16 20:35:01.300311] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -19447,6 +19447,7 @@ Map<String, String> _androidT = {
   'TECNO KL8hs': 'TECNO SPARK 30C 5G',
   'TECNO KL8s': 'TECNO SPARK 30 5G',
   'TECNO KM4': 'TECNO POP 10 Pro / TECNO SPARK Go 2 / TECNO SPARK Go 2/2S',
+  'TECNO KM5': 'TECNO SPARK 40',
   'TECNO KM6': 'TECNO SPARK 40 Pro',
   'TECNO KM7': 'TECNO SPARK 40 Pro+',
   'TECNO L6502S': 'TECNO POP X5',
@@ -20461,7 +20462,7 @@ Map<String, String> _androidV = {
   'V2519': 'Y19s pro',
   'V2526': 'Y19sGT 5G',
   'V2527': 'Y29t 5G',
-  'V2531': 'Y04s',
+  'V2531': 'Y04s / vivo Y04',
   'V2532': 'Y04e',
   'V2_Viper': 'V2 Viper',
   'V2_Viper_E': 'V2 Viper E',
@@ -22633,6 +22634,7 @@ Map<String, String> _androidi = {
   'iPlay50_Pro': 'iPlay50 Pro',
   'iPlay50_Upgraded': 'iPlay50 Upgraded',
   'iPlay60 mini Turbo': 'iPlay60_mini_Turbo',
+  'iPlay70 mini Turbo': 'iPlay70_mini_Turbo',
   'iPlay_20P': 'iPlay 20P',
   'iPlay_40H': 'iPlay 40H',
   'iPlay_50': 'iPlay 50',

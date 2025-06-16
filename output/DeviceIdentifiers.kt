@@ -1,4 +1,4 @@
-// [2025-06-15 02:55:19.476457] Auto generated file, do not change.
+// [2025-06-16 20:35:01.300311] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -19468,6 +19468,7 @@ object AndroidT {
             put("TECNO KL8hs", "TECNO SPARK 30C 5G")
             put("TECNO KL8s", "TECNO SPARK 30 5G")
             put("TECNO KM4", "TECNO POP 10 Pro / TECNO SPARK Go 2 / TECNO SPARK Go 2/2S")
+            put("TECNO KM5", "TECNO SPARK 40")
             put("TECNO KM6", "TECNO SPARK 40 Pro")
             put("TECNO KM7", "TECNO SPARK 40 Pro+")
             put("TECNO L6502S", "TECNO POP X5")
@@ -20485,7 +20486,7 @@ object AndroidV {
             put("V2519", "Y19s pro")
             put("V2526", "Y19sGT 5G")
             put("V2527", "Y29t 5G")
-            put("V2531", "Y04s")
+            put("V2531", "Y04s / vivo Y04")
             put("V2532", "Y04e")
             put("V2_Viper", "V2 Viper")
             put("V2_Viper_E", "V2 Viper E")
@@ -22702,6 +22703,7 @@ object AndroidLowercaseI {
             put("iPlay50_Pro", "iPlay50 Pro")
             put("iPlay50_Upgraded", "iPlay50 Upgraded")
             put("iPlay60 mini Turbo", "iPlay60_mini_Turbo")
+            put("iPlay70 mini Turbo", "iPlay70_mini_Turbo")
             put("iPlay_20P", "iPlay 20P")
             put("iPlay_40H", "iPlay 40H")
             put("iPlay_50", "iPlay 50")
