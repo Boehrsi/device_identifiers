@@ -1,4 +1,4 @@
-// [2025-10-12 02:25:49.577372] Auto generated file, do not change.
+// [2025-10-14 06:07:02.932334] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -6143,7 +6143,7 @@ object AndroidG {
             put("GOLD_PRO", "Gold Pro")
             put("GOME_2018X07A", "GOME C7")
             put("GOME_C7_Note", "GOME C7 Note mini / GOME_C7_Note")
-            put("GOPAD", "T11_1")
+            put("GOPAD", "T10 / T11_1")
             put("GP10X2019", "ITELMOBILE GP10X2019")
             put("GPLUS F53", "F53")
             put("GPLUS_FW6950", "FW6950")
@@ -6761,7 +6761,7 @@ object AndroidH {
             put("HB72", "EF-61")
             put("HB73", "EF-71")
             put("HB76", "EF-72")
-            put("HB79", "EF-62")
+            put("HB79", "EF-71")
             put("HB82", "EH-LS670")
             put("HC50", "HC50 / TC22")
             put("HCA-6010", "HCA6010 / Homeplus_ATV HCA-6010")
@@ -13692,7 +13692,7 @@ object AndroidP {
             put("P4_eMagic", "P4 eMagic")
             put("P4_eMagic_TM", "P4 eMagic")
             put("P5", "P5L / Silver P5 / P5 / P5_EEA / Wiseasy P5")
-            put("P50", "P50 / P50_EEA / P50_ROW")
+            put("P50", "P50 / P50_B_EEA / P50_EEA / P50_ROW")
             put("P50 LPR", "P50")
             put("P500", "P500 / ZTE Blade A3 2019")
             put("P5026A", "Cosmo L")
@@ -15288,7 +15288,7 @@ object AndroidR {
             put("RMX5105", "真我15")
             put("RMX5106", "realme 15 5G")
             put("RMX5110", "realme P4 5G")
-            put("RMX5111", "realme 15T")
+            put("RMX5111", "RMX5111 / realme 15T")
             put("RMX5112", "真我15T")
             put("RMX5116", "realme P4 Pro 5G")
             put("RMX5250", "realme 15x 5G")
@@ -19049,6 +19049,7 @@ object AndroidS {
             put("Smart-Ex02 ROW", "Smart-Ex02")
             put("Smart-Ex02 RUS", "Smart-Ex02")
             put("Smart-Ex03", "Smart-Ex 03")
+            put("Smart-Ex203", "Smart-Ex 203")
             put("Smart402", "Smart 402")
             put("Smart5.5Plus32GB", "Smart5.5Plus")
             put("Smart509", "Smart 509")

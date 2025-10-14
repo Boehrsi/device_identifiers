@@ -1,4 +1,4 @@
-// [2025-10-12 02:25:49.577372] Auto generated file, do not change.
+// [2025-10-14 06:07:02.932334] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -6110,7 +6110,7 @@ Map<String, String> _androidG = {
   'GOLD_PRO': 'Gold Pro',
   'GOME_2018X07A': 'GOME C7',
   'GOME_C7_Note': 'GOME C7 Note mini / GOME_C7_Note',
-  'GOPAD': 'T11_1',
+  'GOPAD': 'T10 / T11_1',
   'GP10X2019': 'ITELMOBILE GP10X2019',
   'GPLUS F53': 'F53',
   'GPLUS_FW6950': 'FW6950',
@@ -6725,7 +6725,7 @@ Map<String, String> _androidH = {
   'HB72': 'EF-61',
   'HB73': 'EF-71',
   'HB76': 'EF-72',
-  'HB79': 'EF-62',
+  'HB79': 'EF-71',
   'HB82': 'EH-LS670',
   'HC50': 'HC50 / TC22',
   'HCA-6010': 'HCA6010 / Homeplus_ATV HCA-6010',
@@ -13671,7 +13671,7 @@ Map<String, String> _androidP = {
   'P4_eMagic': 'P4 eMagic',
   'P4_eMagic_TM': 'P4 eMagic',
   'P5': 'P5L / Silver P5 / P5 / P5_EEA / Wiseasy P5',
-  'P50': 'P50 / P50_EEA / P50_ROW',
+  'P50': 'P50 / P50_B_EEA / P50_EEA / P50_ROW',
   'P50 LPR': 'P50',
   'P500': 'P500 / ZTE Blade A3 2019',
   'P5026A': 'Cosmo L',
@@ -15265,7 +15265,7 @@ Map<String, String> _androidR = {
   'RMX5105': '真我15',
   'RMX5106': 'realme 15 5G',
   'RMX5110': 'realme P4 5G',
-  'RMX5111': 'realme 15T',
+  'RMX5111': 'RMX5111 / realme 15T',
   'RMX5112': '真我15T',
   'RMX5116': 'realme P4 Pro 5G',
   'RMX5250': 'realme 15x 5G',
@@ -19031,6 +19031,7 @@ Map<String, String> _androidS = {
   'Smart-Ex02 ROW': 'Smart-Ex02',
   'Smart-Ex02 RUS': 'Smart-Ex02',
   'Smart-Ex03': 'Smart-Ex 03',
+  'Smart-Ex203': 'Smart-Ex 203',
   'Smart402': 'Smart 402',
   'Smart5.5Plus32GB': 'Smart5.5Plus',
   'Smart509': 'Smart 509',
