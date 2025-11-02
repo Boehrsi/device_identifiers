@@ -1,4 +1,4 @@
-// [2025-10-26 02:41:50.485076] Auto generated file, do not change.
+// [2025-11-02 02:46:08.358685] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -164,6 +164,10 @@ Map<String, String> _iOs = {
   'iPad16,4': 'iPad Pro 11-inch (M4)',
   'iPad16,5': 'iPad Pro 13-inch (M4)',
   'iPad16,6': 'iPad Pro 13-inch (M4)',
+  'iPad17,1': 'iPad Pro 11-inch (M5)',
+  'iPad17,2': 'iPad Pro 11-inch (M5)',
+  'iPad17,3': 'iPad Pro 13-inch (M5)',
+  'iPad17,4': 'iPad Pro 13-inch (M5)',
 };
 String lookupIosName(String model) => _iOs[model] ?? model;
 Map<String, String> _android0 = {

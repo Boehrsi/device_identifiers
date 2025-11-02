@@ -1,4 +1,4 @@
-// [2025-10-26 02:41:50.485076] Auto generated file, do not change.
+// [2025-11-02 02:46:08.358685] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -168,6 +168,10 @@ object Ios {
             put("iPad16,4", "iPad Pro 11-inch (M4)")
             put("iPad16,5", "iPad Pro 13-inch (M4)")
             put("iPad16,6", "iPad Pro 13-inch (M4)")
+            put("iPad17,1", "iPad Pro 11-inch (M5)")
+            put("iPad17,2", "iPad Pro 11-inch (M5)")
+            put("iPad17,3", "iPad Pro 13-inch (M5)")
+            put("iPad17,4", "iPad Pro 13-inch (M5)")
         }
     }
 }
