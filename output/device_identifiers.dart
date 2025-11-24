@@ -1,4 +1,4 @@
-// [2025-11-23 02:58:09.487464] Auto generated file, do not change.
+// [2025-11-24 16:02:57.519729] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -8064,6 +8064,7 @@ Map<String, String> _androidH = {
   'Hawaii': 'Lenovo K15 / moto e32',
   'Hawk_from_EE': 'Hawk from EE',
   'Helgi_HX10': 'HXxx10',
+  'Helo3': 'Viihde Sound',
   'Hero SX': 'Hero_SX',
   'Hero_H7_Plus': 'Hero H7 Plus',
   'Hero_H9': 'Hero H9',
@@ -16598,6 +16599,7 @@ Map<String, String> _androidS = {
   'SKT01': 'TORQUE',
   'SKW-A0': 'Black Shark 2',
   'SKW-H0': 'Black Shark 2',
+  'SKW-HP44J-OTV': 'Ooredoo tv',
   'SKY 9 A102 3G SS9236PG': 'SKY_9_A102_3G',
   'SKY 9 E201 3G SS9237MG': 'SKY 9 E201 3G',
   'SKY A67': 'Sky_A67',
@@ -21616,7 +21618,7 @@ Map<String, String> _androidV = {
   'VKY-L29': 'P10 Plus',
   'VKY-TL00': 'P10 Plus',
   'VK_5400_BK': 'Cosmic',
-  'VL68_Lite': 'VL68 Lite',
+  'VL68 Lite': 'VL68_Lite',
   'VLE5A': 'VLE5',
   'VM1A': 'Thor VM1A',
   'VM3A': 'Thor VM3A',

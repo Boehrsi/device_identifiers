@@ -1,4 +1,4 @@
-// [2025-11-23 02:58:09.487464] Auto generated file, do not change.
+// [2025-11-24 16:02:57.519729] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -8095,6 +8095,7 @@ object AndroidH {
             put("Hawaii", "Lenovo K15 / moto e32")
             put("Hawk_from_EE", "Hawk from EE")
             put("Helgi_HX10", "HXxx10")
+            put("Helo3", "Viihde Sound")
             put("Hero SX", "Hero_SX")
             put("Hero_H7_Plus", "Hero H7 Plus")
             put("Hero_H9", "Hero H9")
@@ -16618,6 +16619,7 @@ object AndroidS {
             put("SKT01", "TORQUE")
             put("SKW-A0", "Black Shark 2")
             put("SKW-H0", "Black Shark 2")
+            put("SKW-HP44J-OTV", "Ooredoo tv")
             put("SKY 9 A102 3G SS9236PG", "SKY_9_A102_3G")
             put("SKY 9 E201 3G SS9237MG", "SKY 9 E201 3G")
             put("SKY A67", "Sky_A67")
@@ -21627,7 +21629,7 @@ object AndroidV {
             put("VKY-L29", "P10 Plus")
             put("VKY-TL00", "P10 Plus")
             put("VK_5400_BK", "Cosmic")
-            put("VL68_Lite", "VL68 Lite")
+            put("VL68 Lite", "VL68_Lite")
             put("VLE5A", "VLE5")
             put("VM1A", "Thor VM1A")
             put("VM3A", "Thor VM3A")
