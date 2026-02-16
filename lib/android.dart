@@ -22,12 +22,7 @@ Future<Map<String, Map>> requestAndroidIdentifiers(String target) async {
 List<List<dynamic>> decode(http.Response response) {
   final utf16Bytes = response.bodyBytes.buffer.asUint16List();
   final responseString = String.fromCharCodes(utf16Bytes);
-  final List<List<dynamic>> decodedResponse =
-      const CsvToListConverter().convert(
-    responseString,
-    eol: '\n',
-  );
-  return decodedResponse;
+  return csv.decode(responseString);
 }
 
 void removeHeader(List<List<dynamic>> list) => list.removeAt(0);
