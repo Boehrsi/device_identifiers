@@ -1,4 +1,4 @@
-// [2026-02-16 18:41:54.030799] Auto generated file, do not change.
+// [2026-02-22 03:36:56.091354] Auto generated file, do not change.
 
 package com.example.mypackage // Adjust to match your desired package
 
@@ -9210,6 +9210,7 @@ object AndroidI {
             put("Infinix X6871", "GT 20 Pro")
             put("Infinix X6873", "GT 30 Pro")
             put("Infinix X6876", "GT 30")
+            put("Infinix X6878", "NOTE 60 Pro")
             put("Infinix X6879", "Infinix NOTE 60")
             put("Infinix X687B", "Infinix ZERO 8i")
             put("Infinix X6880", "HOT 50 Pro+")
@@ -23987,6 +23988,7 @@ object AndroidLowercaseD {
         buildMap {
             put("d-41A", "dtab d-41A")
             put("d-51C", "dtab d-51C")
+            put("d-51F", "dtab d-51F")
             put("dL1", "ELUGA")
             put("dTV01", "M220")
             put("dandelion", "Redmi 9A")

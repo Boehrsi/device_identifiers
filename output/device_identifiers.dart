@@ -1,4 +1,4 @@
-// [2026-02-16 18:41:54.030799] Auto generated file, do not change.
+// [2026-02-22 03:36:56.091354] Auto generated file, do not change.
 
 Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
@@ -9187,6 +9187,7 @@ Map<String, String> _androidI = {
   'Infinix X6871': 'GT 20 Pro',
   'Infinix X6873': 'GT 30 Pro',
   'Infinix X6876': 'GT 30',
+  'Infinix X6878': 'NOTE 60 Pro',
   'Infinix X6879': 'Infinix NOTE 60',
   'Infinix X687B': 'Infinix ZERO 8i',
   'Infinix X6880': 'HOT 50 Pro+',
@@ -23957,6 +23958,7 @@ Map<String, String> _androidc = {
 Map<String, String> _androidd = {
   'd-41A': 'dtab d-41A',
   'd-51C': 'dtab d-51C',
+  'd-51F': 'dtab d-51F',
   'dL1': 'ELUGA',
   'dTV01': 'M220',
   'dandelion': 'Redmi 9A',
