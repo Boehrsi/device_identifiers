@@ -1,6 +1,9 @@
-// [2026-10-25 05:48:47.870823] Auto generated file, do not change.
+// [2026-11-01 08:27:10.601311] Auto generated file, do not change.
 
-Map<String, String> _iOs = {
+// coverage:ignore-file
+// ignore_for_file: type=lint, unused_element, lines_longer_than_80_chars
+
+const Map<String, String> _iOs = {
   'i386': 'iPhone Simulator',
   'x86_64': 'iPhone Simulator',
   'arm64': 'iPhone Simulator',
@@ -170,7 +173,7 @@ Map<String, String> _iOs = {
   'iPad17,4': 'iPad Pro 13-inch (M5)',
 };
 String lookupIosName(String model) => _iOs[model] ?? model;
-Map<String, String> _android0 = {
+const Map<String, String> _android0 = {
   '001DL': 'Streak',
   '001HT': 'Desire HD',
   '003Z': 'Blade',
@@ -184,7 +187,7 @@ Map<String, String> _android0 = {
   '0PJA2': 'One M9',
   '0PM92': 'Desire 626s',
 };
-Map<String, String> _android1 = {
+const Map<String, String> _android1 = {
   '1': 'mu 1',
   '10.1Myros': 'VP100+',
   '100003561': 'onn_100003561',
@@ -198,8 +201,7 @@ Map<String, String> _android1 = {
   '10080': 'TABLET_PC',
   '1008S': 'Feel_1008S',
   '1010': 'TAB 10 / TAB_10',
-  '1013':
-      'ADVAN_TAB_A10 / ADVAN_TAB_A10S / Sketsa3 / VX NEO / VX_LITE / TAB VX',
+  '1013': 'ADVAN_TAB_A10 / ADVAN_TAB_A10S / Sketsa3 / VX NEO / VX_LITE / TAB VX',
   '101F': 'ARROWS A SoftBank 101F',
   '101K': 'HONEY BEE',
   '101N': 'MEDIAS CH 101N',
@@ -255,7 +257,7 @@ Map<String, String> _android1 = {
   '1DY4G': '1DY4G_eea',
   '1EY': 'M-SP1EY',
 };
-Map<String, String> _android2 = {
+const Map<String, String> _android2 = {
   '2000_000170_00': 'rephone',
   '2000_000176_00': 'rephone5G',
   '2013022': 'Hong Mi',
@@ -727,7 +729,9 @@ Map<String, String> _android2 = {
   '26081RA18G': 'REDMI Note 17 5G',
   '26081RA18L': 'REDMI Note 17 5G',
   '2608BPX34C': 'Xiaomi 18 Fold',
+  '2609FPC74I': 'POCO X8 Power',
   '2609FRA74G': 'REDMI Note 17 Pro Max 5G',
+  '2609FRA74I': 'REDMI Note 17 Pro Max 5G',
   '27PM01': 'PM01',
   '2851F Google Monitor': 'Google Monitor',
   '2E E450 2018': '2E E450A 2018',
@@ -745,8 +749,7 @@ Map<String, String> _android2 = {
   '2K SA Google TV': 'Google TV',
   '2K SA Smart TV': 'Smart TV',
   '2K SMART ISDB TV': 'VIOTTO',
-  '2K SMART TV':
-      'AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / AZATECH / BOTECH / BLAUPUNKT / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / DYON / Dyon / EKO / ECOSTAR / ENGLAON / GAZER / GRAETZ / HORION / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / BANANA / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELECTRA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MARSRIVA / MAXEN / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / LANIX / NA / MAG / MANGO / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / MYSTIC / NEXT / NEXT-G / NEXT_G / PEL / PHILIPS / POWER_GREEN / QBELL / QTOUCH / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / SIRAGON / Siragon / SMART TECHNOLOGY / SONEVIEW / THEUHD / 2K SMART TV / VIVAX / WISMANN / ENOVA',
+  '2K SMART TV': 'AOC / ACONATIC / ADMIRAL / Aiwa / AKAI / AZATECH / BOTECH / BLAUPUNKT / Blaupunkt / CHALLENGER / CONTI / DIJITSU / DAEWOO / DAHUA / DAIWA / DYON / Dyon / EKO / ECOSTAR / ENGLAON / GAZER / GRAETZ / HORION / HYUNDAI / JVC / JAM / KTC / ADSUN / ASAANO / BANANA / Banana / COLORVIEW / DAMASCO / DANILUX / DYANORA / ELECTRA / ELEMENT / ESLEY / FOL / HARMON-TEC / IBG / IHOME / INNO-HIT / MARSRIVA / MAXEN / MULTISMART / NEXUS / OZON / PHIMARK / QRIOM / RANCON / RENYA / RZTK / SKY-ONE / TRIBOSS / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / WESTWAY / WYBOR / XELL / ZITRO / KENSTAR / KIOWA / LUCOMS / LANIX / NA / MAG / MANGO / Mango / Master-G / Maxsonic_elite / MOTOROLA / MTEK / MYSTIC / NEXT / NEXT-G / NEXT_G / PEL / PHILIPS / POWER_GREEN / QBELL / QTOUCH / RCA / RANGS / ROYALRAHMANI / AP / SAELITE / STARSHINE / SHARP / SILO / SIRAGON / Siragon / SMART TECHNOLOGY / SONEVIEW / THEUHD / 2K SMART TV / VIVAX / WISMANN / ENOVA',
   '2K SMART TV PH': 'PHILIPS',
   '2K Siera SMART TV': 'SIERA',
   '2K Smart Monitor': 'Smart Monitor',
@@ -772,7 +775,7 @@ Map<String, String> _android2 = {
   '2QBK10000': 'HTC Desire 22 5G',
   '2QC9100': 'HTC U23 pro',
 };
-Map<String, String> _android3 = {
+const Map<String, String> _android3 = {
   '301F': 'ARROWS A SoftBank 301F',
   '302HW': 'P6S-L04',
   '302KC': 'DIGNO T',
@@ -791,7 +794,7 @@ Map<String, String> _android3 = {
   '3W_EEA': 'Q5_EEA / W3_T_EEA / 3W_EEA',
   '3W_US': 'Q5_US / W3_T_US / 3W_US',
 };
-Map<String, String> _android4 = {
+const Map<String, String> _android4 = {
   '4003A': 'PIXI3(4)',
   '4003J': 'PIXI3(4)',
   '4009A': 'ALCATEL ONETOUCH PIXI 3 (3.5)',
@@ -885,8 +888,7 @@ Map<String, String> _android4 = {
   '4087U': 'Alcatel 1SE elite edition',
   '4087U_EEA': 'Alcatel 1SE lite edition',
   '4087U_RU': 'Alcatel 1SE light',
-  '40D':
-      'Age / ECOSTAR / KELEC / AP / Karbonn Smart TV / Rosso / Sansui Smart TV',
+  '40D': 'Age / ECOSTAR / KELEC / AP / Karbonn Smart TV / Rosso / Sansui Smart TV',
   '40DCOL': 'challenger / COL',
   '40DNA': 'NA',
   '40DSA': 'DAHUA / SA / Zitro',
@@ -918,10 +920,8 @@ Map<String, String> _android4 = {
   '4K Dongle Research': '4K Dongle',
   '4K EKO Google TV': 'EKO',
   '4K ELEXIA Google TV': 'ELEXIA',
-  '4K Google TV Box':
-      'ATBOX001 THE ULTRA / KM7 PLUS / Start-4K / Leap-S3 / LEAP-S3+',
-  '4K Google TV Stick':
-      'Meta-C1 / KD3 / 4K TV Stick / RSG-11B / Leap-S2 / SRT41 / 4K Google TV Stick',
+  '4K Google TV Box': 'ATBOX001 THE ULTRA / KM7 PLUS / Start-4K / Leap-S3 / LEAP-S3+',
+  '4K Google TV Stick': 'Meta-C1 / KD3 / 4K TV Stick / RSG-11B / Leap-S2 / SRT41 / 4K Google TV Stick',
   '4K Hybrid STB': 'SRT420',
   '4K JP ACAS Google TV': 'Google TV',
   '4K JP BCAS Google TV': 'Google TV',
@@ -936,8 +936,7 @@ Map<String, String> _android4 = {
   '4K SMART ATSC TV': 'HYUNDAI',
   '4K SMART COL TV': 'HYUNDAI',
   '4K SMART ISDB TV': 'HYUNDAI / VIOTTO / PHILIPS',
-  '4K SMART TV':
-      'AGE / AOC / ACONATIC / ADMIRAL / ADVANCE / AIWA / Aiwa / AZATECH / BOTECH / BAUF / BLAUPUNKT / CASPER / CHALLENGER / challenger / CONTI / DAMASCO / DIJITSU / DAEWOO / DAHUA / DAIWA / DURABRAND / DYON / ECOSTAR / ELEMENT / FPD / FUEGO / GOTO / GAZER / GHIA / GRAETZ / Graetz / HORION / HYUNDAI / ITEL / JVC / JAM / KTC / ADSUN / AKAI / ASAANO / BANANA / Banana / CHIMEI / COLORVIEW / DANILUX / DEC / DYANORA / ELECTRA / ESLEY / FOL / FPS / GTRONIC / HARMON-TEC / HAUSTEC / IBG / IHOME / IMMER / INCLO / INNO-HIT / IQWORLD / JANUS / JSW / JVCO / LikeMe / MARSRIVA / MAXEN / MITSUKI / MULTISMART / NEXUS / ONN / OZON / PHIMARK / POWEROLOGY / QRIOM / RANCON / REYNA / ROOMI / RZTK / SEUCOM / SKY-ONE / STAR-TRACK / THEUHD / TOMMATECH / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / VOXICON / WYBOR / X-VISION / XELL / YARA / ZENET / Zitro / Kenwood / KIOWA / KIVI / KOLIN / LUCMOS / LUCOMS / LANIX / MAG / MAX / MANGO / MASTER-G / MASTER_G / Master-G / Maxsonic_elite / MOTOROLA / Motorola / MTEK / MULTILASER / MYSTIC / NIKAI_PRO / NEXT / NEXT-G / NEXT_G / ONVO / PEL / PHILCO / PHILIPS / POWER GREEN / RCA / REDLINE / RANGS / REALME TECHLIFE / ROSSO / ROYALRAHMANI / SVISION / SAMVIEW / SHARP / SILO / SIRAGON / Siragon / SMART TECHNOLOGY / SMART TEcHNOLGY / SONEVIEW / THE UHD / VIZZION / 4K SMART TV / VIVAX / WISMANN / XITRIX / XTRATECH / YASIN / Enova / THEHAAM',
+  '4K SMART TV': 'AGE / AOC / ACONATIC / ADMIRAL / ADVANCE / AIWA / Aiwa / AZATECH / BOTECH / BAUF / BLAUPUNKT / CASPER / CHALLENGER / challenger / CONTI / DAMASCO / DIJITSU / DAEWOO / DAHUA / DAIWA / DURABRAND / DYON / ECOSTAR / ELEMENT / FPD / FUEGO / GOTO / GAZER / GHIA / GRAETZ / Graetz / HORION / HYUNDAI / ITEL / JVC / JAM / KTC / ADSUN / AKAI / ASAANO / BANANA / Banana / CHIMEI / COLORVIEW / DANILUX / DEC / DYANORA / ELECTRA / ESLEY / FOL / FPS / GTRONIC / HARMON-TEC / HAUSTEC / IBG / IHOME / IMMER / INCLO / INNO-HIT / IQWORLD / JANUS / JSW / JVCO / LikeMe / MARSRIVA / MAXEN / MITSUKI / MULTISMART / NEXUS / ONN / OZON / PHIMARK / POWEROLOGY / QRIOM / RANCON / REYNA / ROOMI / RZTK / SEUCOM / SKY-ONE / STAR-TRACK / THEUHD / TOMMATECH / VEIRA / VINCENT / VIOTTO / VISTA / VON / VOXELECTRONICS / VOXICON / WYBOR / X-VISION / XELL / YARA / ZENET / Zitro / Kenwood / KIOWA / KIVI / KOLIN / LUCMOS / LUCOMS / LANIX / MAG / MAX / MANGO / MASTER-G / MASTER_G / Master-G / Maxsonic_elite / MOTOROLA / Motorola / MTEK / MULTILASER / MYSTIC / NIKAI_PRO / NEXT / NEXT-G / NEXT_G / ONVO / PEL / PHILCO / PHILIPS / POWER GREEN / RCA / REDLINE / RANGS / REALME TECHLIFE / ROSSO / ROYALRAHMANI / SVISION / SAMVIEW / SHARP / SILO / SIRAGON / Siragon / SMART TECHNOLOGY / SMART TEcHNOLGY / SONEVIEW / THE UHD / VIZZION / 4K SMART TV / VIVAX / WISMANN / XITRIX / XTRATECH / YASIN / Enova / THEHAAM',
   '4K SMART TV PH': 'PHILIPS',
   '4K Sharp Google TV': 'Sharp',
   '4K Siera SMART TV': 'Siera',
@@ -949,7 +948,7 @@ Map<String, String> _android4 = {
   '4S806_Z31S': 'TH-43JX580C',
   '4iG DIW252V': 'Mini Box',
 };
-Map<String, String> _android5 = {
+const Map<String, String> _android5 = {
   '5001A': 'Alcatel 1V',
   '5001D_EEA': 'Alcatel 1V',
   '5001D_RU': 'Alcatel 1V',
@@ -1314,7 +1313,7 @@ Map<String, String> _android5 = {
   '57PB1': 'HYLine_Plus',
   '5S': '5_S',
 };
-Map<String, String> _android6 = {
+const Map<String, String> _android6 = {
   '6001': 'G3',
   '6002': 'G3 Pro',
   '6002A': 'Alcatel 1V',
@@ -1399,7 +1398,7 @@ Map<String, String> _android6 = {
   '6781': 'ADVAN_X1',
   '6801': 'GX',
 };
-Map<String, String> _android7 = {
+const Map<String, String> _android7 = {
   '7008': 'X7 Pro',
   '701HW': 'HUAWEI MediaPad M3 Lite',
   '701LV': 'Lenovo TAB4',
@@ -1452,7 +1451,7 @@ Map<String, String> _android7 = {
   '7WD1': 'Koral',
   '7in-I-Series-Pay': 'I-Series Pay 7"',
 };
-Map<String, String> _android8 = {
+const Map<String, String> _android8 = {
   '80-1': 'Maxwell 10 / Maxwell-10',
   '8001': 'G-Tab',
   '8002': 'TAB 8',
@@ -1558,7 +1557,7 @@ Map<String, String> _android8 = {
   '8WB3': 'Hytab_Plus',
   '8WC1': 'HT8WC1RBK01KB01 / HT8WC1RBK01KB02 / HT8WC1RBK01KB03 / Koral',
 };
-Map<String, String> _android9 = {
+const Map<String, String> _android9 = {
   '9 Pro': '9_Pro',
   '9 inch SDU': 'SDU',
   '9007A': 'ONETOUCH PIXI3(7)',
@@ -1613,8 +1612,7 @@ Map<String, String> _android9 = {
   '9061': 'TCL TAB 10s',
   '906SH': 'AQUOS zero2 906SH',
   '907SH': 'AQUOS sense3 basic',
-  '9080G':
-      'TAB 10s 4G 2022 / TAB 10s 4G New / TCL NXTPAPER 10s / TCL TAB 10s 4G',
+  '9080G': 'TAB 10s 4G 2022 / TAB 10s 4G New / TCL NXTPAPER 10s / TCL TAB 10s 4G',
   '9080X': 'TCL TAB 10s 4G / TCL 随学堂 L10',
   '9081X': 'TAB 10s 2022 / TAB 10s New / TCL NXTPAPER 10s / TCL TAB 10s',
   '908SH': 'AQUOS R5G 908SH',
@@ -1685,7 +1683,7 @@ Map<String, String> _android9 = {
   '9DTB7': 'Hipstreet 9DTB7 / Lazer MY9308P',
   '9S61Z_ZQ20S': '43GX580C',
 };
-Map<String, String> _androidA = {
+const Map<String, String> _androidA = {
   'A SENSE': 'ALTOP E board',
   'A0001': 'One',
   'A001': 'CMF Phone 2 Pro',
@@ -1724,8 +1722,7 @@ Map<String, String> _androidA = {
   'A1-840FHD': 'Iconia Tab 8',
   'A1-841': 'Iconia Tab 8',
   'A1-850': 'Iconia One 8',
-  'A10':
-      'ADVAN_TAB_A10 / A10_EEA / A10_NEU / A10_WIFI / Blackview A10 / A10 / A10a / Greentel-A10 / A10_ROW',
+  'A10': 'ADVAN_TAB_A10 / A10_EEA / A10_NEU / A10_WIFI / Blackview A10 / A10 / A10a / Greentel-A10 / A10_ROW',
   'A10 PLUS': 'A10PLUS_US / A10_PLUS_EEA / A10_PLUS_ROW',
   'A10 Pro': 'A10_Pro_EEA',
   'A10-11': 'Tattoo',
@@ -1918,7 +1915,7 @@ Map<String, String> _androidA = {
   'A463BG': 'Pixi3-3.5 TF',
   'A466T': 'Pixi4-4 3G Telus',
   'A4C': 'Bouygues Telecom Bs 402',
-  'A5': 'A5_AC11 / Azumi_A5_AC15 / A5 / FreeYondA5 / FreeYondA5_RU',
+  'A5': 'A5_AC11 / Azumi_A5_AC15 / A5 / FreeYondA5 / FreeYondA5_RU / A5_Air',
   'A5 PLUS': 'A5PLUS',
   'A5+': 'A5+ / A5_P1',
   'A5-2-R': 'A5_2_R',
@@ -2044,8 +2041,7 @@ Map<String, String> _androidA = {
   'A8i-Q2': 'A8i Q2',
   'A9': 'A9_EEA / A9 / A9 EEA',
   'A9 Indian': 'A9_Indian',
-  'A9 Pro':
-      'A9 Pro / A9 Pro 128G / A9 Pro 128G EEA / A9 Pro R / A9 Pro R EEA / A9 Pro_EEA',
+  'A9 Pro': 'A9 Pro / A9 Pro 128G / A9 Pro 128G EEA / A9 Pro R / A9 Pro R EEA / A9 Pro_EEA',
   'A90': 'A90 / A90_ROW',
   'A912': 'polaris_wifionly',
   'A930': 'A930 / MG',
@@ -2083,7 +2079,7 @@ Map<String, String> _androidA = {
   'ACP75P': 'ACERPURE INDIA CE PRIVATE LIMITED',
   'ACR4KR75P': 'Acer',
   'ACTION-X3': 'Action-X3',
-  'AD-Z5': 'CORE-Z6 450',
+  'AD-Z5': 'Core-Z6 450',
   'AD116': 'AD116_EEA / AD116_ROW',
   'ADMIRE GLORY+': 'Zen Admire Glory+',
   'ADMIRE NEO+': 'ZEN ADMIRE NEO PLUS',
@@ -2168,8 +2164,7 @@ Map<String, String> _androidA = {
   'AH9110': 'benco Y11',
   'AH9210': 'benco Y40',
   'AH9910': 'Z30 / AH9910 / benco Y41',
-  'AI PONT':
-      'Smart TV / B725050U / B725U / LXL43G7H-AT / RO-55LCS / Android TV / Alpha 43G7NUA / M8T / RO-43LCS / G6SG / BTF-43SG / BTF-75TG / E40-520 / E55-720 / B5000 / G7H / H7000 / H7 / H7A / M7A / L32H7 / U50H7 / UHD Android TV / CGS55UHD / EGS42FHD / G7N / 32SD520 / Algeria / 43FDVRCHG5SP / ESD / GHS55 / Vietnam / GT9HD32 / GT9UHD / LD50CHS04U / BS5002 / G9S / H-LED32ES5008 / H-LED32ES5108 / H-LED50EU7008 / HATV-58AA100 / HYLED5015A4KM / 32X1 / 55X1 / G4310IE / G5524BE / LT-32N3115A / LT-40N5115A / LT-50KD507 / LT-50N7115A / K5130H43U / K5132H32H / KALED32RH9210STA / RF9220 / 32CAM6SHD / NI32HG7NA9 / NI43UG7NA9 / 32VRCHG5SP / 43UDVRCHG7H / 32770H-TAB / ODL 32770H-TAB / ODL50672U-TAB / OR-50UX400S / PQ55CH / Smart tv / G5N / PRM750USV / realme TV / realme TV 32 / R-32B6600 / A11 / SH32G7S / SH55G7K / JSC43ASUHD / AndroidTV / 32A1S / 55A1S / K5T / TL55U12TRE / 32TG6A9 / 50TG7UA9X / LED32HS72A9 / VR-42AF6800 / 43UA / 50CA / WUD55JOA63S',
+  'AI PONT': 'Smart TV / B725050U / B725U / LXL43G7H-AT / RO-55LCS / Android TV / Alpha 43G7NUA / M8T / RO-43LCS / G6SG / BTF-43SG / BTF-75TG / E40-520 / E55-720 / B5000 / G7H / H7000 / H7 / H7A / M7A / L32H7 / U50H7 / UHD Android TV / CGS55UHD / EGS42FHD / G7N / 32SD520 / Algeria / 43FDVRCHG5SP / ESD / GHS55 / Vietnam / GT9HD32 / GT9UHD / LD50CHS04U / BS5002 / G9S / H-LED32ES5008 / H-LED32ES5108 / H-LED50EU7008 / HATV-58AA100 / HYLED5015A4KM / 32X1 / 55X1 / G4310IE / G5524BE / LT-32N3115A / LT-40N5115A / LT-50KD507 / LT-50N7115A / K5130H43U / K5132H32H / KALED32RH9210STA / RF9220 / 32CAM6SHD / NI32HG7NA9 / NI43UG7NA9 / 32VRCHG5SP / 43UDVRCHG7H / 32770H-TAB / ODL 32770H-TAB / ODL50672U-TAB / OR-50UX400S / PQ55CH / Smart tv / G5N / PRM750USV / realme TV / realme TV 32 / R-32B6600 / A11 / SH32G7S / SH55G7K / JSC43ASUHD / AndroidTV / 32A1S / 55A1S / K5T / TL55U12TRE / 32TG6A9 / 50TG7UA9X / LED32HS72A9 / VR-42AF6800 / 43UA / 50CA / WUD55JOA63S',
   'AI PONT BD': 'Smart TV',
   'AI PONT BR': 'Smart TV',
   'AI PONT CO': 'Smart TV',
@@ -2242,19 +2237,14 @@ Map<String, String> _androidA = {
   'ALCATEL ONE TOUCH 5037A': 'ALCATEL_ONE_TOUCH_5037A',
   'ALCATEL ONE TOUCH 5037X': 'ALCATEL_ONE_TOUCH_5037X',
   'ALCATEL ONE TOUCH 6010': 'ALCATEL ONE TOUCH 601 / ALCATEL ONE TOUCH 6010X',
-  'ALCATEL ONE TOUCH 6010D':
-      'ALCATEL ONE TOUCH 6010D / ALCATEL ONE TOUCH 6010X',
+  'ALCATEL ONE TOUCH 6010D': 'ALCATEL ONE TOUCH 6010D / ALCATEL ONE TOUCH 6010X',
   'ALCATEL ONE TOUCH 6010X-orange': 'ALCATEL ONE TOUCH 6010X',
   'ALCATEL ONE TOUCH 6012D': 'ONE TOUCH 6012D',
   'ALCATEL ONE TOUCH 6012X': 'ONE TOUCH 6012D',
-  'ALCATEL ONE TOUCH 6030A':
-      'ALCATEL ONE TOUCH 6030A / ALCATEL ONE TOUCH 6030X',
-  'ALCATEL ONE TOUCH 6030D':
-      'ALCATEL ONE TOUCH 6030D / ALCATEL ONE TOUCH 6030X',
-  'ALCATEL ONE TOUCH 6030X-orange':
-      'ALCATEL ONE TOUCH 6030X / ALCATEL ONE TOUCH 6030X-orange',
-  'ALCATEL ONE TOUCH 6033M':
-      'ALCATEL ONE TOUCH 6033M / ALCATEL ONE TOUCH 6033X',
+  'ALCATEL ONE TOUCH 6030A': 'ALCATEL ONE TOUCH 6030A / ALCATEL ONE TOUCH 6030X',
+  'ALCATEL ONE TOUCH 6030D': 'ALCATEL ONE TOUCH 6030D / ALCATEL ONE TOUCH 6030X',
+  'ALCATEL ONE TOUCH 6030X-orange': 'ALCATEL ONE TOUCH 6030X / ALCATEL ONE TOUCH 6030X-orange',
+  'ALCATEL ONE TOUCH 6033M': 'ALCATEL ONE TOUCH 6033M / ALCATEL ONE TOUCH 6033X',
   'ALCATEL ONE TOUCH 6034L': 'Idol S',
   'ALCATEL ONE TOUCH 6034M': 'Idol S',
   'ALCATEL ONE TOUCH 6034R': 'Idol S',
@@ -2264,8 +2254,7 @@ Map<String, String> _androidA = {
   'ALCATEL ONE TOUCH 6050Y': 'IDOL 2 S',
   'ALCATEL ONE TOUCH 7024N': 'ALCATEL ONE TOUCH Fierce',
   'ALCATEL ONE TOUCH 7024R': 'ALCATEL ONE TOUCH 7024W',
-  'ALCATEL ONE TOUCH 7024W':
-      'ALCATEL ONE TOUCH 7024W / ALCATEL ONE TOUCH Fierce',
+  'ALCATEL ONE TOUCH 7024W': 'ALCATEL ONE TOUCH 7024W / ALCATEL ONE TOUCH Fierce',
   'ALCATEL ONE TOUCH 7030R': 'MS4B',
   'ALCATEL ONE TOUCH 7030Y': 'MS4B',
   'ALCATEL ONE TOUCH 7047A': 'ALCATEL_ONE_TOUCH_7047A',
@@ -2300,8 +2289,7 @@ Map<String, String> _androidA = {
   'ALCATEL_ONE_TOUCH_4005D': 'ALCATEL ONE TOUCH 4005D',
   'ALCATEL_ONE_TOUCH_5020D_Orange': 'ALCATEL ONE TOUCH 5020D',
   'ALCATEL_ONE_TOUCH_5020X_Orange': 'ALCATEL ONE TOUCH 5020D',
-  'ALCATEL_ONE_TOUCH_6030X_Orange':
-      'ALCATEL ONE TOUCH 6030X / ALCATEL_ONE_TOUCH_6030X_Orange',
+  'ALCATEL_ONE_TOUCH_6030X_Orange': 'ALCATEL ONE TOUCH 6030X / ALCATEL_ONE_TOUCH_6030X_Orange',
   'ALCATEL_ONE_TOUCH_903': 'ALCATEL ONE TOUCH 903 / ALCATEL_ONE_TOUCH_903',
   'ALCATEL_ONE_TOUCH_985': 'ALCATEL ONE TOUCH 985',
   'ALCATEL_one_touch_4030A': 'one_touch_4030_TLVE',
@@ -2316,8 +2304,7 @@ Map<String, String> _androidA = {
   'ALCATEL_one_touch_990A': 'One Touch 990A',
   'ALCATEL_one_touch_990S': 'One Touch 990S',
   'ALCATEL_one_touch_991': 'ALCATEL ONE TOUCH 991 / ALCATEL_one_touch_991',
-  'ALCATEL_one_touch_995':
-      'ALCATEL ONE TOUCH 995 / ALCATEL_one_touch_995 / ATEL ONE TOUCH 995',
+  'ALCATEL_one_touch_995': 'ALCATEL ONE TOUCH 995 / ALCATEL_one_touch_995 / ATEL ONE TOUCH 995',
   'ALCATEL_one_touch_995A': 'ALCATEL ONE TOUCH 995A / ALCATEL_one_touch_995A',
   'ALE-L02': 'P8 Lite',
   'ALE-L21': 'P8 Lite',
@@ -2407,12 +2394,9 @@ Map<String, String> _androidA = {
   'AQUA Android TV 2K': 'APAC',
   'AQUOS 50S1': 'LenovoTV 50S52;AQUOS LCD-50S1A',
   'AQUOS 50U3A': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
-  'AQUOS 58U1':
-      'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
-  'AQUOS 60LX765A':
-      'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
-  'AQUOS 60UE20A':
-      'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
+  'AQUOS 58U1': 'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
+  'AQUOS 60LX765A': 'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
+  'AQUOS 60UE20A': 'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
   'AQUOS 65UR30A': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
   'AQUOS 70UD30A': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
   'AQUOS 70UG30A': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
@@ -2450,8 +2434,7 @@ Map<String, String> _androidA = {
   'AQUOS-TVH21B': 'DL1X',
   'AQUOS-TVH22A': 'EG1',
   'AQUOS-TVH23C': 'FK1',
-  'AQUOS-TVJ18':
-      '4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1 / 4T-C**AM1/AN1/AL1,8T-C**AX1/AW1',
+  'AQUOS-TVJ18': '4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1 / 4T-C**AM1/AN1/AL1,8T-C**AX1/AW1',
   'AQUOS-TVJ19': '4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1',
   'AQUOS-TVJ19B': '4T-C**BN1/BL1',
   'AQUOS-TVJ20B': '4T-C**BN1H/BL1H',
@@ -2671,8 +2654,7 @@ Map<String, String> _androidA = {
   'ASUS_X00QSA': 'ZenFone 5 (ZE620KL)',
   'ASUS_X00RD': 'ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)',
   'ASUS_X00TD': 'ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)',
-  'ASUS_X00TDB':
-      'ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)',
+  'ASUS_X00TDB': 'ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)',
   'ASUS_X013DA': 'ZenFone Go (ZB551KL)',
   'ASUS_X013DB': 'ZenFone Go (ZB551KL)',
   'ASUS_X014D': 'ZenFone Go (ZB452KG)',
@@ -2680,8 +2662,7 @@ Map<String, String> _androidA = {
   'ASUS_X017DA': 'ZenFone 5 Lite (ZC600KL)',
   'ASUS_X018D': 'ZenFone Max Plus M1 (ZB570TL)',
   'ASUS_X01AD': 'ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)',
-  'ASUS_X01BDA':
-      'ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)',
+  'ASUS_X01BDA': 'ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)',
   'ASUS_X550': '飛馬2 Plus (T550KLC)',
   'ASUS_Z002': 'ZenFone 6 (A601CG)',
   'ASUS_Z007': 'ZenFone C (ZC451CG)',
@@ -2897,10 +2878,8 @@ Map<String, String> _androidA = {
   'Agora Lite': 'Agora_Lite',
   'Agora XS': 'Kogan Agora XS',
   'Ahlo 1': '1',
-  'AiPlus2K':
-      'APAC / South of America / Egypt / USA,Canada,Mexico / EU、UK、AP / France',
-  'AiPlus4K':
-      'Australian/EU / Canada / Mexico / USA / Egypt / Australia / Mexio / Germany / SmartTech',
+  'AiPlus2K': 'APAC / South of America / Egypt / USA,Canada,Mexico / EU、UK、AP / France',
+  'AiPlus4K': 'Australian/EU / Canada / Mexico / USA / Egypt / Australia / Mexio / Germany / SmartTech',
   'AiPlus4KMY': 'Malaysia',
   'AiPro4K': 'Europe',
   'AiPro4K TV': 'South America',
@@ -2945,8 +2924,7 @@ Map<String, String> _androidA = {
   'Alcatel_5098O': '5098O / Alcatel_5098O',
   'Alcatel_9022S': 'ONETOUCH PIXI 3 (8)',
   'Alcatel_one_touch_908F_Orange': 'One Touch 908',
-  'Alcatel_one_touch_918_Orange':
-      'ALCATEL ONE TOUCH 918 / Alcatel_one_touch_918_Orange',
+  'Alcatel_one_touch_918_Orange': 'ALCATEL ONE TOUCH 918 / Alcatel_one_touch_918_Orange',
   'Alco_S9': 'Alco S9',
   'Alfa 10MX': 'ALFA10MX',
   'Alfa 11 BT': 'Alfa_11_BT',
@@ -3016,8 +2994,7 @@ Map<String, String> _androidA = {
   'Apex1': 'APEX1',
   'Apollo Premium4K TV': 'Columbia / Apollo Premium4K TV',
   'Apollo Pro4K TV': 'South of America',
-  'Apolosign Calendar':
-      'DigitalSignage / DigitalSignageFA2169T / DigitalSignageFA2769T / DigitalSignageFA2769T4K / WF2189T',
+  'Apolosign Calendar': 'DigitalSignage / DigitalSignageFA2169T / DigitalSignageFA2769T / DigitalSignageFA2769T4K / WF2189T',
   'Aprix Tab64': 'Tab64',
   'Aprix_Phat6': 'Phat6',
   'Aprix_X4': 'X4',
@@ -3314,7 +3291,7 @@ Map<String, String> _androidA = {
   'Azumi_V65_PLUS': 'Azumi V65+',
   'Azumi_V66': 'V66',
 };
-Map<String, String> _androidB = {
+const Map<String, String> _androidB = {
   'B BOT 50': 'B bot 50',
   'B BOT 550': 'B bot 550',
   'B UHD Android TV': 'Continental Edison',
@@ -3449,6 +3426,7 @@ Map<String, String> _androidB = {
   'BE_o2': 'O2',
   'BE_xl': 'BE XL',
   'BF00A': 'Aura_A1 / Aura_A1_EEA / Aura_A1_US',
+  'BFL PO728M': 'PO728M',
   'BFX-UA300': 'BFX-UA300 / SWAN',
   'BG-7': 'AT74K',
   'BG2-U01': 'MediaPad T3 7',
@@ -3541,8 +3519,7 @@ Map<String, String> _androidB = {
   'BLAUPUNKT 2K Android TV': 'EU、UK、AP',
   'BLAUPUNKT 4K Android TV': 'AUSTRALIA, MIDDLE EAST, JAPAN / Blaupunkt',
   'BLAUPUNKT 4K TV': 'BLAUPUNKT',
-  'BLAUPUNKT Android Monitor':
-      'AUSTRALIA, EU, JAPAN, MIDDLE EAST / Japan,Australia, Italy,German',
+  'BLAUPUNKT Android Monitor': 'AUSTRALIA, EU, JAPAN, MIDDLE EAST / Japan,Australia, Italy,German',
   'BLAUPUNKT Android TV': 'Australia / Blaupunkt android TV',
   'BLAUPUNKT Android TV 2K': 'Czech/Ukraine/Russia',
   'BLAUPUNKT EU 2K Android TV': 'Europe',
@@ -3977,8 +3954,7 @@ Map<String, String> _androidB = {
   'Bradshaw': 'Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan',
   'BrailleNote Touch +': 'gryphon',
   'BrailleSensePolaris': 'BrailleSense Polaris',
-  'Braswell Chrome OS Device':
-      'Intel Braswell Chromebook / Lenovo N Series Chromebook',
+  'Braswell Chrome OS Device': 'Intel Braswell Chromebook / Lenovo N Series Chromebook',
   'Brave Ark': 'BraveArk',
   'BrioTouch': 'IFP_ADPM',
   'BrioTouch_BR': 'Interactive_Flat_Panel_ADPM',
@@ -4002,7 +3978,7 @@ Map<String, String> _androidB = {
   'Bush Spira E2X 5" Smartphone': 'Spira E2X 5\'\'',
   'Byybuo': 'TAB_MAX_7',
 };
-Map<String, String> _androidC = {
+const Map<String, String> _androidC = {
   'C 38': 'C38_EEA',
   'C Bot Tab 100': 'C bot tab 100',
   'C Bot Tab 70': 'C bot tab 70',
@@ -4025,8 +4001,7 @@ Map<String, String> _androidC = {
   'C1': 'ACER_C1_EEA / C1_EEA / C1_TELCEL / C1 / c1 / LUXO C1 / redbeatC1',
   'C1 Pro': 'C1_Pro_EEA',
   'C1-U02': 'Coolpad C1-U02',
-  'C10':
-      'C10_EEA / C10_ROW / CORN C10 / C10 / C10US / C10_1 / C10_2 / RHINO C10',
+  'C10': 'C10_EEA / C10_ROW / CORN C10 / C10 / C10US / C10_1 / C10_2 / RHINO C10',
   'C1004': 'Viva C1004',
   'C101010 Ultra2': 'Nomi C101010',
   'C106': 'Cool C1',
@@ -4160,8 +4135,7 @@ Map<String, String> _androidC = {
   'C6743': 'Hydro REACH',
   'C6750': 'Hydro Elite',
   'C68': 'C68 / C68_EEA / C68_NFC_EEA / C68_NFC_ROW / C68_ROW',
-  'C68 Plus':
-      'C68_Plus_EEA / C68_Plus_NFC_EEA / C68_Plus_NFC_ROW / C68_Plus_ROW',
+  'C68 Plus': 'C68_Plus_EEA / C68_Plus_NFC_EEA / C68_Plus_NFC_ROW / C68_Plus_ROW',
   'C6802': 'Xperia Z Ultra',
   'C6806': 'Xperia Z Ultra',
   'C6806_GPe': 'Smartphone Z Ultra Google Play edition',
@@ -4425,6 +4399,7 @@ Map<String, String> _androidC = {
   'CP03': 'Cool 20 / coolpad COOL 20',
   'CP05': 'Cool 20 pro',
   'CP07': 'COOL 20S 5G / Cool 20s 5G',
+  'CP08-J2': 'CP08-C2 / CP08-J2',
   'CP08_C1': 'CP08-C1',
   'CP10-proK': 'CP10R_Pro',
   'CP10K_Pro': 'CP10_Pro',
@@ -4547,8 +4522,7 @@ Map<String, String> _androidC = {
   'CPH2321': 'OPPO A53s 5G',
   'CPH2339': 'A77 5G',
   'CPH2341': 'OPPO F21 Pro 5G',
-  'CPH2343':
-      'OPPO Reno7 Z 5G / OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G / Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G',
+  'CPH2343': 'OPPO Reno7 Z 5G / OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G / Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G',
   'CPH2351': 'A16K',
   'CPH2353': 'OPPO Reno7 A',
   'CPH2357': 'OPPO Reno8 Pro 5G',
@@ -4687,8 +4661,7 @@ Map<String, String> _androidC = {
   'CPH2795': 'OnePlus Nord 6',
   'CPH2797': 'Find X9',
   'CPH2799': 'A6 Pro',
-  'CPH2801':
-      'Reno15 C 5G / Reno15 F 5G / Reno15 F 5G/Reno15 A / Reno15 FS 5G/Reno15 F 5G',
+  'CPH2801': 'Reno15 C 5G / Reno15 F 5G / Reno15 F 5G/Reno15 A / Reno15 FS 5G/Reno15 F 5G',
   'CPH2805': 'OnePlus Nord CE6',
   'CPH2807': 'OnePlus Nord CE6',
   'CPH2811': 'Reno15 Pro 5G / Reno15 Pro Max 5G',
@@ -4757,10 +4730,8 @@ Map<String, String> _androidC = {
   'CSD-ELINK2': 'Pitney Bowes C-Series',
   'CSD-TXT2': 'SendPro C Series',
   'CSL_Spice_MI700': 'CSL Spice MI700',
-  'CSV2K':
-      'BLAUPUNKT / Indurama / DIGGIO / Global / INNOVA / NAKAMICHI / Motorola',
-  'CSV4K':
-      'BLAUPUNKT / Indurama / DIGGIO / Golbal / INNOVA / NAKAMICHI / Motorola',
+  'CSV2K': 'BLAUPUNKT / Indurama / DIGGIO / Global / INNOVA / NAKAMICHI / Motorola',
+  'CSV4K': 'BLAUPUNKT / Indurama / DIGGIO / Golbal / INNOVA / NAKAMICHI / Motorola',
   'CT-V200': 'CAST2_CAST-BLACKBOX',
   'CT10-W0C3': 'VisCart',
   'CT1000': 'CT1000 / TM1088',
@@ -4905,8 +4876,7 @@ Map<String, String> _androidC = {
   'Continental Android TV': 'France',
   'Continental Edison Android TV': 'EU、UK、AP / France',
   'ContinentalEdison 2K Android TV': 'ContinentalEdison 2K Android',
-  'ContinentalEdison 4K Android TV':
-      'ContinentalEdison 4K Android / ContinentalEdison 4K Android TV',
+  'ContinentalEdison 4K Android TV': 'ContinentalEdison 4K Android / ContinentalEdison 4K Android TV',
   'CoolMintt Blaze 2': 'CoolMintt_Blaze_2',
   'CoolMintt Rival 2': 'Rival_2',
   'CoolMinttA3': 'CoolMinttA3 / CoolMintt_A3',
@@ -5071,7 +5041,7 @@ Map<String, String> _androidC = {
   'Cypher C50': 'Cypher_C50',
   'Cypher C70': 'Cypher_C70',
 };
-Map<String, String> _androidD = {
+const Map<String, String> _androidD = {
   'D000-000001-B01': 'LifeTouch S',
   'D000-000001-B02': 'LifeTouch S',
   'D000-000001-C01': 'LifeTouch S',
@@ -5392,8 +5362,7 @@ Map<String, String> _androidD = {
   'Dell Chromebook 13 (7310)': 'Chromebook 13 7310',
   'Dell Chromebook 13 3380': 'Chromebook 13 3380',
   'Dell Chromebook 13 7310': 'Chromebook 13 7310',
-  'Dell Latitude 5400 Chromebook Enterprise':
-      'Dell Latitude Chromebook Enterprise',
+  'Dell Latitude 5400 Chromebook Enterprise': 'Dell Latitude Chromebook Enterprise',
   'Dell M01M': 'Streak',
   'Dell Streak': 'Streak',
   'Delta Y360-U93': 'Y360-U93',
@@ -5415,6 +5384,7 @@ Map<String, String> _androidD = {
   'Digiquest 2K Android TV': 'EU、UK、AP / Italy',
   'Digiquest 4K Android TV': 'Italy',
   'Digit Glory1': 'Digit_Glory',
+  'Digit Sonic Pro': 'Sonic_Pro',
   'Digit chrome': 'Digit_Chrome',
   'Digital Signage': 'EN_1DS',
   'Digital2 Platinum': 'Platinum',
@@ -5471,7 +5441,7 @@ Map<String, String> _androidD = {
   'Dyon 2K Android TV': 'Dyon',
   'Dyon 4K Android TV': 'Dyon',
 };
-Map<String, String> _androidE = {
+const Map<String, String> _androidE = {
   'E-Tab 4G': 'chagall',
   'E-tel i10': 'E-tel_i10',
   'E-tel i240': 'i240',
@@ -5527,7 +5497,7 @@ Map<String, String> _androidE = {
   'E2371': 'Sero7 LE',
   'E28': 'ETEL-E28 / E28',
   'E2_Jump': 'E2 Jump',
-  'E30': 'E30_Pro / E30_ROW / E30',
+  'E30': 'E30_Pro / E30_ROW / E30 / RTSP-C64B',
   'E30-A': 'A30L1_US',
   'E300AF32PBG': 'Smart TV',
   'E30ID': 'IFPD',
@@ -5699,10 +5669,8 @@ Map<String, String> _androidE = {
   'EKO 2K Android TV': 'EKO / EU、UK、AP / Eko / JVC',
   'EKO 2KTV': 'EKO',
   'EKO 2K Android TV': 'EU、UK、AP',
-  'EKO 4K Android TV':
-      'AUSTRALIA, EU, JAPAN, MIDDLE EAST / EKO / EKO android TV ISDB',
-  'EKO Android Monitor':
-      'Australia,Japan, Germany,Italy / Australia,Japan,Germany,Italy(No Tuner)',
+  'EKO 4K Android TV': 'AUSTRALIA, EU, JAPAN, MIDDLE EAST / EKO / EKO android TV ISDB',
+  'EKO Android Monitor': 'Australia,Japan, Germany,Italy / Australia,Japan,Germany,Italy(No Tuner)',
   'EKO Android TV': 'Australia',
   'EKO Android TV 2K': 'Australia',
   'EKO Google TV': 'EKO / EKO Google TV',
@@ -5955,14 +5923,12 @@ Map<String, String> _androidE = {
   'Elite J55US': 'Elite_J55US',
   'Elite OctaX': 'Elite OctaX / Elite_OctaX',
   'Elite P55': 'ELITE P55 / ELITE_P55US / Elite_P55',
-  'Elite P55Max':
-      'ELITE_P55Max / Elite_P55BMax / Elite_P55MANAL / Elite_P55MAXA / Elite_P55MUSAN / Elite_P55MxUS / Elite_P55XUSA2 / Elite_P55_CMax / Elite_P55_Max_D',
+  'Elite P55Max': 'ELITE_P55Max / Elite_P55BMax / Elite_P55MANAL / Elite_P55MAXA / Elite_P55MUSAN / Elite_P55MxUS / Elite_P55XUSA2 / Elite_P55_CMax / Elite_P55_Max_D',
   'Elite T10 PRO': 'Elite_T10_PRO',
   'Elite T11 Max': 'Elite T11 Max / Elite_T11_Max',
   'Elite T11Pro2': 'Elite_T11Pro2',
   'Elite T57': 'ELITE T57',
-  'Elite T8Plus':
-      'Elite T8 Plus / Elite T8Plus / Elite_T8PUSA / Elite_T8Plus / Elite_T8Pluss',
+  'Elite T8Plus': 'Elite T8 Plus / Elite T8Plus / Elite_T8PUSA / Elite_T8Plus / Elite_T8Pluss',
   'Elite T90E': 'Elise_T65V',
   'Elite V55': 'Elite_V55',
   'Elite v3a': 'Elitev3a',
@@ -6044,7 +6010,7 @@ Map<String, String> _androidE = {
   'Expresso': 'Mouridiyya_Phone',
   'EyeOnGo': 'EyeOnGo10',
 };
-Map<String, String> _androidF = {
+const Map<String, String> _androidF = {
   'F VIZZION TV': 'VIZZION / vizzion',
   'F and U Android TV': 'Greece',
   'F-01D': 'ARROWS Tab LTE F-01D',
@@ -6447,7 +6413,7 @@ Map<String, String> _androidF = {
   'Fusion5_F104E': 'Fusion5_F104E_EEA',
   'Future': 'Future / STYLO Future',
 };
-Map<String, String> _androidG = {
+const Map<String, String> _androidG = {
   'G-10 PRO': 'G-10_PRO',
   'G-10 ULTRA': 'G-10_ULTRA',
   'G-8 PRO': 'G-8_PRO',
@@ -6456,8 +6422,7 @@ Map<String, String> _androidG = {
   'G-TiDE FANS7': 'FANS7',
   'G-TiDE_H1': 'G-TiDE_H1_1 / G-TiDE_H1_2 / G-TiDE_H1_3 / G-TiDE_H1_4',
   'G-TiDE_H1_4G': 'G-TiDE_H1_4G / PL1080',
-  'G-TiDE_P1':
-      'G-TiDE_P1 / G-TiDE_P1_1 / G-TiDE_P1_2 / G-TiDE_P1_3 / G-TiDE_P1_4',
+  'G-TiDE_P1': 'G-TiDE_P1 / G-TiDE_P1_1 / G-TiDE_P1_2 / G-TiDE_P1_3 / G-TiDE_P1_4',
   'G0035': 'MoGo 3 Pro',
   'G008': 'GM 9 Go',
   'G1': 'G1 / G1_A15_EEA / G1_A15_ROW / G1_EEA',
@@ -6523,7 +6488,7 @@ Map<String, String> _androidG = {
   'G3421': 'Xperia XA1 Plus',
   'G3423': 'Xperia XA1 Plus',
   'G3426': 'Xperia XA1 Plus',
-  'G36': 'iRULU_G36',
+  'G36': 'G36 / iRULU_G36',
   'G3SMNTA22': 'A2272PW4T',
   'G3SMNTA24': 'A2272PW4T / A2472PW4T',
   'G3SMNTS22': 'PHP-S221C4AFD',
@@ -7228,7 +7193,7 @@ Map<String, String> _androidG = {
   'Gtel X5': 'X5',
   'Gtel X5plus': 'X5plus',
 };
-Map<String, String> _androidH = {
+const Map<String, String> _androidH = {
   'H-Series': 'Interactive_Flat_Panel',
   'H0030': 'Halo+ / MoGo 4 Laser',
   'H0031': 'MoGo 2 Plus',
@@ -7282,7 +7247,7 @@ Map<String, String> _androidH = {
   'H6': 'HPAD6',
   'H60-L01': 'H60 / H60-L01',
   'H6032': '5.99 / H6032',
-  'H6033': 'H6033 / eNOVA',
+  'H6033': 'H6033 / SEUIC / eNOVA',
   'H620B': 'BrailleSenseMini / H620B',
   'H620SEU': 'Hardcase H620S',
   'H621SEU': 'Hardcase H621S',
@@ -7317,8 +7282,7 @@ Map<String, String> _androidH = {
   'HAMMER_ENERGY': 'myPhone HAMMER ENERGY',
   'HANJI': 'OMAX-IFPD',
   'HARDCASEH550S': 'H550S',
-  'HAT4KDTV':
-      'laoshan-Akino / laoshan / laoshan-Hisense / laoshan-emT / laoshan_emH / laoshan_laser / xiaoyushan',
+  'HAT4KDTV': 'laoshan-Akino / laoshan / laoshan-Hisense / laoshan-emT / laoshan_emH / laoshan_laser / xiaoyushan',
   'HB72': 'EF-61',
   'HB73': 'EF-62',
   'HB76': 'EF-72',
@@ -7361,6 +7325,7 @@ Map<String, String> _androidH = {
   'HERO10RK': 'HERO10RK / Hero10RK',
   'HERO200': 'Hero',
   'HERO_X': 'HERO X',
+  'HES-W00': '荣耀WIN平板',
   'HEY-W09': 'HONOR Pad 8',
   'HEY2-N09': 'HONOR Pad 9',
   'HEY2-W09': 'HONOR Pad 9',
@@ -7446,6 +7411,7 @@ Map<String, String> _androidH = {
   'HMR5012': 'HMR NETWORKS (PTY) LTD',
   'HNR551T': 'F50+',
   'HOFFMANN X-Prime': 'X_Prime',
+  'HONOR CHOICE Pad 3': 'KM-TC02_EEA',
   'HONOR H30-L01': 'H30-L01',
   'HONOR H30-L01M': 'H30-L01M',
   'HONOR H30-L02': 'H30-L02',
@@ -7466,8 +7432,7 @@ Map<String, String> _androidH = {
   'HP 8': '8',
   'HP 8 G2': '8 G2',
   'HP Chromebook 11 G5': 'HP Chromebook 11 G5 / 11-vxxx',
-  'HP Chromebook 11 G5 / HP Chromebook 11-vxxx':
-      'HP Chromebook 11 G5 / 11-vxxx',
+  'HP Chromebook 11 G5 / HP Chromebook 11-vxxx': 'HP Chromebook 11 G5 / 11-vxxx',
   'HP Chromebook x2': 'Chromebook x2',
   'HP Chromebook x360 11 G1 EE': 'Chromebook x360 11 G1 EE',
   'HP GOOGLE TV': 'HP GOOGLE TV / South America',
@@ -7495,6 +7460,7 @@ Map<String, String> _androidH = {
   'HP SlateBook 10 x2 PC': 'SlateBook 10 x2 PC',
   'HP SlateBook 14 PC': 'SlateBook 14',
   'HP TV': 'Columbia / HP TV',
+  'HP4411': 'HP4411-MT',
   'HP44H-mtel': 'HP44H',
   'HP44J-stc-tv-3.0': 'stc-tv',
   'HP4633': 'HP46A',
@@ -7930,10 +7896,8 @@ Map<String, String> _androidH = {
   'HTC Sensation XE with Beats Audio': 'Sensation 4G',
   'HTC Sensation XE with Beats Audio Z715a': 'Sensation 4G',
   'HTC Sensation XE with Beats Audio Z715e': 'Sensation 4G',
-  'HTC Sensation XL with Beats Audio X315b':
-      'Sensation XL with Beats Audio X315e',
-  'HTC Sensation XL with Beats Audio X315e':
-      'Sensation XL with Beats Audio X315e',
+  'HTC Sensation XL with Beats Audio X315b': 'Sensation XL with Beats Audio X315e',
+  'HTC Sensation XL with Beats Audio X315e': 'Sensation XL with Beats Audio X315e',
   'HTC Sensation Z710a': 'Sensation 4G',
   'HTC Sensation Z710e': 'Sensation 4G',
   'HTC Status': 'Chacha',
@@ -8493,8 +8457,7 @@ Map<String, String> _androidH = {
   'HYUNDAI 4K Android TV': 'HYUNDAI 4K Android TV / Hyundai android TV / Italy',
   'HYUNDAI 4K SMART TV': 'HYUNDAI',
   'HYUNDAI 4K Smart TV': '4K Smart TV',
-  'HYUNDAI ANDROID TV':
-      'EU、UK、AP / Italy, Città del Vaticano, San Marino, European countries',
+  'HYUNDAI ANDROID TV': 'EU、UK、AP / Italy, Città del Vaticano, San Marino, European countries',
   'HYUNDAI Google TV': 'Smart TV',
   'HYUNDAI SMART 2K TV': 'BOLIVIA',
   'HYUNDAI SMART 4K TV': 'BOLIVIA',
@@ -8554,6 +8517,7 @@ Map<String, String> _androidH = {
   'Hawaii': 'Lenovo K15 / moto e32',
   'Hawk_from_EE': 'Hawk from EE',
   'Helgi_HX10': 'HXxx10',
+  'Helix': 'STK Helix',
   'Helo3': 'Viihde Sound',
   'Hero SX': 'Hero_SX',
   'Hero_H7_Plus': 'Hero H7 Plus',
@@ -8569,19 +8533,15 @@ Map<String, String> _androidH = {
   'HiPad Plus': 'HiPadPlus_EEA',
   'HiPad Pro': 'HiPad_Pro',
   'HiPad X': 'HiPadX-1_EEA / HiPad_X / HipadX / HipadX_eea_1 / HipadX_ru',
-  'HiPad XPro':
-      'HiPad_XPro / HiPad_XPro_EEA / HiPad_XPro_EEA13 / HiPad_XPro_ROW13 / HiPad_XPro_RU / HiPad_Xpro_Pad / HiPad_Xpro_Pad_EEA',
+  'HiPad XPro': 'HiPad_XPro / HiPad_XPro_EEA / HiPad_XPro_EEA13 / HiPad_XPro_ROW13 / HiPad_XPro_RU / HiPad_Xpro_Pad / HiPad_Xpro_Pad_EEA',
   'HiPad-Air': 'HiPad-Air / HiPad-Air-EEA',
-  'HiPadPlus':
-      'HiPadPlus-2_EEA / HiPadPlus-3_ROW / HiPadPlus_11_EEA / HiPadPlus_ROW / HiPadPlus_RU / HiPadPlus_TR',
+  'HiPadPlus': 'HiPadPlus-2_EEA / HiPadPlus-3_ROW / HiPadPlus_11_EEA / HiPadPlus_ROW / HiPadPlus_RU / HiPadPlus_TR',
   'HiPadX': 'HiPadX_11 / HiPadX_ROW',
-  'HiSmart 2K ATV4':
-      'H5500F / fushan_em / fushan_emeu / fushan_sa / fushan_Toshiba',
+  'HiSmart 2K ATV4': 'H5500F / fushan_em / fushan_emeu / fushan_sa / fushan_Toshiba',
   'HiSmart 4K A4FFM': 'laohushan',
   'HiSmart 4K ATV4': 'xinhaoshan',
   'HiSmart TV': 'fushan_2 / fushan_sa',
-  'HiSmartTV A4':
-      'xiaoyushan-bgh / xiaoyushan_emG / xiaoyushan / xiaoyushan-em / xiaoyushan-sa / xiaoyushan_kalley / xiaoyushan_riviera / xiaoyushan_emT / xiaoyushan_etT / xiaoyushan-vu / xiaoyushan_emW',
+  'HiSmartTV A4': 'xiaoyushan-bgh / xiaoyushan_emG / xiaoyushan / xiaoyushan-em / xiaoyushan-sa / xiaoyushan_kalley / xiaoyushan_riviera / xiaoyushan_emT / xiaoyushan_etT / xiaoyushan-vu / xiaoyushan_emW',
   'HiTV-M1': 'Honor Box Pro',
   'Hidr_S1_PRO': 'Hidr S1 PRO / Hidr S1 PRO ROW / Hidr S1 PRO RU',
   'Hisense A2': 'A2',
@@ -8800,12 +8760,11 @@ Map<String, String> _androidH = {
   'Hyundai_Eternity_G57': 'Eternity_G57',
   'Hyundai_Eternity_G57L': 'Hyundai_Eternity_G57',
 };
-Map<String, String> _androidI = {
+const Map<String, String> _androidI = {
   'I-K1': 'ULALA',
   'I10A-LE': 'Leader I10A-LE',
   'I10Pro': 'I10Pro_LTE / I10Pro_LTE_EEA',
-  'I10_Plus':
-      'I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA / I10_Plus_WLAN / I10_Plus_WLAN_EEA',
+  'I10_Plus': 'I10_Plus / I10_Plus_LTE / I10_Plus_LTE_EEA / I10_Plus_WLAN / I10_Plus_WLAN_EEA',
   'I10_Plus_EEA': 'I10_Plus',
   'I10_Pro': 'I10_Pro_EEA / I10_Pro_ROW',
   'I11': 'I11 / redbeatM2',
@@ -8880,6 +8839,7 @@ Map<String, String> _androidI = {
   'I25S01': 'Heron 1 mini',
   'I25S02': 'Heron 1',
   'I25T01': 'Falcon 1 Pro',
+  'I26D01': 'Swan4',
   'I26K01': 'Penguin 1 mini',
   'I26K02': 'Penguin1',
   'I26K03': 'Penguin 1 Pro mini',
@@ -8898,8 +8858,7 @@ Map<String, String> _androidI = {
   'I7043G': 'Tab 7"',
   'I7A-LE': 'GF88',
   'I8_Plus': 'I8_Plus / I8_Plus_WLAN',
-  'I9_Plus':
-      'I9_Plus / I9_Plus_WIFIOnly / I9_Plus_WLAN / I9_Plus_WLAN_EEA / I9_Plus_Wlanonly / I9_Plus_Wlanonly_EEA / I9_Plus_WIFIOnly_EEA',
+  'I9_Plus': 'I9_Plus / I9_Plus_WIFIOnly / I9_Plus_WLAN / I9_Plus_WLAN_EEA / I9_Plus_Wlanonly / I9_Plus_Wlanonly_EEA / I9_Plus_WIFIOnly_EEA',
   'I9_Plus_WireFree': 'I9_Plus_WireFree / I9_Plus_WireFree_US',
   'IACTIVE': 'lactive_IA75',
   'IB101F Pro': 'IB101F_Pro',
@@ -9175,8 +9134,7 @@ Map<String, String> _androidI = {
   'IS_6518': 'IS_6518_Pro',
   'IS_IFPSeries': 'IS_IFPSeries_65',
   'IT-701A': 'IT-701A / IT-701A3 / IT-701A3_EEA / IT-701A4 / IT-701A4_EEA',
-  'IT-801B':
-      'IT-801B / IT-801BA1 / IT-801BA1_EEA / IT-801BA5 / IT-801BA5_EEA / IT-801BA6 / IT-801BA6_EEA / IT-801BA7_EEA / IT-801BA9_EEA / IT_801BA9_EEA',
+  'IT-801B': 'IT-801B / IT-801BA1 / IT-801BA1_EEA / IT-801BA5 / IT-801BA5_EEA / IT-801BA6 / IT-801BA6_EEA / IT-801BA7_EEA / IT-801BA9_EEA / IT_801BA9_EEA',
   'IT-801BA3': 'IT-801BA3 / IT-801BA3_EEA',
   'IT-G600': 'itg600',
   'ITELL K3102 4G': 'K3102_4G',
@@ -9186,8 +9144,7 @@ Map<String, String> _androidI = {
   'ITQ700': 'Wow(Window of the world)',
   'ITQ701': 'Wow TAB +',
   'IT_1101S': 'IT-1101S',
-  'IT_701A':
-      'IT_701A / IT_701A1 / IT_701A2 / IT_701A2_EEA / IT_701A_EEA / V10S / TAB-7887-32G3GB',
+  'IT_701A': 'IT_701A / IT_701A1 / IT_701A2 / IT_701A2_EEA / IT_701A_EEA / V10S / TAB-7887-32G3GB',
   'IT_801B': 'IT_1001A2_EEA / IT_801B / IT_801BA4 / IT_801BA4_EEA',
   'IT_801C': 'IT_801CA2_EEA',
   'IUNI N1': 'N1',
@@ -9431,8 +9388,7 @@ Map<String, String> _androidI = {
   'Infinix X655F': 'Infinix HOT 9 Pro',
   'Infinix X656': 'Infinix NOTE 7 Lite',
   'Infinix X657': 'SMART',
-  'Infinix X657B':
-      'HOT 10 Lite / HOT 10 lite / Infinix HOT 10 Lite / SMART / SMART 5(SMART 6)',
+  'Infinix X657B': 'HOT 10 Lite / HOT 10 lite / Infinix HOT 10 Lite / SMART / SMART 5(SMART 6)',
   'Infinix X657C': 'SMART 5',
   'Infinix X658B': 'HOT 10i',
   'Infinix X658E': 'HOT 10i',
@@ -9604,8 +9560,7 @@ Map<String, String> _androidI = {
   'Insignia Delta 2': 'Insignia Delta 2 / Timovi',
   'Inspire HD': 'Desire HD',
   'Inspire_4': 'Inspire 4.0',
-  'Intel Braswell Chromebook':
-      'Intel Braswell Chromebook / Lenovo N Series Chromebook',
+  'Intel Braswell Chromebook': 'Intel Braswell Chromebook / Lenovo N Series Chromebook',
   'Intelligent_Multi-mode_Radio': 'IRC200 / IRC200EU',
   'Interactive Flat Panel': 'Interactive-Flat-Panel',
   'Interactive-Flat-Panel': 'Interactive-Touch-Screen',
@@ -9634,7 +9589,7 @@ Map<String, String> _androidI = {
   'Ixion X150': 'DEXP Ixion X150',
   'Ixion XL155': 'XL155',
 };
-Map<String, String> _androidJ = {
+const Map<String, String> _androidJ = {
   'J20': 'J20 / JVC J20',
   'J2502': 'JOVI T1 5G',
   'J2503': 'JOVI Y21',
@@ -9733,13 +9688,11 @@ Map<String, String> _androidJ = {
   'JVC 2K ISDB TV': 'JVC',
   'JVC 2K TV': 'JVC / JVC 2K TV',
   'JVC 4K ATSC TV': 'JVC',
-  'JVC 4K Android TV':
-      'Australia, URUGUAY/PARAGUAY, UAE, INDIA, SAUDI ARABIA ISAREL/KUWAIT/SRI LANKA PAKISTAN / France / JVC',
+  'JVC 4K Android TV': 'Australia, URUGUAY/PARAGUAY, UAE, INDIA, SAUDI ARABIA ISAREL/KUWAIT/SRI LANKA PAKISTAN / France / JVC',
   'JVC 4K DVB TV': 'JVC',
   'JVC 4K ISDB TV': 'JVC',
   'JVC 4K Smart TV': 'Australia',
-  'JVC Android TV':
-      'Australia, URUGUAY/PARAGUAY, UAE, INDIA, SAUDI ARABIA ISAREL/KUWAIT/SRI LANKA PAKISTAN / EUROPE / EU、UK、AP / South Africa/Australia /Israel/Paraguay',
+  'JVC Android TV': 'Australia, URUGUAY/PARAGUAY, UAE, INDIA, SAUDI ARABIA ISAREL/KUWAIT/SRI LANKA PAKISTAN / EUROPE / EU、UK、AP / South Africa/Australia /Israel/Paraguay',
   'JVC Android TV SA': 'South Africa',
   'JVC EU 2K Android TV': 'JVC',
   'JVC EU 4K Android TV': 'JVC',
@@ -9785,7 +9738,7 @@ Map<String, String> _androidJ = {
   'Jupiter': 'AV Receiver / Car Navigation',
   'Just5': 'Konrow',
 };
-Map<String, String> _androidK = {
+const Map<String, String> _androidK = {
   'K-Elec 4K Android TV': 'K-ELEC',
   'K-LITE_NEXT_M1': 'K-LITE NEXT M1',
   'K-Lite F1+4G': 'F1+4G',
@@ -9833,8 +9786,7 @@ Map<String, String> _androidK = {
   'K06': 'K06 / K06_EEA',
   'K07-pro': 'K07-pro / K07-pro_EEA',
   'K1': 'K1 / k1',
-  'K10':
-      'K10 / K10E / K10U / KGZ_PRO / IKU / Joystar_J16 / K10_ROW / K10_EEA / K10_NEU / K10_RU / koobee_K10',
+  'K10': 'K10 / K10E / K10U / KGZ_PRO / IKU / Joystar_J16 / K10_ROW / K10_EEA / K10_NEU / K10_RU / koobee_K10',
   'K10 PLUS DA1C0P02': 'K10_PLUS',
   'K10000 Max': 'K10000_Max',
   'K101': 'k101 / K101 / K101_EEA / K101_US',
@@ -9893,8 +9845,7 @@ Map<String, String> _androidK = {
   'K69': 'KRIP K69',
   'K6Pro': 'K6Pro / K6Pro_EEA',
   'K6m': 'K6m / K6m_EEA',
-  'K7':
-      'K7 / K7_A03 / K7_A03_EEA / K7_A05 / K7_A05_EEA / K7_A06 / K7_A07K / K7_A07K_EEA / K7_A07K_US / K7_A07_US / K7_A08_EU / K7_A08_ROW / K7_A08_US / K7_EEA',
+  'K7': 'K7 / K7_A03 / K7_A03_EEA / K7_A05 / K7_A05_EEA / K7_A06 / K7_A07K / K7_A07K_EEA / K7_A07K_US / K7_A07_US / K7_A08_EU / K7_A08_ROW / K7_A08_US / K7_EEA',
   'K7 Kids': 'K7_KIDS',
   'K7 Power': 'K7 Power / K7_Power',
   'K7/PTAB782': 'K7',
@@ -10211,8 +10162,7 @@ Map<String, String> _androidK = {
   'KidS Prime 1': 'KS20',
   'Kidpa_M7': 'Kidpad_M7',
   'Kids 10': 'Kids_10_EEA / Kids_10_ver13 / Kids_10_ver14 / Kids_10_ver14_EEA',
-  'Kids20':
-      'Kids20 / Kids20A14 / Kids20A14_EEA / Kids20A15 / Kids20A15_EEA / Kids20_EEA',
+  'Kids20': 'Kids20 / Kids20A14 / Kids20A14_EEA / Kids20A15 / Kids20A15_EEA / Kids20_EEA',
   'Kids7 Pro': 'Kids7_Pro',
   'KidsTAB7': 'KidsTAB7 / KidsTAB7_EEA',
   'KidsTAB7_V2': 'KidsTAB7_V2_EEA',
@@ -10254,7 +10204,7 @@ Map<String, String> _androidK = {
   'KurioPhone': 'Kurio Phone',
   'Kyivstar Spark': 'Blade',
 };
-Map<String, String> _androidL = {
+const Map<String, String> _androidL = {
   'L-01D': 'Optimus LTE',
   'L-01E': 'LG Optimus G',
   'L-01J': 'V20 PRO',
@@ -10298,8 +10248,7 @@ Map<String, String> _androidL = {
   'L-IXIR_TAB_840': 'L-IXIR TAB 840',
   'L-ementTab744P': 'L-EMENT TAB 744P',
   'L-ement_Tab_744': 'L-EMENT TAB 744',
-  'L10':
-      'L10 / L10_001 / L10_001_EEA / L10_001_USA / L10_T07 / L10_T07_EEA / L10_T13 / L10_T13_EEA / L10_T19 / L10_T19_EEA / L10_T19_US / L10-T12 / L10-T12-EEA / Polaroid L10/P1000 / L10_A01 / L10_A01_EEA / L10_A02 / L10_A02_EEA / L10_A03 / L10_A03_EEA / L10_A05 / L10_A05_EEA / L10_A06 / L10_T05 / L10_T05_EEA / L10_T14 / L10_T14_EEA / Rugged_Tablet_PC / TAB12 / TAB12_EEA',
+  'L10': 'L10 / L10_001 / L10_001_EEA / L10_001_USA / L10_T07 / L10_T07_EEA / L10_T13 / L10_T13_EEA / L10_T19 / L10_T19_EEA / L10_T19_US / L10-T12 / L10-T12-EEA / Polaroid L10/P1000 / L10_A01 / L10_A01_EEA / L10_A02 / L10_A02_EEA / L10_A03 / L10_A03_EEA / L10_A05 / L10_A05_EEA / L10_A06 / L10_T05 / L10_T05_EEA / L10_T14 / L10_T14_EEA / Rugged_Tablet_PC / TAB12 / TAB12_EEA',
   'L10-T02': 'L10-T02 / L10-T02-EEA',
   'L10041': 'Lenovo A8',
   'L101': 'L101 / M101N',
@@ -10345,8 +10294,7 @@ Map<String, String> _androidL = {
   'L68_Ultra': 'L68 Ultra',
   'L70': 'L70 / L70_EEA',
   'L701 TV': 'Ypy',
-  'L8':
-      'L8 / L8_A01 / L8_A01_EEA / L8_B02 / L8_B02_EEA / L8_B03 / L8_B03_EEA / L8_B03_Kids_EEA / L8_B04 / L8_B04_EEA / L8_B04_Kids / L8_B04_Kids_EEA / L8_B05 / L8_B05_EEA / L8_PRO / L8_PRO_EEA / USA',
+  'L8': 'L8 / L8_A01 / L8_A01_EEA / L8_B02 / L8_B02_EEA / L8_B03 / L8_B03_EEA / L8_B03_Kids_EEA / L8_B04 / L8_B04_EEA / L8_B04_Kids / L8_B04_Kids_EEA / L8_B05 / L8_B05_EEA / L8_PRO / L8_PRO_EEA / USA',
   'L8301': 'C310',
   'L90': 'L90_EEA / L90_ROW',
   'L925': 'HERCLS L925',
@@ -10388,6 +10336,7 @@ Map<String, String> _androidL = {
   'LAVA LZG403 225': 'X2',
   'LAVA LZG403 25': 'Z3 PRO',
   'LAVA LZG409': 'Yuva Star',
+  'LAVA LZG414': 'Smart 4',
   'LAVA LZX406': 'Blaze 2 Pro',
   'LAVA LZX408': 'YUVA 2 PRO',
   'LAVA V5': 'V5',
@@ -10432,8 +10381,7 @@ Map<String, String> _androidL = {
   'LCD-xxCAE5A': 'LCD-SU560A',
   'LCD-xxCAE5A-C': 'LCD-SU460A/LCD-SU465A',
   'LCD-xxCAE5A-D': 'LCD-TX5000A',
-  'LCD-xxCAE5A-E':
-      'XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A',
+  'LCD-xxCAE5A-E': 'XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A',
   'LCD-xxDEM6A': 'LCD-xxSU670A/xxMY6100A/xxSU675A/xxSU775A/xxSU875A',
   'LCD-xxDEM6A-B': 'XLED-xxSU680A;XLED-xxMY6200A;XLED-xxTX6200A;XLED-xxZ6808A',
   'LCD-xxDEM7A': 'LCD-xxSU775A;LCD-xxMY7100A',
@@ -10443,12 +10391,10 @@ Map<String, String> _androidL = {
   'LCD-xxEOS5A': 'LCD-xxSU585A,LCD-xxSU680A',
   'LCD-xxGAE7A': '4T-C60ANAA,4T-C70ANAA,4T-C60ASAA,4T-C70ASAA',
   'LCD-xxGAE9A': '8T-CxxAXAA',
-  'LCD-xxHAD5A':
-      '4T-C60CFZA  4T-C70CFZA 4T-C60CFMA 4T-C70CFMA 4T-C60CFKA 4T-C70CFKA 4T-C60CFXA 4T-C70CFXA 4T-C60CFCA 4T-C70CFCA',
+  'LCD-xxHAD5A': '4T-C60CFZA  4T-C70CFZA 4T-C60CFMA 4T-C70CFMA 4T-C60CFKA 4T-C70CFKA 4T-C60CFXA 4T-C70CFXA 4T-C60CFCA 4T-C70CFCA',
   'LCD_32SFINF380A': '2T-C32ACSA, 2T-C32ACMA, 2T-C32ACTA, 2T-C32ACZA',
   'LCD_40FOC465A': 'LCD-40SF465A',
-  'LCD_40FOC466A':
-      'LCD-40SF466A, LCD-40TX3000A, LCD-40MX3000A, LCD-40DS3000A, LCD-40X508A',
+  'LCD_40FOC466A': 'LCD-40SF466A, LCD-40TX3000A, LCD-40MX3000A, LCD-40DS3000A, LCD-40X508A',
   'LCD_40FOC468A': 'LCD-40SF468A',
   'LCD_40X418FOCH1A': 'LCD-40X418H1A, LCD-40X418H2A, LCD-40X418H3A',
   'LCD_45FOC3000A': 'LCD-45TX3000A',
@@ -11409,8 +11355,7 @@ Map<String, String> _androidL = {
   'LIGHTWAVE Google 4K TV': 'africa',
   'LIGHTYEAR 2': 'LIGHTYEAR-2',
   'LIGHTYEAR PRO 2': 'LIGHTYEAR-PRO-2',
-  'LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE':
-      'F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE',
+  'LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE': 'F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE',
   'LINSAY F10XIPS': 'F10XIPS',
   'LINSAY F7HD4CORE': 'LINSAY_F7HD4CORE',
   'LINTAB_TB701': 'LIN',
@@ -11423,8 +11368,7 @@ Map<String, String> _androidL = {
   'LINX RAGE 4G LS5040PL': 'DIGMA LINX RAGE 4G LS5040PL',
   'LINX TRIX 4G LS5041PL': 'DIGMA LINX TRIX 4G LS5041PL',
   'LIO+': 'Quantum Lio +',
-  'LISTO Android TV':
-      'France, Belgium, Germany, The Netherlands, Italy, Spain, Portugal / Rumania',
+  'LISTO Android TV': 'France, Belgium, Germany, The Netherlands, Italy, Spain, Portugal / Rumania',
   'LIV 3 LTE': 'LIV3_LTE',
   'LIVE 11': 'LIVE_11_EEA / LIVE_11_NN_EEA',
   'LIVE 12': 'LIVE_12_EEA',
@@ -11954,8 +11898,7 @@ Map<String, String> _androidL = {
   'Lenovo K10a40': 'VIBE K10',
   'Lenovo K10e70': 'K10e70',
   'Lenovo K11': 'Lenovo K11 / Lenovo K12',
-  'Lenovo K12 Note':
-      'Lenovo K12 Note / Lenovo K13 Note / Lenovo K13 Pro / Lenovo K12 Pro',
+  'Lenovo K12 Note': 'Lenovo K12 Note / Lenovo K13 Note / Lenovo K13 Pro / Lenovo K12 Pro',
   'Lenovo K12 Pro': 'Lenovo K12 Pro / Lenovo K14 Note',
   'Lenovo K15 Plus': 'moto g22',
   'Lenovo K30-E': 'K30-E',
@@ -12160,8 +12103,7 @@ Map<String, String> _androidL = {
   'Lenovo TB-J606L': 'Lenovo Tab P11',
   'Lenovo TB-J606N': 'Lenovo Tab m11 / XiaoXin Pad',
   'Lenovo TB-J607F': 'Lenovo Tab QT K11 Pro WIFI / XiaoXin Pad Plus',
-  'Lenovo TB-J607Z':
-      'Lenovo Tab P11 5G / Lenovo Tab QT K11 Pro 5G / XiaoXin Pad Plus',
+  'Lenovo TB-J607Z': 'Lenovo Tab P11 5G / Lenovo Tab QT K11 Pro 5G / XiaoXin Pad Plus',
   'Lenovo TB-J616F': 'Lenovo Tab P11 Plus / 小新 Pad GT',
   'Lenovo TB-J616N': '小新 Pad GT',
   'Lenovo TB-J616X': 'Lenovo Tab P11 Plus',
@@ -12252,11 +12194,9 @@ Map<String, String> _androidL = {
   'Lenovo TB3-X70L': 'Lenovo TAB3 10 Plus',
   'Lenovo TB3-X70N': 'Lenovo TAB3 10 Plus',
   'Lenovo ThinkPad 11e 3rd Gen Chromebook': 'ThinkPad 11e Chromebook 3rd Gen',
-  'Lenovo ThinkPad 11e 4th Gen Chromebook':
-      'Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)',
+  'Lenovo ThinkPad 11e 4th Gen Chromebook': 'Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)',
   'Lenovo ThinkPad 13': 'Thinkpad 13 Chromebook',
-  'Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)':
-      'Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)',
+  'Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)': 'Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)',
   'Lenovo X2-AP': 'X2',
   'Lenovo X2-CU': 'Lenovo X2-CU/VIBE X2',
   'Lenovo X2-EU': 'X2',
@@ -12266,8 +12206,7 @@ Map<String, String> _androidL = {
   'Lenovo X3a40': 'X3a40',
   'Lenovo X3c50': 'X3c50',
   'Lenovo X3c70': 'X3c70',
-  'Lenovo YB-Q501F':
-      'Lenovo YOGA Laptop with Android / YOGA A12 / YOGA Laptop with Android',
+  'Lenovo YB-Q501F': 'Lenovo YOGA Laptop with Android / YOGA A12 / YOGA Laptop with Android',
   'Lenovo YB-Q501L': 'YOGA A12 / YOGA Laptop with Android',
   'Lenovo YB1-X90F': 'YOGA BOOK',
   'Lenovo YB1-X90L': 'YOGA BOOK',
@@ -12305,13 +12244,11 @@ Map<String, String> _androidL = {
   'LenovoA3300-HV': 'Lenovo A3300',
   'LenovoA588t': 'A588t',
   'LenovoTV 32A3': '32A3   40A3   43A3   49A3',
-  'LenovoTV 40S9':
-      'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
+  'LenovoTV 40S9': 'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
   'LenovoTV 49E82': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
   'LenovoTV 50S52': 'LenovoTV 50S52;AQUOS LCD-50S1A',
   'LenovoTV 55E82': '55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A',
-  'LenovoTV 58S9':
-      'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
+  'LenovoTV 58S9': 'LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A',
   'Lenovo_A2105': 'A2105',
   'Leopard MF900': 'V807',
   'Lexington 2': 'Wear OS by Google Smartwatch',
@@ -12362,8 +12299,7 @@ Map<String, String> _androidL = {
   'Logic L57': 'L57',
   'Logic X4 Plus': 'X4 Plus',
   'Logic_L-PAD_PRO': 'L-PAD-PRO-BK',
-  'Logic_LT_IRXXHX':
-      'AZ_Series / HX_Series / Online Instruments India Pvt. Ltd.',
+  'Logic_LT_IRXXHX': 'AZ_Series / HX_Series / Online Instruments India Pvt. Ltd.',
   'Logic_LT_IRXXZX': 'ZX_Series',
   'Logicom-S9782': 'Logicom S9782',
   'Logikids_2': 'Logikids',
@@ -12379,7 +12315,7 @@ Map<String, String> _androidL = {
   'Luno': 'Y330-U01 / Luno',
   'Luvo 001': '001',
 };
-Map<String, String> _androidM = {
+const Map<String, String> _androidM = {
   'M BOT 551': 'M bot 551',
   'M BOT TAB 100': 'M bot tab 100',
   'M BOT TAB 101': 'M bot tab 101',
@@ -12405,8 +12341,7 @@ Map<String, String> _androidM = {
   'M08': 'arrows Alpha M08',
   'M09': 'arrows We3 / arrows We3 M09',
   'M098FE': 'REDMI K100 Pro Max',
-  'M10':
-      'M10c / M10 / arrows Alpha2 M10 / M10_EU / M10_ROW / M10_001EEA / M10_001US / M10_A01_EEA / M10_A06 / M10_A06_EEA / M10_B01 / M10_B01_EEA / M10_B02 / M10_B02_EEA / M10_B03 / M10_B03_EEA / M10_B05 / M10_B05_EEA / M10_B06 / M10_B07 / M10_B07_EEA / M10_B08 / M10_B08EEA / M10_B09 / M10_B09K / M10_B09_EEA / M10_B10 / M10_B10_EEA / M10_C04 / M10_C04_EEA / M10_C05 / M10_C05_EEA / M10_C05_Kids / M10_C05_Kids_EEA / M10_C06_Kids / M10_C06_Kids_EEA / M10_C07 / M10_C07_EEA / M10_C07_Kids / M10_C07_Kids_EEA / M10_C08 / M10_C08_EEA / M10_C08_Kids / M10_C08_Kids_EEA / M10_C09 / M10_C09_EEA / M10_C10 / M10_C10_EEA / M10_C10_Kids / M10_C10_Kids_EEA / M10_C10_Kids_USA / M10_C10_USA / M10_C11 / M10_C11_Kids / M10_C12_EEA / M10_C12_Kids_EEA / M10_C12_Kids_USA / M10_C12_USA / M10_R02_EEA / M20',
+  'M10': 'M10c / M10 / arrows Alpha2 M10 / M10_EU / M10_ROW / M10_001EEA / M10_001US / M10_A01_EEA / M10_A06 / M10_A06_EEA / M10_B01 / M10_B01_EEA / M10_B02 / M10_B02_EEA / M10_B03 / M10_B03_EEA / M10_B05 / M10_B05_EEA / M10_B06 / M10_B07 / M10_B07_EEA / M10_B08 / M10_B08EEA / M10_B09 / M10_B09K / M10_B09_EEA / M10_B10 / M10_B10_EEA / M10_C04 / M10_C04_EEA / M10_C05 / M10_C05_EEA / M10_C05_Kids / M10_C05_Kids_EEA / M10_C06_Kids / M10_C06_Kids_EEA / M10_C07 / M10_C07_EEA / M10_C07_Kids / M10_C07_Kids_EEA / M10_C08 / M10_C08_EEA / M10_C08_Kids / M10_C08_Kids_EEA / M10_C09 / M10_C09_EEA / M10_C10 / M10_C10_EEA / M10_C10_Kids / M10_C10_Kids_EEA / M10_C10_Kids_USA / M10_C10_USA / M10_C11 / M10_C11_Kids / M10_C12_EEA / M10_C12_Kids_EEA / M10_C12_Kids_USA / M10_C12_USA / M10_R02_EEA / M20',
   'M10 Pro': 'USA',
   'M10 Pro LTE': 'M10_Pro_LTE',
   'M10 for arm64': 'M10',
@@ -12583,8 +12518,7 @@ Map<String, String> _androidM = {
   'M5': 'AZUMI_M5_AC01 / AZUMI_M5_AC02 / M5',
   'M5 2021': 'M5_2021',
   'M5+': 'M5PLUS / M5PLUS_AC24',
-  'M50':
-      'M50 / Pay Phone M50 / Pay Phone M50 EEA / M50-EEA / M50-ROW / M50_EU / M50_ROW',
+  'M50': 'M50 / Pay Phone M50 / Pay Phone M50 EEA / M50-EEA / M50-ROW / M50_EU / M50_ROW',
   'M50 Pro': 'M50Pro_EEA / M50Pro_ROW',
   'M50 Pro_RUS': 'M50Pro_RUS',
   'M505_4G': 'M505',
@@ -12624,8 +12558,7 @@ Map<String, String> _androidM = {
   'M7': 'Monster M7 Tablet / M7 / M7 Sapphire / HAEHNE_M7 / M7_V_EEA / M7_V_US',
   'M7-3G': 'M7 3G',
   'M7-3G-PLUS': 'M7 3G PLUS / M7-3G PLUS',
-  'M70':
-      'M70 / M70_B / M70_EEA / M70_ROW / M70_US / M70_A / M70_B_ROW / M70_C_EEA / M70_C_ROW / M70_C_US / M70_EEA_A / M70_ROW_A / M70_US_A',
+  'M70': 'M70 / M70_B / M70_EEA / M70_ROW / M70_US / M70_A / M70_B_ROW / M70_C_EEA / M70_C_ROW / M70_C_US / M70_EEA_A / M70_ROW_A / M70_US_A',
   'M702': 'STYLISTIC M702',
   'M712C': 'M712C / Meizu S6',
   'M72 Smart': 'Zen M72 Smart',
@@ -12707,8 +12640,7 @@ Map<String, String> _androidM = {
   'MAR-LX3Am': 'HUAWEI P30 lite',
   'MAR-LX3Bm': 'HUAWEI P30 lite',
   'MAR-TL00': 'nova 4e',
-  'MARCEL Android TV':
-      'Asia, EU (Including UK), Australia, Africa / EU / EU、UK、AP',
+  'MARCEL Android TV': 'Asia, EU (Including UK), Australia, Africa / EU / EU、UK、AP',
   'MARCEL GOOGLE TV5.0': 'Smart TV',
   'MARCEL UHD GOOGLE TV 5.0': 'Smart TV',
   'MARS NOCAM': 'MARS Nocam',
@@ -12758,12 +12690,12 @@ Map<String, String> _androidM = {
   'MC2700': 'Zebra Technologies MC2700',
   'MC33': 'MC330K',
   'MC3300ax': 'MC3300ax AOSP / MC3300axS AOSP / Zebra Technologies MC3300ax',
-  'MC3300x':
-      'Zebra Technologies MC3300x / Zebra Technologies MC3300xN / Zebra Technologies MC3300xNS',
+  'MC3300x': 'Zebra Technologies MC3300x / Zebra Technologies MC3300xN / Zebra Technologies MC3300xNS',
   'MC401_GWL': 'MC401',
   'MC40N0': 'MC40',
   'MC432A_GWL': 'MC432 / MC432A_W',
   'MC480-U': 'DeepHub Ultimate',
+  'MC80': 'CHAINWAY_MC80',
   'MC8B654B': 'MC8B654B100136',
   'MC93': 'Zebra Technologies MC9300',
   'MCT-101EDL': 'MCT_101EDL',
@@ -12774,6 +12706,7 @@ Map<String, String> _androidM = {
   'MD1005': 'MD1005 Tablet',
   'MD7305': 'Lazer MD7305 Tablet / AMTC',
   'MDP1231': 'MDP1231_ROW / MDP1232_EEA / MDP1233_RU / MDP1234_US',
+  'MDP1236': 'Magic_12 / Magic_12_EEA / Magic_12_RU / Magic_12_US',
   'MD_G1212U': 'MP1',
   'ME172V': 'MeMO PAD',
   'ME173X': 'MeMO Pad HD 7 (ME173X)',
@@ -12999,8 +12932,7 @@ Map<String, String> _androidM = {
   'MP03': 'A13 Pro 5G / A13 Pro 5G EEA',
   'MP04': 'A13 Pro Max 5G / A13 Pro Max 5G EEA',
   'MP05': 'A13 / A13 EEA / A13 Pro / A13 Pro EEA / A13S / A13S EEA',
-  'MP06':
-      'Power 7 / Power 7 EEA / Power 7 Max / Power 7 Max EEA / Power 7S / Power 7S EEA',
+  'MP06': 'Power 7 / Power 7 EEA / Power 7 Max / Power 7 Max EEA / Power 7S / Power 7S EEA',
   'MP07': 'UMIDIGI C1 / UMIDIGI C1 EEA',
   'MP08': 'UMIDIGI G1 / UMIDIGI G1 EEA',
   'MP09': 'F3 / F3 EEA / F3 SE / F3 SE EEA / F3S / F3S EEA',
@@ -13281,8 +13213,7 @@ Map<String, String> _androidM = {
   'MediaPad 7 Classic': 'Vogue7',
   'MediaPad 7 Lite II': 'MediaPad Vogue / Vogue7',
   'MediaPad 7 Lite+': 'S7',
-  'MediaPad 7 Vogue':
-      'MediaPad 7 Vogue / MediaPad Vogue / MediaPad7 / S7 / Vogue7',
+  'MediaPad 7 Vogue': 'MediaPad 7 Vogue / MediaPad Vogue / MediaPad7 / S7 / Vogue7',
   'MediaPad 7 Youth': 'MediaPad Youth / S7',
   'MediaPad 7 Youth 2': 'MediaPad 7 Youth2',
   'MediaPad M1 8.0 (LTE)': 'MediaPad M1 8.0',
@@ -13657,12 +13588,10 @@ Map<String, String> _androidM = {
   'Moto 360': 'Moto 360 / Moto 360 (2nd Gen) / Moto 360 Sport',
   'Moto E': 'Moto E (5) / moto e(5) plus / moto e5 play / moto e5 plus',
   'Moto E (4)': 'Moto E (4) / Moto E4',
-  'Moto G (4)':
-      'Moto G (5) Plus / Moto G (5S) Plus / Moto G(4) / Moto G(4) Plus',
+  'Moto G (4)': 'Moto G (5) Plus / Moto G (5S) Plus / Moto G(4) / Moto G(4) Plus',
   'Moto G (5)': 'Moto G (5) / Moto G (5th Gen)',
   'Moto G (5) Plus': 'Moto G (5) Plus / Moto G Plus (5th Gen) / moto g(6) plus',
-  'Moto G Play':
-      'Moto G (4) Play / Moto G4 Play / moto g(6) play / moto g6 play',
+  'Moto G Play': 'Moto G (4) Play / Moto G4 Play / moto g(6) play / moto g6 play',
   'Moto X Pro': 'Moto X Pro (China)',
   'Moto Z (2)': 'Moto Z (2) Force / Moto Z(3)',
   'Moto Z2 Play': 'Moto Z (2) Play',
@@ -13750,7 +13679,7 @@ Map<String, String> _androidM = {
   'Myria_Wide_2': 'Myria Wide 2',
   'Myria_Wide_4G': 'Myria Wide 4G',
 };
-Map<String, String> _androidN = {
+const Map<String, String> _androidN = {
   'N-01D': 'MEDIAS PP N-01D',
   'N-02E': 'MEDIAS U N-02E',
   'N-03E': 'Disney Mobile on docomoN-03E',
@@ -13859,8 +13788,7 @@ Map<String, String> _androidN = {
   'NBP-65': 'NBP_65',
   'NBP-75': 'SEWOO NBP-75',
   'NBTB101': 'NBTB101 / NBTB101b',
-  'NBTY07SMKG':
-      'American Girl Tablet / Barbie Tablet / Hot Wheels Tablet / TOY 7',
+  'NBTY07SMKG': 'American Girl Tablet / Barbie Tablet / Hot Wheels Tablet / TOY 7',
   'NB_65P1D_WW_X': 'NewBoard',
   'NB_XXE1D_AM_W': 'Interactive Smart Display',
   'NB_XXPXX_XX_X': 'NewBoard',
@@ -13884,8 +13812,7 @@ Map<String, String> _androidN = {
   'NEC-101T': '101T 　MEDIAS',
   'NEC-102': 'MEDIAS NEC-102',
   'NEC-NE-201A1A': 'NE-201',
-  'NEC-STR':
-      'AGT10 D000-000039-001 / LifeTouch L / LifeTouch L D000-000035-001 / LifeTouch L D000-000035-002',
+  'NEC-STR': 'AGT10 D000-000039-001 / LifeTouch L / LifeTouch L D000-000035-001 / LifeTouch L D000-000035-002',
   'NEM-AL10': '荣耀畅玩5C',
   'NEM-L21': 'Honor 5C',
   'NEM-L22': 'Honor 5C',
@@ -13911,8 +13838,7 @@ Map<String, String> _androidN = {
   'NEXG N27': 'NEXG_N27',
   'NEXG N9': 'Customer need debug / NEXG N9',
   'NEXO TAB 70': 'NEXO-TAB-70',
-  'NEXT':
-      'Eco4K12A / Eco4K13 / Eco4K13A / Elite 4K 16 / Elite-4K 20 / Elite4K18A / Elite4K32A / NEXT Crew Terminal - AutoChip / NEXT Crew Terminal - IoT Chip / NEXT Eco4K 12 / NEXT Elite-4K 16 / NEXT Elite-4K 24 / NEXT Elite-4K 43 / NEXT Premium Hand-Set (PHS) / NEXT Theater-4K 24 / NEXT_WSCUwscu',
+  'NEXT': 'Eco4K12A / Eco4K13 / Eco4K13A / Elite 4K 16 / Elite-4K 20 / Elite4K18A / Elite4K32A / NEXT Crew Terminal - AutoChip / NEXT Crew Terminal - IoT Chip / NEXT Eco4K 12 / NEXT Elite-4K 16 / NEXT Elite-4K 24 / NEXT Elite-4K 43 / NEXT Premium Hand-Set (PHS) / NEXT Theater-4K 24 / NEXT_WSCUwscu',
   'NEXT SMART TV': 'NEXT',
   'NEXTSTAR SMART TV': 'NEXTSTAR',
   'NEXT_P': 'NEXT P',
@@ -13936,8 +13862,7 @@ Map<String, String> _androidN = {
   'NID-7055': 'Naxa',
   'NID-7056': 'NID_7056',
   'NID-9009': 'NID9009',
-  'NID_7010':
-      'GTAB700 / DIT702201 / TM705 / NID_7010 / MID7526CM / eZee’Tab7D14-S',
+  'NID_7010': 'GTAB700 / DIT702201 / TM705 / NID_7010 / MID7526CM / eZee’Tab7D14-S',
   'NII Nextel': 'V.45',
   'NIKAI PRO Google TV': 'Smart TV',
   'NITRO G56': 'NITRO G56 / NITRO_G56',
@@ -13950,11 +13875,9 @@ Map<String, String> _androidN = {
   'NLA-LX3': 'HONOR X5c',
   'NLA-NX1': 'HONOR X6d 5G',
   'NLA-NX3': 'HONOR X6d 5G',
-  'NLS-MT65':
-      'NLS-MT6550-AM / NLS-MT6552-EEA / NLS-MT6552-GL / NLS-MT6552-RU / NLS-MT6555-GL',
+  'NLS-MT65': 'NLS-MT6550-AM / NLS-MT6552-EEA / NLS-MT6552-GL / NLS-MT6552-RU / NLS-MT6555-GL',
   'NLS-MT67': 'NLS-MT6755-GL / NLS-MT6757',
-  'NLS-MT90':
-      'NLS-MT9050-AM / NLS-MT9052-EEA / NLS-MT9052-GL / NLS-MT9052-RU / NLS-MT9055-GL / Newland NLS-MT90',
+  'NLS-MT90': 'NLS-MT9050-AM / NLS-MT9052-EEA / NLS-MT9052-GL / NLS-MT9052-RU / NLS-MT9055-GL / Newland NLS-MT90',
   'NLS-MT93': 'MT93 / NLS-MT93',
   'NLS-MT95': 'NLS-MT95 / NLS-MT9556',
   'NLS-N7': 'NLS-N7 / Newland NLS-N7',
@@ -14200,7 +14123,7 @@ Map<String, String> _androidN = {
   'Npad Y1': 'NpadY',
   'Nura 2': 'Nura2',
 };
-Map<String, String> _androidO = {
+const Map<String, String> _androidO = {
   'O1 Icon': 'X2033',
   'O1 Neo': 'X2032',
   'O2': 'FONOS O2',
@@ -14223,6 +14146,7 @@ Map<String, String> _androidO = {
   'OMIX X300': 'X300',
   'OMIX X500': 'X500',
   'OMIX X700': 'X700',
+  'OMMI A17S': 'OMMI_A17S',
   'OMS55R24B': 'Smart55R',
   'ONC': 'Redmi 7',
   'ONE A2003': '2 / OnePlus2',
@@ -14248,6 +14172,7 @@ Map<String, String> _androidO = {
   'ONE TOUCH EVO7HD': 'ONE TOUCH EVO7HD / ONE TOUCH EVO8HD',
   'ONE TOUCH IDOL MINI': 'ONE TOUCH 6012D',
   'ONE TOUCH P310A': 'ONE_TOUCH_P310A',
+  'ONEMax': 'ONEMax / ONEMax_US',
   'ONEPLUS A3000': '3 / OnePlus3 / OnePlus3T',
   'ONEPLUS A5000': 'OnePlus5',
   'ONEPLUS A5010': 'OnePlus5T',
@@ -14560,7 +14485,7 @@ Map<String, String> _androidO = {
   'Orinoquia Roraima S7-932u': 'S7',
   'Orion Tab 8 4G': 'Orion_Tab_8_4G',
 };
-Map<String, String> _androidP = {
+const Map<String, String> _androidP = {
   'P-02E': 'ELUGA X',
   'P-03E': 'ELUGA P',
   'P-06D': 'ELUGA V',
@@ -14571,13 +14496,10 @@ Map<String, String> _androidP = {
   'P001_2': 'ZenPadC 7.0 (Z170MG)',
   'P002': 'ASUSPRO Tablet (M700KL) / ZenPad 7.0 (Z370KL)',
   'P008': 'ZenPad 3 8.0 / ZenPad 3 8.0 (Z581KL) / ZenPad Z8',
-  'P00A':
-      'Commercial tablet 8" (M800M) / Commercial tablet 8" (R800M) / ZenPad 8.0 (Z380M)',
-  'P00C':
-      'Commercial tablet 10" (M1000M) / Commercial tablet 10" (R1000M) / ZenPad 10 (Z300M)',
+  'P00A': 'Commercial tablet 8" (M800M) / Commercial tablet 8" (R800M) / ZenPad 8.0 (Z380M)',
+  'P00C': 'Commercial tablet 10" (M1000M) / Commercial tablet 10" (R1000M) / ZenPad 10 (Z300M)',
   'P00I': 'ZenPad Z10',
-  'P00L':
-      'R Series Tablet (R1001MFL) / R Series Tablet (R1001ML) / ZenPad 10 (Z301MFL) / ZenPad 10 (Z301ML)',
+  'P00L': 'R Series Tablet (R1001MFL) / R Series Tablet (R1001ML) / ZenPad 10 (Z301MFL) / ZenPad 10 (Z301ML)',
   'P01M': 'ZenPad S 8.0 (Z580C)',
   'P01MA': 'ZenPad S 8.0 (Z580CA)',
   'P01T': 'ASUSPRO Tablet (M1000CL)',
@@ -14598,8 +14520,7 @@ Map<String, String> _androidP = {
   'P1 Amateur': 'KEMPLERP1_Amateur',
   'P1 Pro': 'KemplerP1pro / P1 Pro / P1_Pro_EEA',
   'P1+': 'P1_Plus',
-  'P10':
-      'P10 / RK5S-E / HP10 / P10_2024 / Power P10 / POPTEL P10 / P10_pro / SVITOO_P10',
+  'P10': 'P10 / RK5S-E / HP10 / P10_2024 / Power P10 / POPTEL P10 / P10_pro / SVITOO_P10',
   'P10 Kid': 'P10 Kid / RK5Kid-B / RK5Kid-E',
   'P10 Pro': 'P10 Pro / T5-B / P10 Pro',
   'P10-11': 'Frontier',
@@ -14653,8 +14574,7 @@ Map<String, String> _androidP = {
   'P13 Blue Max Lite 2022': 'P13 Blue Max Lite 2022 / P13_Blue_2022',
   'P13 Blue Max Lite 32GB': 'P13 Blue  Max Lite 32GB',
   'P13 Blue Max PL': 'P13 Blue Pro Lite',
-  'P13 Blue Max Pro Lite 2022':
-      'P13  Blue Max Pro Lite 2022 / P13_Blue_Pro_2022',
+  'P13 Blue Max Pro Lite 2022': 'P13  Blue Max Pro Lite 2022 / P13_Blue_Pro_2022',
   'P13 Blue MaxL 2021': 'P13_Blue_MaxL_2021',
   'P13 Blue MaxL 2022': 'P13 Blue MaxL 2022 / P13 Blue MaxL 2022s',
   'P13 Pro': 'P13 Pro / P8-B / P8-E',
@@ -14676,6 +14596,7 @@ Map<String, String> _androidP = {
   'P20L': 'P20L / P20L ROW',
   'P210': 'Dexp Ursus P210',
   'P25T': 'P25T_Y_EEA / P25T_Y_ROW / P25T_Y_RUS',
+  'P27+': 'P27PLUS',
   'P2Lite': 'P2 Lite',
   'P3': 'P3 / Flair P3',
   'P30': 'P30 / P30_EUR / P30_U / P30_US / P30_EEA / P30_ROW',
@@ -14686,8 +14607,7 @@ Map<String, String> _androidP = {
   'P301_L1108': 'L1108',
   'P30HD': 'P30HD / P30HD_ROW / P30HD_RU',
   'P30HD_EEA': 'P30HD',
-  'P30T':
-      'P30T_BN_EEA / P30T_EEA / P30T_ROW / P30T_YB_EEA / P30T_YB_ROW / P30T_YB_RU / P30T_YB_US / P30T_Y_ROW',
+  'P30T': 'P30T_BN_EEA / P30T_EEA / P30T_ROW / P30T_YB_EEA / P30T_YB_ROW / P30T_YB_RU / P30T_YB_US / P30T_Y_ROW',
   'P30T_Y': 'P30T_Y_EEA / P30T_Y_ROW / P30T_Y_RUS',
   'P310': 'DEXP Ursus P310',
   'P32 Pro': 'VZ-30Pro',
@@ -14759,8 +14679,7 @@ Map<String, String> _androidP = {
   'P6_lite_TM': 'P6 Lite',
   'P6_lite_mTEL': 'P6 Lite',
   'P6_plus': 'P6  Plus',
-  'P7':
-      'P7 / Multiple_Applications_Display_Terminal / P7_A03 / P7_A03_EEA / P7_A04 / P7_A04_EEA / P7_A05 / P7_A06 / P7_A06_EEA / P7_A07 / P7_A07_EEA / P7_A08 / P7_A10 / P7_A10K / P7_A10K_EEA / P7_A10K_W / P7_A10_EEA / P7_A10_EEA_01 / P7_A10_M / P7_A11 / P7_A11K_ROW / P7_A11_EEA / P7_A11_ROW',
+  'P7': 'P7 / Multiple_Applications_Display_Terminal / P7_A03 / P7_A03_EEA / P7_A04 / P7_A04_EEA / P7_A05 / P7_A06 / P7_A06_EEA / P7_A07 / P7_A07_EEA / P7_A08 / P7_A10 / P7_A10K / P7_A10K_EEA / P7_A10K_W / P7_A10_EEA / P7_A10_EEA_01 / P7_A10_M / P7_A11 / P7_A11K_ROW / P7_A11_EEA / P7_A11_ROW',
   'P7 Plus': 'P7_Plus',
   'P7-EEA': 'Tablet',
   'P70': 'P70_14 / P70_14_EEA',
@@ -14783,8 +14702,7 @@ Map<String, String> _androidP = {
   'P7_PRO_TM': 'P7 PRO_TM',
   'P7plus': 'P7 Plus / P7plus',
   'P8': 'P8 / GTAB_P8 / MediaPadP8 / Power P8',
-  'P80':
-      'P80 / P80_B / P80_EEA / P80-EEA / P80-ROW / P80_EU / P80_EUR / P80_US',
+  'P80': 'P80 / P80_B / P80_EEA / P80-EEA / P80-ROW / P80_EU / P80_EUR / P80_US',
   'P80T_EEA': 'P80T_EEA / P80T_Y_EEA',
   'P80T_ROW': 'P80T_ROW / P80T_Y_ROW',
   'P80T_RUS': 'P80T_Y_RUS',
@@ -15217,8 +15135,7 @@ Map<String, String> _androidP = {
   'POLYTRON 2K': 'Google TV / R3GS',
   'POLYTRON 4K': 'Google TV',
   'POLYTRON2K': '2K / POLYTRON2K',
-  'POLYTRON4K':
-      'PLD43UG5959/PLD43BUG5959/PLD50UG5959/PLD50BUG5959/PLD55UG5959/ / POLYTRON4K / R10G',
+  'POLYTRON4K': 'PLD43UG5959/PLD43BUG5959/PLD50UG5959/PLD50BUG5959/PLD55UG5959/ / POLYTRON4K / R10G',
   'POLYTRON_P552': 'POLYTRON P552',
   'POOLS_The_DOLLAR': 'POOLS The DOLLAR',
   'POSITIVO TABLET YPY 07FTB PM BELÉM': 'Ypy 07FTB',
@@ -15331,7 +15248,7 @@ Map<String, String> _androidP = {
   'PYB110': 'OnePlus 16',
   'PYD110': 'OPPO K15',
   'PYE110': 'A7 Pro 5G',
-  'PYE130': 'A7 Pro 5G',
+  'PYE130': 'K15s',
   'PYF110': 'OnePlus Ace 7',
   'PYR110': '一加 Turbo 6X Pro',
   'P_545BL': 'P_545BL_EEA',
@@ -15422,8 +15339,7 @@ Map<String, String> _androidP = {
   'Panasonic_P61': 'P61',
   'Panasonic_TV': 'JX700C / JX900C',
   'Panasonic_dL1': 'ELUGA dL1',
-  'Panavox Android TV':
-      'Panavox Android TV / fushan_panavox / xiaoyushan_panavox',
+  'Panavox Android TV': 'Panavox Android TV / fushan_panavox / xiaoyushan_panavox',
   'Pantech V950': 'v950',
   'Pantech V955': 'V955 / v955',
   'PantechP4100': 'Element',
@@ -15595,8 +15511,7 @@ Map<String, String> _androidP = {
   'Polaroid Android TV': 'Polaroid android TV',
   'Polaroid4KAndroidTV': 'Polaroid',
   'Polestar 2': 'Polestar Emu',
-  'Porsche Rear Seat Entertainment':
-      'Porsche / Rear  Seat  Entertainment / SDIS1',
+  'Porsche Rear Seat Entertainment': 'Porsche / Rear  Seat  Entertainment / SDIS1',
   'Pos terminal': 'M10B',
   'Posfic 4K Android TV': 'MTC',
   'Posiflex MT62': 'MT-6208A',
@@ -15651,6 +15566,7 @@ Map<String, String> _androidP = {
   'Power': 'Pulse Power / myPhone_Power / Power',
   'Power 3': 'POWER 3',
   'Power 5': 'Power 5 / Power 5 EEA',
+  'Power 60': 'Power_60',
   'Power Armor 19T': 'Power Armor 19T / Power_Armor_19T',
   'Power Armor14 Pro': 'Power Armor 14 Pro',
   'Power Ice Evo': 'Power Ice EVO',
@@ -15735,7 +15651,7 @@ Map<String, String> _androidP = {
   'Pxx79': 'infnity_Piscis_E1',
   'Pyxis': 'MI CC 9 / Pyxis',
 };
-Map<String, String> _androidQ = {
+const Map<String, String> _androidQ = {
   'Q Explorist HR': 'Wear',
   'Q Marshal': 'Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan',
   'Q Sport 41': 'Fossil Sport',
@@ -15935,7 +15851,7 @@ Map<String, String> _androidQ = {
   'Quicktab': 'QUICKTAB',
   'QuiltMotion Tablet 8': 'QuiltMotion_Tablet_8',
 };
-Map<String, String> _androidR = {
+const Map<String, String> _androidR = {
   'R-6502': 'RADDY_JANJA_PRO',
   'R-TP10': 'R-TP10 / R-TP10_EEA / R-TP10_US',
   'R1 PLUS': 'R1 PLUS / R1 Plus',
@@ -16092,9 +16008,9 @@ Map<String, String> _androidR = {
   'RG-TB711-V1': 'RIRO_X100',
   'RG-station2': 'station2',
   'RG650 U': 'RG650',
-  'RG725':
-      'RG725 / RG725_P_EEA / RG725_P_ROW / RG725_Q_EEA / RG725_Q_ROW / RG725_Q_US',
+  'RG725': 'RG725 / RG725_P_EEA / RG725_P_ROW / RG725_Q_EEA / RG725_Q_ROW / RG725_Q_US',
   'RG725Plus': 'RG725 Plus',
+  'RGD1': 'RGD1_EEA',
   'RGD1_ROW': 'RGD1_EEA / RGD1_ROW / RGD1_US',
   'RGR5': 'Ranger 5',
   'RIO-L03': 'G8',
@@ -16463,13 +16379,11 @@ Map<String, String> _androidR = {
   'ROL-W00': 'HONOR Pad V9 / 荣耀平板V9',
   'ROL-W10': '荣耀平板V9',
   'ROL-W60': '荣耀平板GT',
-  'RP01':
-      'BISON X10 / BISON X10 EEA / BISON X10 Pro / BISON X10 Pro EEA / BISON X10 Pro TR / BISON X10 RU / BISON_X10_Pro_RU / BISON_X10_TR',
+  'RP01': 'BISON X10 / BISON X10 EEA / BISON X10 Pro / BISON X10 Pro EEA / BISON X10 Pro TR / BISON X10 RU / BISON_X10_Pro_RU / BISON_X10_TR',
   'RP02': 'BISON_GT2_5G',
   'RP03': 'BISON_GT2',
   'RP04': 'BISON 2 / BISON 2 EEA',
-  'RP05':
-      'BISON X10G / BISON X10G EEA / BISON X10G NFC / BISON X10G NFC EEA / BISON X10S / BISON X10S EEA / BISON X10S NFC',
+  'RP05': 'BISON X10G / BISON X10G EEA / BISON X10G NFC / BISON X10G NFC EEA / BISON X10S / BISON X10S EEA / BISON X10S NFC',
   'RP08': 'G5 Mecha / G5 Mecha EEA / G5 Mecha RU',
   'RPSPE4301': 'ALCATEL_one_touch_995',
   'RQ-G': 'RoadQuest',
@@ -16583,7 +16497,7 @@ Map<String, String> _androidR = {
   'Rugged_tablet': 'Rugged tablet',
   'Runway': 'Wear',
 };
-Map<String, String> _androidS = {
+const Map<String, String> _androidS = {
   'S': 'GTab_S',
   'S Punk Pro': 'S punk Pro',
   'S TAB 10\'\' II': 'VT10E2',
@@ -16630,6 +16544,7 @@ Map<String, String> _androidS = {
   'S26': 'S26 / TRECFONE S26',
   'S27 Ultra': 'S27_Ultra',
   'S270': 'Dexp Ursus S270',
+  'S27Ultra': 'S27Ultra / S27Ultra_US',
   'S28 ultra': 'A60',
   'S2_PRO': 'S2PRO',
   'S3': 'S3 / Emporia SMART 3 / S3_ROW',
@@ -16734,7 +16649,7 @@ Map<String, String> _androidS = {
   'S6514L': 'N13',
   'S6516L': 'N22',
   'S6518': 'RUIO S6518',
-  'S6518L': 'N22',
+  'S6518L': 'GoMo N22 / N22',
   'S6523': 'X12',
   'S6523 EEA': 'X12',
   'S6523 RU': 'S6523_RU',
@@ -17392,8 +17307,7 @@ Map<String, String> _androidS = {
   'SH-Z10A': 'AQUOS zero',
   'SH-Z20': 'AQUOS zero2 SH-Z20',
   'SH-Z60': 'AQUOS zero6',
-  'SH1':
-      'Ascom Myco 2 Cellular / Ascom Myco 2 WiFi / Ascom Myco Cellular / Ascom Myco Wi-Fi',
+  'SH1': 'Ascom Myco 2 Cellular / Ascom Myco 2 WiFi / Ascom Myco Cellular / Ascom Myco Wi-Fi',
   'SH631W': 'SHARP SH631W',
   'SH65 2GB/32GB 4800mAh GMS': 'SH65_23248',
   'SH825Wi': 'SH825wi',
@@ -17569,8 +17483,7 @@ Map<String, String> _androidS = {
   'SKY 9 A102 3G SS9236PG': 'SKY_9_A102_3G',
   'SKY 9 E201 3G SS9237MG': 'SKY 9 E201 3G',
   'SKY A67': 'Sky_A67',
-  'SKY B63':
-      'SKY_B632NUS / SKY_B63AUSN / SKY_B63BUNS / SKY_B63CUW / SKY_B63HA / SKY_B63NAL / SKY_B63NUSA / SKY_B63US',
+  'SKY B63': 'SKY_B632NUS / SKY_B63AUSN / SKY_B63BUNS / SKY_B63CUW / SKY_B63HA / SKY_B63NAL / SKY_B63NUSA / SKY_B63US',
   'SKY D63': 'SKY_D63',
   'SKY E63': 'SKY_E63 / SKY_E63BUS / SKY_E63CU',
   'SKY IM-A600S': 'Sirius',
@@ -19985,8 +19898,7 @@ Map<String, String> _androidS = {
   'SMART RT2': 'SMART_RT2',
   'SMART Start': 'V815W',
   'SMART Surf2 4G': 'Smart Surf2 4G',
-  'SMART TV':
-      'AIWA / AZATECH / BAUF / COMPAQ / FASTLIFE / GHIA / hyundai / ICE / ITEL / CONTINUUS / DREAMVIEW / KIUNIT / MOTOROLA / PROMETHEUS / ROSSO / SA / SIRAGON / XITRIX',
+  'SMART TV': 'AIWA / AZATECH / BAUF / COMPAQ / FASTLIFE / GHIA / hyundai / ICE / ITEL / CONTINUUS / DREAMVIEW / KIUNIT / MOTOROLA / PROMETHEUS / ROSSO / SA / SIRAGON / XITRIX',
   'SMART W32': 'SMART_W32',
   'SMART W41': 'SMART_W41',
   'SMART W8 Kids': 'SMART_W8_Kids',
@@ -20014,7 +19926,7 @@ Map<String, String> _androidS = {
   'SN512A': 'AT&T Motivate® Pro 2 5G',
   'SN512C': 'Cricket Icon® Pro - 2026',
   'SN512CC': 'IRIS Connect 2',
-  'SN512CCM': 'SpeakEasy Smart',
+  'SN512CCM': 'SN512CCM_UM / SpeakEasy Smart',
   'SN515AR': 'AT&T Trek™ / SN515AR_UM',
   'SNAP_PRO': 'SNAP PRO',
   'SNB02-NV7A': '2S Tablet',
@@ -20271,8 +20183,7 @@ Map<String, String> _androidS = {
   'STK Storm 3': 'Storm 3',
   'STK Sync 5z': 'Sync 5z',
   'STK-AL00': '华为畅享10 Plus',
-  'STK-L21':
-      'HUAWEI P smart Pro / HUAWEI Y9 Prime 2019 / HUAWEI Y9s / Huawei Y9s / Y9 Prime 2019',
+  'STK-L21': 'HUAWEI P smart Pro / HUAWEI Y9 Prime 2019 / HUAWEI Y9s / Huawei Y9s / Y9 Prime 2019',
   'STK-L22': 'HONOR 9X / HUAWEI Y9s / Y9 Prime 2019',
   'STK-LX1': 'HONOR 9X / HUAWEI P smart Pro / HUAWEI P smart Z',
   'STK-LX3': 'HONOR 9X / HUAWEI Y9s / Y9 Prime 2019',
@@ -20332,8 +20243,7 @@ Map<String, String> _androidS = {
   'SWA310': 'SWA310 / SWA310_NEU',
   'SWEET 55': 'SWEET_55',
   'SWG2001A-A': 'Beebox',
-  'SWTV':
-      'Smart TV / Asia / Europe / North America / South America / TV / Taiwan / APAC 2K TV / Euro',
+  'SWTV': 'Smart TV / Asia / Europe / North America / South America / TV / Taiwan / APAC 2K TV / Euro',
   'SWTV-20NA': 'SWTV-20N',
   'SWTV-24H-4K': 'SWTV-24HK-4K',
   'SWTV-24H-4K NF': 'SWTV-24HK-4K NF',
@@ -20441,13 +20351,11 @@ Map<String, String> _androidS = {
   'Smart J5': 'OMSJ523B',
   'Smart Landline AC7 Tablet': 'Smart_Landline_AC7',
   'Smart Monitor 17': 'SM17',
-  'Smart TV':
-      'fushan_akino / fushan_BGH / fushan_Guard / 4K TV / Miramage Google TV / Smart TV / Riviera / BeyondTV6 / BeyondTV7 / C02_4K_US / C03_4K_NA / C06_2K_GB / C06_2K_US / G03_4K_GB_NF / G03_4K_US_NF / G03_4K_US_NF_DB / G06_2K_GB / G06_2K_US / G07_4K_GB_NF / G08_4K_US_NF / G09_4K_GB_NF / G10 / G10_4K_GB_NF / G13_2K_GB / G13_2K_US / G14_2K_GB / G14_4K_GB / G14_4K_GB_32BIT / G14_4K_US / G14_4K_US_32BIT / G15_4K_D4_GB_NF / G15_4K_GB_NF / G18_2K_D3_GB / G18_2K_GB / fushan_euT',
+  'Smart TV': 'fushan_akino / fushan_BGH / Smart TV / fushan_Guard / 4K TV / Miramage Google TV / SmartTV 4K L5 / Riviera / BeyondTV6 / BeyondTV7 / C02_4K_US / C03_4K_NA / C06_2K_GB / C06_2K_US / G03_4K_GB_NF / G03_4K_US_NF / G03_4K_US_NF_DB / G06_2K_GB / G06_2K_US / G07_4K_GB_NF / G08_4K_US_NF / G09_4K_GB_NF / G10 / G10_4K_GB_NF / G13_2K_GB / G13_2K_US / G14_2K_GB / G14_4K_GB / G14_4K_GB_32BIT / G14_4K_US / G14_4K_US_32BIT / G15_4K_D4_GB_NF / G15_4K_GB_NF / G18_2K_D3_GB / G18_2K_GB / fushan_euT',
   'Smart TV 4K': 'Europe / Smart TV 4K',
   'Smart TV KR': 'SmartTV_KR',
-  'Smart TV P': 'SmartTV P',
-  'Smart TV Pro':
-      'BeyondTV4 / BeyondTV6 / C05_4K_GB / G03_4K_GB / G03_4K_US / G03_4K_US_NF / G05_4K_GB / G05_4K_US / G08 / G09 / G10_4K_US / G15_4K_D4_GB / G15_4K_GB / G16_4K_US / G17_4K_GB / G17_4K_US',
+  'Smart TV P': 'Smart TV P / SmartTV P',
+  'Smart TV Pro': 'BeyondTV4 / BeyondTV6 / C05_4K_GB / G03_4K_GB / G03_4K_US / G03_4K_US_NF / G05_4K_GB / G05_4K_US / G08 / G09 / G10_4K_US / G15_4K_D4_GB / G15_4K_GB / G16_4K_US / G17_4K_GB / G17_4K_US',
   'Smart UHD TV': 'Electroman / ICE / KIUNIT / MOTOROLA / THEHAM',
   'Smart-Ex 01': 'Smart-Ex 01 / XP7 / XP7700Z1',
   'Smart-Ex 02 RUS': 'Smart-Ex02',
@@ -20479,10 +20387,8 @@ Map<String, String> _androidS = {
   'SmartTAB 1002': 'Essentiel B SmartTab 1002',
   'SmartTAB1007': 'SmartTab1007',
   'SmartTV': 'emeishan / MB300',
-  'SmartTV 4K':
-      'OEM50ANDROID22/OEM55ANDROID22 / 4K TV / Laser TV / SmartTV 4K / huangshan / lushan-NF / songshan / Leica Laser / X7500 / 50 google tv/58 google tv/65 google tv/75 google tv / HIKA5 / huangshan_sunbrite / lushan-Toshiba',
-  'SmartTV 4K FFM':
-      'huangshan_gigabyte / 4K TV / SmartTV 4K FFM / ULED / huangshan / lushan / X9500 / huangshan_theham / SmartTV 4K / lushan-Toshiba-FFM',
+  'SmartTV 4K': 'OEM50ANDROID22/OEM55ANDROID22 / 4K TV / Laser TV / SmartTV 4K / huangshan / lushan-NF / songshan / Leica Laser / X7500 / 50 google tv/58 google tv/65 google tv/75 google tv / HIKA5 / huangshan_sunbrite / lushan-Toshiba',
+  'SmartTV 4K FFM': 'huangshan_gigabyte / 4K TV / SmartTV 4K FFM / ULED / huangshan / lushan / X9500 / huangshan_theham / SmartTV 4K / lushan-Toshiba-FFM',
   'SmartTV 8K FFM': '9980',
   'SmartTV FFM': 'taishan-jpT',
   'SmartTab1005': 'Smart TAB 1005',
@@ -20516,8 +20422,7 @@ Map<String, String> _androidS = {
   'Smartpad-V7': 'Smartpad V7',
   'Smartphone Android by SFR STARXTREM II': 'POP S9',
   'Smartphone DL Horizon H8': 'Horizon H8',
-  'Smartphone_Android_by_SFR_STARADDICT_II':
-      'Smartphone Android by SFR STARADDICT II',
+  'Smartphone_Android_by_SFR_STARADDICT_II': 'Smartphone Android by SFR STARADDICT II',
   'Smartphone_X5': 'X5',
   'Smartphone_YZU_DS53': 'YZU_DS53',
   'Smartplus': 'S40_PLUS',
@@ -20674,7 +20579,7 @@ Map<String, String> _androidS = {
   'Synetech_T35_V': 'Synetech_Elite_Taurus_V',
   'Synetech_T7535_VC': 'Synetech Elite Taurus-VC',
 };
-Map<String, String> _androidT = {
+const Map<String, String> _androidT = {
   'T Phone (2023)': 'T Phone （2023）',
   'T-01C': 'REGZA Phone T-01C',
   'T-01D': 'REGZA Phone T-01D',
@@ -20715,8 +20620,7 @@ Map<String, String> _androidT = {
   'T1-A21w': 'T1 10',
   'T1-A22L': 'T1 10',
   'T1-A23L': 'T1 10',
-  'T10':
-      'T10 / Liquid Z6E / DynaVox T10 / Gplus / P50 / T10_EEA / T10_ROW / T10-M / T10_US / T10U',
+  'T10': 'T10 / Liquid Z6E / DynaVox T10 / Gplus / P50 / T10_EEA / T10_ROW / T10-M / T10_US / T10U',
   'T100': 'T100 / RHINO T100',
   'T1001L': 'Tab 10',
   'T1004G': 'T1004G / T1004GS',
@@ -20765,8 +20669,7 @@ Map<String, String> _androidT = {
   'T3 Pro': 'Brave_T3Pro / T3 Pro',
   'T3 Pro Max': 'T3 PRO / T3 PRO MAX',
   'T3 Ultra': 'BraveT3Ultra',
-  'T30':
-      'Benten_T30 / T30 / T30E / T30_EA / T30_NEU / T30_US / T30 2023 / T30_EEA / T30_ROW',
+  'T30': 'Benten_T30 / T30 / T30E / T30_EA / T30_NEU / T30_US / T30 2023 / T30_EEA / T30_ROW',
   'T30-EEA': 'T30 / T30-EEA',
   'T3011D': 'Vision Tab 11',
   'T307F': 'Vision Tab 7',
@@ -20873,8 +20776,7 @@ Map<String, String> _androidT = {
   'T5524': 'Srtphone',
   'T5SE-001': 'T5SE',
   'T5se': 'RHINO T5se',
-  'T60':
-      'T60_US / T60_EA / T60_NEU / T60_RU / T60 / T60-EEA / T60-ROW / T60_EEA / T60_ROW',
+  'T60': 'T60_US / T60_EA / T60_NEU / T60_RU / T60 / T60-EEA / T60-ROW / T60_EEA / T60_ROW',
   'T60 Pro': 'T60_Pro_US',
   'T600M': '8050E',
   'T601DL': 'TCL 4X 5G',
@@ -21025,8 +20927,7 @@ Map<String, String> _androidT = {
   'T9': 'T9_1 / T9',
   'T9 PRO': 'T9_PRO',
   'T90': 'T90 / T90_EEA / T90_NEU / T90_US',
-  'T901':
-      'T901_EEA / T901_ROW / T901_EUR / T901_U / T901_U1 / T901_US_U / T901_Y_US',
+  'T901': 'T901_EEA / T901_ROW / T901_EUR / T901_U / T901_U1 / T901_US_U / T901_Y_US',
   'T901Pro-E': 'T901Pro-EEA',
   'T9120': 'T9120_EEA',
   'T91A': 'O2S Ultra',
@@ -21088,8 +20989,7 @@ Map<String, String> _androidT = {
   'TAB-TK101-4': 'tk101_4',
   'TAB011': 'Npad_mini',
   'TAB012': 'Npad_ultra',
-  'TAB10':
-      'TAB10_1 / TAB10 / TAB10-Pro / TAB10_EEA / TAB10_EU / TAB10_EUR / TAB10_O / TAB10_ROW / TAB10_U / TAB10_US',
+  'TAB10': 'TAB10_1 / TAB10 / TAB10-Pro / TAB10_EEA / TAB10_EU / TAB10_EUR / TAB10_O / TAB10_ROW / TAB10_U / TAB10_US',
   'TAB1081': 'TAB1081 / TAB1081_eea',
   'TAB21': 'G9 Tab',
   'TAB30': 'TAB30-EU / TAB30-W',
@@ -21100,13 +21000,11 @@ Map<String, String> _androidT = {
   'TAB_8': 'L8_B01 / L8_B01_EEA',
   'TAB_A8_EEA': 'TAB_A8_EEA_T',
   'TAB_A8_US': 'TAB_A8_T',
-  'TAB_P10':
-      'TAB_P10 / TAB_P10_CZ_ROW / TAB_P10_EEA / TAB_P10_EEA_C / TAB_P10_ROW / TAB_P10_USA',
+  'TAB_P10': 'TAB_P10 / TAB_P10_CZ_ROW / TAB_P10_EEA / TAB_P10_EEA_C / TAB_P10_ROW / TAB_P10_USA',
   'TADAAM Box': 'TADAAM Box / Tadaam',
   'TADI_TOUCH_1': 'TADI_TOUCH_1_SERIES',
   'TAE10C13': 'TAE10C13 / TAEI0C13',
-  'TAG Heuer':
-      'Connected / Connected 2020 / Connected Calibre E4 42mm / Connected Calibre E4 45mm / Connected Modular 41 / Connected Modular 45 / Connected Modular 45 (China)',
+  'TAG Heuer': 'Connected / Connected 2020 / Connected Calibre E4 42mm / Connected Calibre E4 45mm / Connected Modular 41 / Connected Modular 45 / Connected Modular 45 (China)',
   'TAG TAB II': 'TAG_TAB_II',
   'TAG-Executive': 'TAG-TAB-Executive',
   'TAG_Phone': 'TAG Phone',
@@ -21126,8 +21024,7 @@ Map<String, String> _androidT = {
   'TB-X704N': 'Lenovo TAB4 10 Plus',
   'TB-X704V': 'Lenovo TAB4 10 Plus',
   'TB01': 'M620',
-  'TB02':
-      'TB02_EEA / TB02_ROW / TB02 / TB02_EEA_A / TB02_EUR / TB02_Pro_EEA / TB02_US',
+  'TB02': 'TB02_EEA / TB02_ROW / TB02 / TB02_EEA_A / TB02_EUR / TB02_Pro_EEA / TB02_US',
   'TB108W': 'Customer need debug',
   'TB128FU': '启天K10 Pro',
   'TB128XC': '启天K10 Pro',
@@ -21527,8 +21424,7 @@ Map<String, String> _androidT = {
   'TECNO KM8': 'TECNO SPARK Go 5G',
   'TECNO KM8n': 'TECNO SPARK 40 5G',
   'TECNO KM9': 'TECNO POVA Slim 5G / TECNO SPARK Slim 5G',
-  'TECNO KN3':
-      'TECNO POP 20 / TECNO POP X / TECNO SPARK 50/50C / TECNO SPARK Go 3',
+  'TECNO KN3': 'TECNO POP 20 / TECNO POP X / TECNO SPARK 50/50C / TECNO SPARK Go 3',
   'TECNO KN4': 'TECNO SPARK 50 / TECNO SPARK 50/50S',
   'TECNO KN4n': 'TECNO SPARK 50',
   'TECNO KN8': 'TECNO SPARK 50 5G',
@@ -21728,8 +21624,7 @@ Map<String, String> _androidT = {
   'TG2403GBA': 'G7_Tab_Pro',
   'TG2404GBA': 'G6_Tab / G6_Tab_EEA',
   'TG2405GBA': 'G7_Tab_Mini / G7_Tab_Mini_EEA',
-  'TG3DBG1MA':
-      'G1_Tab_Mini / G1_Tab_Mini_EEA / G1_Tab_Mini_GO / G1_Tab_Mini_Kids / G1_Tab_Mini_Kids_EEA',
+  'TG3DBG1MA': 'G1_Tab_Mini / G1_Tab_Mini_EEA / G1_Tab_Mini_GO / G1_Tab_Mini_Kids / G1_Tab_Mini_Kids_EEA',
   'TG4ABG4MA': 'G4_Tab_Mini',
   'TG4ABG4TA': 'G4_Tab',
   'TG4FBG7TA': 'G7_Tab / G7_Tab_EEA',
@@ -21829,11 +21724,9 @@ Map<String, String> _androidT = {
   'TPM4G_E108': 'TPM4G_E108 / TPM4G_E108_A',
   'TPS900': 'TPS900Q',
   'TQ700': 'TQ700/QUANTUM 700/TAB',
-  'TR10CD1':
-      'TR10CD1 / i-Buddie / TR10CD1(PVT2) / TSINGHUA TONGFANG CO., LTD. / TR10CD1_P',
+  'TR10CD1': 'TR10CD1 / i-Buddie / TR10CD1(PVT2) / TSINGHUA TONGFANG CO., LTD. / TR10CD1_P',
   'TR10CD2': 'Any 303',
-  'TR10CS1':
-      'A.O.I. / TR10CS1 / i_Buddie / TR10CS1 (PVT2) / Ketablet / Any 302 / TR10CS1_P',
+  'TR10CS1': 'A.O.I. / TR10CS1 / i_Buddie / TR10CS1 (PVT2) / Ketablet / Any 302 / TR10CS1_P',
   'TR10CS2': 'Any 302',
   'TRANSVISION-Xstream': 'SEI500TR / TRANSVISION-Xstream',
   'TRANSVISION-iTV': 'Transvision',
@@ -22060,8 +21953,7 @@ Map<String, String> _androidT = {
   'The Leader Tab8 4G': 'The_Leader_Tab8_4G',
   'Theater': 'Theater12',
   'Theia_10': 'nJoy Theia 10',
-  'ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)':
-      'ThinkPad 11e Chromebook 3rd Gen',
+  'ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)': 'ThinkPad 11e Chromebook 3rd Gen',
   'ThinkPad Tablet': 'Indigo',
   'ThinkPhone by motorola': 'ThinkPhone by Motorola',
   'Thomson 150': '150',
@@ -22077,8 +21969,7 @@ Map<String, String> _androidT = {
   'Thyme': 'Mi 10S',
   'TicWatch C2+': 'TicWatch C2',
   'TicWatch E2': 'TicWatch E2/S2',
-  'TicWatch Pro 3':
-      'TicWatch Pro 3 / TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra',
+  'TicWatch Pro 3': 'TicWatch Pro 3 / TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra',
   'TicWatch Pro 3 GPS': 'TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS',
   'TicWatch Pro 3 Ultra': 'TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra',
   'TicWatch Pro 3 Ultra GPS': 'TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS',
@@ -22167,7 +22058,7 @@ Map<String, String> _androidT = {
   'Twist Tab Minions +': 'Twist Tab',
   'Twist Tab SPIDEY +': 'Twist Tab',
 };
-Map<String, String> _androidU = {
+const Map<String, String> _androidU = {
   'U1 MINI': 'U1_MINI',
   'U10': 'U10 / U10_RU',
   'U10 Kid': 'U10KID',
@@ -22315,7 +22206,7 @@ Map<String, String> _androidU = {
   'Universe_S24_Plus': 'Universe S24_Plus / Universe_S24_Plus',
   'Up_Mobile_Mover_Edition': 'Mover_Edition / Mover_Edition_EEA',
 };
-Map<String, String> _androidV = {
+const Map<String, String> _androidV = {
   'V Max': 'V MAX / V Max',
   'V Pro 2': 'V Pro 2 4G',
   'V TAB 10\'\' LITE': 'VT10E2',
@@ -22611,8 +22502,7 @@ Map<String, String> _androidV = {
   'V2441': 'vivo V50 Lite',
   'V2442A': 'Y37c',
   'V2443': 'vivo Y39 5G',
-  'V2443A':
-      'G3 / Y37+ / Y37t / Y50 5G / Y50 AI版 / Y50 移动定制版 / Y50e 5G / Y50e AI版 / Y50i / Y50i 12+256版 / Y50i 8+256版 / Y50i 移动定制版 / Y50s 5G / Y50s AI版',
+  'V2443A': 'G3 / Y37+ / Y37t / Y50 5G / Y50 AI版 / Y50 移动定制版 / Y50e 5G / Y50e AI版 / Y50i / Y50i 12+256版 / Y50i 8+256版 / Y50i 移动定制版 / Y50s 5G / Y50s AI版',
   'V2443BA': 'Y50c / Y50m 5G',
   'V2444A': 'vivo Y300i',
   'V2445': 'JOVI Y29',
@@ -22673,8 +22563,7 @@ Map<String, String> _androidV = {
   'V2529': 'V60 Lite 5G',
   'V2530': 'V60 Lite',
   'V2531': 'Y04s / vivo Y04',
-  'V2531A':
-      'G5i / G5z / Y500i / Y500i AI版 / Y500i m版 / Y500s / Y500s AI版 / Y6 / Y6a',
+  'V2531A': 'G5i / G5z / Y500i / Y500i AI版 / Y500i m版 / Y500s / Y500s AI版 / Y6 / Y6a',
   'V2532': 'Y04e',
   'V2532A': 'iQOO Z11x',
   'V2532BA': 'Y6m',
@@ -22688,8 +22577,7 @@ Map<String, String> _androidV = {
   'V2540': 'V70',
   'V2541': 'Y19s 5G',
   'V2542': 'X300 FE',
-  'V2542A':
-      'Y60c / Y60e / Y60e AI版 / Y60e m版 / Y60i / Y60i AI版 / Y60i m版 / Y6k / Y6t m版',
+  'V2542A': 'Y60c / Y60e / Y60e AI版 / Y60e m版 / Y60i / Y60i AI版 / Y60i m版 / Y6k / Y6t m版',
   'V2543': 'Y31d / Y31d Pro',
   'V2544': 'Y51 Pro 5G',
   'V2545': 'T5x 5G',
@@ -22747,7 +22635,7 @@ Map<String, String> _androidV = {
   'V2606': 'Y05e',
   'V2606A': 'iQOO 16',
   'V2607': 'T5 5G',
-  'V2607A': 'Y600 / Y600 AI',
+  'V2607A': 'Y600 / Y600 AI版',
   'V2608A': 'X500 Pro',
   'V2608DA': 'X500 Pro',
   'V2609A': 'X500',
@@ -22758,6 +22646,7 @@ Map<String, String> _androidV = {
   'V2614': 'Y31s 5G',
   'V2615': 'V70 Lite 5G',
   'V2617A': 'Y500k / Y600i / Y600i AI版 / Y600i m版',
+  'V2618A': 'iQOO Neo12',
   'V2620A': 'S60t',
   'V2621': 'X500 Pro',
   'V2622': 'X500 Pro',
@@ -22770,6 +22659,7 @@ Map<String, String> _androidV = {
   'V2636': 'Y31d',
   'V2637': 'V70 Lite 5G',
   'V2638': 'Y32',
+  'V2639': 'Y32 5G',
   'V2640': 'S2 FE',
   'V2641': 'Y32',
   'V2642': 'Y32',
@@ -22821,8 +22711,7 @@ Map<String, String> _androidV = {
   'V406018': 'Starr 100',
   'V4_Viper': 'V4 Viper',
   'V4_Viper_PRO': 'V4 Viper PRO',
-  'V5':
-      'AZUMI V5 / AZUMI_V5_AC01 / Azumi_ V5_ AC05 / V5 / V5_AC25 / V5_AC25B / WE V5 / NE501J',
+  'V5': 'AZUMI V5 / AZUMI_V5_AC01 / Azumi_ V5_ AC05 / V5 / V5_AC25 / V5_AC25B / WE V5 / NE501J',
   'V5+': 'Azumi_V5PLUS_AC24 / V5+ / V5PLUS_AC25',
   'V50': 'V50 / V50 Pro',
   'V50 Pro': 'V50 Ultra',
@@ -22961,8 +22850,7 @@ Map<String, String> _androidV = {
   'VILLAON V501W': 'V20 SE / V20_SE',
   'VILLAON V651L': 'Telkom TS pro / V40s',
   'VILLAON V651W': 'V40',
-  'VILLAON V652L':
-      'A06s / AC65 / VILLAON V45s / Vodacom A06s / Vodacom Vibe 20 / Yas Y60',
+  'VILLAON V652L': 'A06s / AC65 / VILLAON V45s / Vodacom A06s / Vodacom Vibe 20 / Yas Y60',
   'VILLAON V653L': 'V50s / Vibe 50',
   'VILLAON V654L': 'V50s',
   'VILLAON V655L': 'V60',
@@ -22992,8 +22880,7 @@ Map<String, String> _androidV = {
   'VINCENT 4K Android TV': 'VINCENT',
   'VIOTTO SMART TV': 'VIOTTO',
   'VIP5242A': 'Telefonica ATV',
-  'VIP6102W':
-      'VIP6102W Genesis / VIP6102W FCGOV / VIP6102W LLA-PA / VIP6102W-LLA / VIP6102W',
+  'VIP6102W': 'VIP6102W Genesis / VIP6102W FCGOV / VIP6102W LLA-PA / VIP6102W-LLA / VIP6102W',
   'VIP7802': 'du TV',
   'VIRSAE25': 'Interactive_Flat_Panel',
   'VISION': 'VISION / S6539Q',
@@ -23314,7 +23201,7 @@ Map<String, String> _androidV = {
   'VucaPad_N20_LTE_JP': 'Vucatimes',
   'Vyper PRO': 'VYPER PRO',
 };
-Map<String, String> _androidW = {
+const Map<String, String> _androidW = {
   'W Series': 'Iactive_IFPD',
   'W-K130-BYT': 'Y50',
   'W-K130-EEA': 'Y50',
@@ -23560,8 +23447,7 @@ Map<String, String> _androidW = {
   'WP856': 'Grandstream WP856 / WP856',
   'WS107': 'WS107_eea',
   'WSCU3': 'WSCU',
-  'WT19a':
-      'Ericsson Live with Walkman / Live with Walkman / Live with Walkman(TM) / Xperia live',
+  'WT19a': 'Ericsson Live with Walkman / Live with Walkman / Live with Walkman(TM) / Xperia live',
   'WT19i': 'Ericsson Live with Walkman / Live with Walkman',
   'WT3 Pro': 'ORCATAB_WT3_Pro',
   'WT6300': 'Zebra Technologies WT6300',
@@ -23628,7 +23514,7 @@ Map<String, String> _androidW = {
   'Wooze_XL': 'Wooze XL',
   'Woxter_N70': 'Woxter',
 };
-Map<String, String> _androidX = {
+const Map<String, String> _androidX = {
   'X': 'GTab_X / X_PRO_AI',
   'X Bot Senior': 'XBOT_SENIOR',
   'X Pro': 'X Pro / X_Pro',
@@ -24030,6 +23916,7 @@ Map<String, String> _androidX = {
   'XT2453-2': 'motorola razr 50',
   'XT2533-4': 'moto g67 power 5G',
   'XT2551-3': 'motorola razr 60 ultra',
+  'XT2571-1': 'moto pad 60 pro',
   'XT2575-1': 'moto pad 60 neo',
   'XT2575-3': 'moto pad 60 neo',
   'XT2575-4': 'moto pad – 2026',
@@ -24106,8 +23993,7 @@ Map<String, String> _androidX = {
   'Xlife-415': 'Xlife-441Q',
   'Xlife-Proton5 Pro': 'Xlife-Proton 5 pro',
   'Xlife-Victor5': 'Victor5',
-  'Xming Google TV':
-      'Page One Smart Projector / Xming Episode One Smart Projector',
+  'Xming Google TV': 'Page One Smart Projector / Xming Episode One Smart Projector',
   'Xolo_X500': 'Xolo X500',
   'Xoom': 'XOOM',
   'Xpad_M9_3G': 'Xpad',
@@ -24123,7 +24009,7 @@ Map<String, String> _androidX = {
   'Xylo P': 'Xylo  P',
   'Xylo X': 'Xylo X A6 / Xylo_X_TM',
 };
-Map<String, String> _androidY = {
+const Map<String, String> _androidY = {
   'Y-20': 'SATCO_Y-20',
   'Y10': 'Y10 / Y10_1 / Y10_1_EEA / Y10_EEA',
   'Y10 Premium': 'Y10_Premium',
@@ -24241,7 +24127,7 @@ Map<String, String> _androidY = {
   'Ypy 7 - TB07FTA': 'YPY7 3G',
   'Ypy 7 - TB07STA': 'YPY7 wifi',
 };
-Map<String, String> _androidZ = {
+const Map<String, String> _androidZ = {
   'Z-PAD PRO ZP210P': 'Z-PAD_PRO',
   'Z-PAD SE ZP105-SE': 'Z-PAD_SE',
   'Z-PAD ULTRA ZP210U': 'Z-PAD_ULTRA',
@@ -24256,6 +24142,7 @@ Map<String, String> _androidZ = {
   'Z128_US': 'Z128_T_US / Z128_US',
   'Z13': 'I KALL Z13 / Z13',
   'Z130': 'Liquid E3S / Liquid Z3',
+  'Z138_U': 'Z138_U_US',
   'Z150': 'Liquid Z5 / Z150',
   'Z160': 'Liquid Z4',
   'Z19': 'D5-T-EEA / Z19',
@@ -24267,16 +24154,14 @@ Map<String, String> _androidZ = {
   'Z22': 'Vortex Z22',
   'Z220': 'Liquid Z220',
   'Z23': 'Vortex Z23',
-  'Z2350':
-      'ZTE Axon 60 Lite / ZTE Blade V60 Design / ZTE Blade V60 Vita / nubia V60 Design',
+  'Z2350': 'ZTE Axon 60 Lite / ZTE Blade V60 Design / ZTE Blade V60 Vita / nubia V60 Design',
   'Z2352N': 'nubia Neo 2 5G',
   'Z2353': 'nubia Music',
   'Z2356': 'ZTE Axon 60 / ZTE Blade V60 / nubia V60',
   'Z2357N': 'ZTE Blade A75 5G / ZTE Blade A75 5G S / nubia Focus 5G',
   'Z2450': 'DBZA55 / Z2450',
   'Z2455': 'nubia Focus / ZTE Focus',
-  'Z2458':
-      'Cepter Nivo V2 / ZTE Blade V70 Design / ZTE Blade V70 Vita / nubia V70 Design',
+  'Z2458': 'Cepter Nivo V2 / ZTE Blade V70 Design / ZTE Blade V70 Vita / nubia V70 Design',
   'Z2460': 'nubia Music 2 / nubia Music Pro',
   'Z2461': 'nubia Neo 3',
   'Z2462N': 'nubia Focus 2 5G',
@@ -24522,8 +24407,7 @@ Map<String, String> _androidZ = {
   'ZTE BV0850': 'BV0850',
   'ZTE Blade 2': 'V818',
   'ZTE Blade A210': 'Blade A210',
-  'ZTE Blade A3 Lite':
-      'ZTE BLADE A3 LITE / ZTE Blade A3 2019 / ZTE Blade A3 Lite',
+  'ZTE Blade A3 Lite': 'ZTE BLADE A3 LITE / ZTE Blade A3 2019 / ZTE Blade A3 Lite',
   'ZTE Blade A315': 'Blade A315',
   'ZTE Blade A33 Core': 'ZTE Blade A33 Cor / ZTE Blade A33 Core',
   'ZTE Blade A410': 'Dive 30 / Blade A410',
@@ -24922,7 +24806,7 @@ Map<String, String> _androidZ = {
   'Zumbo_S_2017_Lite': 'LAI Zumbo S 2017 Lite',
   'Zun X': 'Zun X / Zun X A6',
 };
-Map<String, String> _androida = {
+const Map<String, String> _androida = {
   'a37dj dugl': 'Desire 10 compact',
   'a5': 'Blade',
   'a500': 'A500',
@@ -24954,7 +24838,7 @@ Map<String, String> _androida = {
   'atlas': 'Pixelbook',
   'atom': 'Redmi 10X',
 };
-Map<String, String> _androidb = {
+const Map<String, String> _androidb = {
   'b1-720': 'B1-720',
   'b1-721': 'B1-721',
   'ba101': 'BANDOTT / BandOTT',
@@ -24970,10 +24854,9 @@ Map<String, String> _androidb = {
   'brown 2': 'Brown2',
   'brya': 'Intel Alder Lake Chromebook',
   'burmese': 'VCU',
-  'bytello_edla':
-      'general_broad_3588 / general_3576 / general_3576_camera / general_3576_no_mic / MXXCE4S',
+  'bytello_edla': 'general_broad_3588 / general_3576 / general_3576_camera / general_3576_no_mic / MXXCE4S',
 };
-Map<String, String> _androidc = {
+const Map<String, String> _androidc = {
   'c71kw200': 'DIRECTV STREAM',
   'calgary': 'Devour',
   'cancun': 'moto g14',
@@ -25002,7 +24885,7 @@ Map<String, String> _androidc = {
   'cyprus': 'moto e30',
   'cyprus64': 'Lenovo K14 Plus / moto e40',
 };
-Map<String, String> _androidd = {
+const Map<String, String> _androidd = {
   'd-41A': 'dtab d-41A',
   'd-51C': 'dtab d-51C',
   'd-51F': 'dtab d-51F',
@@ -25020,14 +24903,13 @@ Map<String, String> _androidd = {
   'dtacPhoneX3': 'Phone X3',
   'dtac_Phone_S2': 'Phone S2 / dtac_Phone_S2',
 };
-Map<String, String> _androide = {
+const Map<String, String> _androide = {
   'e-tab4': 'E-tab 4',
   'e-tab_style_REV3': 'e-tab_style_rev.3',
   'e6': 'e6_plus',
   'eSTAR 2K Android TV': 'EU、UK、AP',
   'eSTAR 4K Smart TV': 'Europe',
-  'eSTAR BEAUTY 2 HD Quad core':
-      'BEAUTY 2 HD Quad core / eSTAR BEAUTY 2 HD Quad core',
+  'eSTAR BEAUTY 2 HD Quad core': 'BEAUTY 2 HD Quad core / eSTAR BEAUTY 2 HD Quad core',
   'eSTAR BEAUTY 3 HD Quad core': 'MID7399',
   'eSTAR FHD Android TV': 'Lithuania',
   'eSTAR GO HD Quad core 3G': 'GO! HD Quad core 3G',
@@ -25048,7 +24930,7 @@ Map<String, String> _androide = {
   'era_X': 'Xolo Era X',
   'evvoli Google TV': 'Smart TV',
 };
-Map<String, String> _androidf = {
+const Map<String, String> _androidf = {
   'f100_65u': 'F100',
   'f400': 'F400',
   'falcon': 'Falcon',
@@ -25056,7 +24938,7 @@ Map<String, String> _androidf = {
   'fizz': 'Chromebox',
   'freebit PandA': 'CINK KING',
 };
-Map<String, String> _androidg = {
+const Map<String, String> _androidg = {
   'g06': 'g06+',
   'galahad': 'Redmi 9',
   'galneoscreen_V5': 'wende.interaktiv GmbH',
@@ -25073,7 +24955,7 @@ Map<String, String> _androidg = {
   'gucci': 'HM NOTE 1S CT',
   'guybrush': 'AMD FP6 Chromebook',
 };
-Map<String, String> _androidh = {
+const Map<String, String> _androidh = {
   'h31': 'H-31',
   'h33': 'H-33',
   'haierATVhongik': 'Haier Android TV',
@@ -25095,7 +24977,7 @@ Map<String, String> _androidh = {
   'hsw4026atl': 'XStream Smart Box',
   'hudl ht7s3': 'Hudl HT7S3',
 };
-Map<String, String> _androidi = {
+const Map<String, String> _androidi = {
   'i-mobile IQ II': 'IQ II',
   'i-mobile IQ X2': 'i-mobile IQ X2A',
   'i-mobile IQ XA': 'i-mobile IQ X',
@@ -25221,8 +25103,7 @@ Map<String, String> _androidi = {
   'i_Smart': 'i Smart',
   'idea_Board': 'ideaBoard',
   'ideatv K72': '60K72',
-  'ideatv K82':
-      'ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A',
+  'ideatv K82': 'ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A',
   'ideatv K91': 'IdeaTV',
   'ideatv S61': 'S61',
   'ido': 'Redmi 3',
@@ -25315,8 +25196,7 @@ Map<String, String> _androidi = {
   'itel A611WP': 'itel A57 2GB',
   'itel A62': 'A62',
   'itel A631L': 'itel A49 Play',
-  'itel A631W':
-      'A58 Lite / A58 lite / Itel A58 Lite / itel  A58 Lite / itel A58 Lite / itel A58 lite',
+  'itel A631W': 'A58 Lite / A58 lite / Itel A58 Lite / itel  A58 Lite / itel A58 Lite / itel A58 lite',
   'itel A632L': 'itel A04s',
   'itel A632W': 'itel A04',
   'itel A632WM': 'itel A04',
@@ -25507,12 +25387,12 @@ Map<String, String> _androidi = {
   'ivvi i1-01': 'i1-01',
   'ivvi i3-M1': 'i3-M1',
 };
-Map<String, String> _androidj = {
+const Map<String, String> _androidj = {
   'jAC AndroidTV': '43JB822 / 55JB832',
   'jacuzzi': 'Mediatek MT8183 Chromebook',
   'jupiter': 'B.PROカーナビ / CyberNavi / Navigation',
 };
-Map<String, String> _androidk = {
+const Map<String, String> _androidk = {
   'kPad': 'kPad / Chosunbiz',
   'kalista': 'Chromebase',
   'keeby': 'Intel Jasper Lake Chromebook',
@@ -25520,7 +25400,7 @@ Map<String, String> _androidk = {
   'kr101': 'viewing',
   'kukui': 'Mediatek MT8183 Tablet',
 };
-Map<String, String> _androidl = {
+const Map<String, String> _androidl = {
   'l11': 'Tablet_HQ_T616',
   'l3453': 'L5450C',
   'l4300': 'L4300',
@@ -25546,7 +25426,7 @@ Map<String, String> _androidl = {
   'logikids4': 'Logikids 4',
   'lotus': 'MI  PLAY',
 };
-Map<String, String> _androidm = {
+const Map<String, String> _androidm = {
   'm384wb': 'Wibox / WiboxTv',
   'malta': 'moto e(7) / moto e(7) power',
   'maltalsc': 'Lenovo K13 / moto e(7i) power',
@@ -25596,22 +25476,18 @@ Map<String, String> _androidm = {
   'moto e5': 'Moto E (5) / moto e5',
   'moto e5 (XT1920DL)': 'moto e5',
   'moto e5 cruise': 'moto e(5) cruise',
-  'moto e5 play':
-      'Moto E (5) Play / moto e(5) cruise / moto e(5) play / moto e5 play',
+  'moto e5 play': 'Moto E (5) Play / moto e(5) cruise / moto e(5) play / moto e5 play',
   'moto e5 plus': 'moto e(5) plus / moto e5 plus',
   'moto e5 supra': 'moto e5 plus',
   'moto e6': 'moto e6 / moto e6s',
   'moto e6 (XT2005DL)': 'moto e6',
-  'moto g - 2025':
-      'moto g - 2025 / moto g - 2026 / moto g play - 2026 / moto g37 / moto g37 power / moto g47 / moto g67 / moto g77',
-  'moto g 5G (2022)':
-      'moto g 5G (2022) / moto g stylus (2023) / motorola edge 40',
+  'moto g - 2025': 'moto g - 2025 / moto g - 2026 / moto g play - 2026 / moto g37 / moto g37 power / moto g47 / moto g67 / moto g77',
+  'moto g 5G (2022)': 'moto g 5G (2022) / moto g stylus (2023) / motorola edge 40',
   'moto g 5G - 2023': 'moto g 5G - 2023 / moto g 5G - 2024',
   'moto g 5G plus': 'moto g 5G plus / motorola one 5G',
   'moto g max': 'moto g max / moto g87',
   'moto g play (XT2093DL)': 'moto g play (2021)',
-  'moto g play - 2024':
-      'moto g - 2025 / moto g play - 2024 / motorola edge 60 pro',
+  'moto g play - 2024': 'moto g - 2025 / moto g play - 2024 / motorola edge 60 pro',
   'moto g power': 'moto g power / moto g power (2021) / moto g pure',
   'moto g power - 2025': 'moto g power - 2025 / moto g power - 2026',
   'moto g power 5G - 2023': 'moto g power 5G - 2023 / moto g power 5G - 2024',
@@ -25621,18 +25497,14 @@ Map<String, String> _androidm = {
   'moto g stylus (2021)': 'moto g stylus (2021) / moto g stylus 5G',
   'moto g stylus (XT2115DL)': 'moto g stylus (2021)',
   'moto g stylus - 2025': 'moto g stylus - 2026 / moto g stylus 5G - 2025',
-  'moto g stylus 5G (2022)':
-      'moto g 5G - 2023 / moto g stylus 5G (2022) / moto g53 5G',
-  'moto g stylus 5G - 2023':
-      'moto g stylus 5G - 2023 / moto g stylus 5G - 2024 / motorola edge 50 fusion',
+  'moto g stylus 5G (2022)': 'moto g 5G - 2023 / moto g stylus 5G (2022) / moto g53 5G',
+  'moto g stylus 5G - 2023': 'moto g stylus 5G - 2023 / moto g stylus 5G - 2024 / motorola edge 50 fusion',
   'moto g stylus 5g': 'moto g stylus 5G - 2023',
   'moto g(10) power': 'moto g10 power',
   'moto g(100)': 'moto g(100) / moto g32 / moto g42 / motorola edge 20 pro',
   'moto g(40) fusion': 'moto g40 fusion',
-  'moto g(50)':
-      'moto g stylus 5G (2022) / moto g(50) / moto g(50) 5G / moto g51 5G / moto g52 / moto g52j 5G / moto g71 5G',
-  'moto g(50) 5G':
-      'moto g power 5G - 2023 / moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)',
+  'moto g(50)': 'moto g stylus 5G (2022) / moto g(50) / moto g(50) 5G / moto g51 5G / moto g52 / moto g52j 5G / moto g71 5G',
+  'moto g(50) 5G': 'moto g power 5G - 2023 / moto g(50) 5G / moto g72 / moto g73 5G / motorola edge (2022)',
   'moto g(6)': 'moto e6 / moto g(6) / moto g(7) / moto g(7) play',
   'moto g(6) (XT1925DL)': 'moto g(6)',
   'moto g(6) play': 'moto g(6) play / moto g(7) power / moto g6 play',
@@ -25649,13 +25521,11 @@ Map<String, String> _androidm = {
   'moto g47': 'moto g47 / moto g77 power',
   'moto g51 5G': 'moto g51 5G / moto g62 5G',
   'moto g53 5G': 'moto g34 5G / moto g53 5G / moto g84 5G',
-  'moto g54 5G':
-      'moto g54 5G / moto g55 5G / moto g56 5G / moto g64 5G / moto g64y 5G / moto g66j 5G',
+  'moto g54 5G': 'moto g54 5G / moto g55 5G / moto g56 5G / moto g64 5G / moto g64y 5G / moto g66j 5G',
   'moto g57': 'moto g max / moto g57',
   'moto g64 5G': 'moto g64 5G / moto g66j 5G / moto g66y 5G',
   'moto g67': 'moto g max / moto g67 / moto g87',
-  'moto g71 5G':
-      'moto g62 5G / moto g71 5G / moto g82 5G / motorola edge 30 neo',
+  'moto g71 5G': 'moto g62 5G / moto g71 5G / moto g82 5G / motorola edge 30 neo',
   'moto g73 5G': 'moto g54 5G / moto g73 5G',
   'moto g8 power lite': 'moto g(8) power lite',
   'moto g87': 'moto g max / moto g87',
@@ -25665,39 +25535,27 @@ Map<String, String> _androidm = {
   'moto z3': 'Moto Z(3)',
   'moto z4': 'moto z4 / motorola one zoom',
   'moto[SPACE]g(50)': 'moto g51',
-  'motorola':
-      'moto g stylus (2022) / moto g31 / moto g41 / motorola edge 20 fusion / motorola edge 20 lite',
+  'motorola': 'moto g stylus (2022) / moto g31 / moto g41 / motorola edge 20 fusion / motorola edge 20 lite',
   'motorola edge': 'moto g 5G / motorola edge / motorola edge 30 ultra',
-  'motorola edge (2022)':
-      'motorola edge (2022) / motorola edge 2023 / motorola edge 40 neo',
+  'motorola edge (2022)': 'motorola edge (2022) / motorola edge 2023 / motorola edge 40 neo',
   'motorola edge 20 pro': 'moto g200 5G / motorola edge 20 pro',
   'motorola edge 2023': 'motorola edge 2023 / motorola edge 2024',
-  'motorola edge 2025':
-      'motorola edge 2025 / motorola edge 70 pro / motorola edge 70 pro+',
-  'motorola edge 30 pro':
-      'ThinkPhone by Motorola / motorola edge 30 pro / motorola edge 40 pro / motorola razr 2022',
-  'motorola edge 40 pro':
-      'moto g play - 2024 / moto g85 5G / motorola edge 40 pro / motorola edge 50 pro / motorola edge 50 ultra',
-  'motorola edge 50 fusion':
-      'moto g stylus 5G - 2025 / moto g96 5G / motorola edge 50 fusion / motorola edge 60 stylus',
-  'motorola edge 50 neo':
-      'moto g86 5G / moto g86 power 5G / motorola edge 2025 / motorola edge 50 neo / motorola edge 60 / motorola edge 60 fusion / motorola edge 60 neo',
-  'motorola edge 50 ultra':
-      'motorola edge 50 ultra / motorola edge 70 / motorola edge 70 fusion / motorola edge 70 fusion + / motorola razr fold / motorola razr fold 2026 / motorola signature',
+  'motorola edge 2025': 'motorola edge 2025 / motorola edge 70 pro / motorola edge 70 pro+',
+  'motorola edge 30 pro': 'ThinkPhone by Motorola / motorola edge 30 pro / motorola edge 40 pro / motorola razr 2022',
+  'motorola edge 40 pro': 'moto g play - 2024 / moto g85 5G / motorola edge 40 pro / motorola edge 50 pro / motorola edge 50 ultra',
+  'motorola edge 50 fusion': 'moto g stylus 5G - 2025 / moto g96 5G / motorola edge 50 fusion / motorola edge 60 stylus',
+  'motorola edge 50 neo': 'moto g86 5G / moto g86 power 5G / motorola edge 2025 / motorola edge 50 neo / motorola edge 60 / motorola edge 60 fusion / motorola edge 60 neo',
+  'motorola edge 50 ultra': 'motorola edge 50 ultra / motorola edge 70 / motorola edge 70 fusion / motorola edge 70 fusion + / motorola razr fold / motorola razr fold 2026 / motorola signature',
   'motorola edge 5G UW': 'motorola edge 5G UW (2021)',
   'motorola edge 60 fusion': 'motorola edge - 2026 / motorola edge 60 fusion',
-  'motorola edge 60 stylus':
-      'moto g57 / moto g57 power / moto g67 power 5G / motorola edge 60 stylus',
+  'motorola edge 60 stylus': 'moto g57 / moto g57 power / moto g67 power 5G / motorola edge 60 stylus',
   'motorola edge 70 fusion plus': 'motorola edge 70 fusion +',
-  'motorola edge plus':
-      'motorola edge (2021) / motorola edge 20 / motorola edge 30 pro / motorola edge plus',
-  'motorola edge plus (2022)':
-      'motorola edge plus (2022) / motorola edge plus 2023',
+  'motorola edge plus': 'motorola edge (2021) / motorola edge 20 / motorola edge 30 pro / motorola edge plus',
+  'motorola edge plus (2022)': 'motorola edge plus (2022) / motorola edge plus 2023',
   'motorola one': 'Motorola one / motorola one',
   'motorola one 5G': 'motorola one 5G / motorola one 5G UW',
   'motorola one 5G ace': 'motorola one 5G UW ace / motorola one 5G ace',
-  'motorola razr 2022':
-      'motorola razr 2022 / motorola razr 2023 / motorola razr 40 / motorola razr 40 ultra / motorola razr plus 2023',
+  'motorola razr 2022': 'motorola razr 2022 / motorola razr 2023 / motorola razr 40 / motorola razr 40 ultra / motorola razr plus 2023',
   'motorola razr 2023': 'motorola razr 2023 / motorola razr 2024',
   'motorola razr 2024': 'motorola razr 2024 / motorola razr 2025',
   'motorola razr 2025': 'motorola razr 2025 / motorola razr 2026',
@@ -25705,17 +25563,12 @@ Map<String, String> _androidm = {
   'motorola razr 40': 'motorola edge 50 / motorola razr 40 / motorola razr 50',
   'motorola razr 40 ultra': 'motorola razr 40 ultra / motorola razr 50 ultra',
   'motorola razr 50': 'motorola razr 50 / motorola razr 60 / motorola razr 70',
-  'motorola razr 50 ultra':
-      'motorola razr 50 ultra / motorola razr 60 ultra / motorola razr 70 plus / motorola razr plus 2026 / motorola razr ultra 2025',
+  'motorola razr 50 ultra': 'motorola razr 50 ultra / motorola razr 60 ultra / motorola razr 70 plus / motorola razr plus 2026 / motorola razr ultra 2025',
   'motorola razr 50s': 'motorola razr 50s / motorola razr 60s',
-  'motorola razr 60 ultra':
-      'motorola razr 60 ultra / motorola razr 70 ultra / motorola razr ultra 2026',
-  'motorola razr plus 2023':
-      'motorola razr plus 2023 / motorola razr plus 2024',
-  'motorola razr plus 2024':
-      'motorola razr plus 2024 / motorola razr plus 2025',
-  'motorola razr ultra 2025':
-      'motorola razr 60 ultra / motorola razr ultra 2025',
+  'motorola razr 60 ultra': 'motorola razr 60 ultra / motorola razr 70 ultra / motorola razr ultra 2026',
+  'motorola razr plus 2023': 'motorola razr plus 2023 / motorola razr plus 2024',
+  'motorola razr plus 2024': 'motorola razr plus 2024 / motorola razr plus 2025',
+  'motorola razr ultra 2025': 'motorola razr 60 ultra / motorola razr ultra 2025',
   'move 2': 'Moov2',
   'movo': 'LE50UHDE5692G',
   'movo_la': 'L55E6700UDS',
@@ -25747,7 +25600,7 @@ Map<String, String> _androidm = {
   'myTouch_4G_Slide': 'myTouch 4G Slide',
   'myphone N23 5G': 'myphone_N23_5G_EEA',
 };
-Map<String, String> _androidn = {
+const Map<String, String> _androidn = {
   'nJoy_Arcas_7': 'Arcas 7',
   'nJoy_Tityos_10': 'Tityos 10',
   'nJoy_Turnus_8': 'Turnus 8',
@@ -25772,7 +25625,7 @@ Map<String, String> _androidn = {
   'nuvifone A50': 'Nuvifone',
   'nüvifone A50': 'Nuvifone',
 };
-Map<String, String> _androido = {
+const Map<String, String> _androido = {
   'octopus': 'Intel Gemini Lake Chromebook',
   'omega_lite_4': 'Omega Lite 4',
   'one touch D920': 'one touch D920 / one_touch_D920_ALIQ',
@@ -25790,7 +25643,7 @@ Map<String, String> _androido = {
   'oraimo R401': 'R401',
   'oraimo R402': 'R402',
 };
-Map<String, String> _androidp = {
+const Map<String, String> _androidp = {
   'pCloud': 'ACT / MINT / PPGLOM81 / mPOS / mPOS-R',
   'pad_d85': 'Haier',
   'pearl': 'NETBOX',
@@ -25802,7 +25655,7 @@ Map<String, String> _androidp = {
   'puff': 'Chromebox',
   'pulse': 'PULSE',
 };
-Map<String, String> _androidr = {
+const Map<String, String> _androidr = {
   'rammus': 'Intel Amber Lake Y Chromebook',
   'rauru': 'Mediatek MT8196 Chromebook',
   'redbeat A2': 'Tablet_HQ_T616',
@@ -25819,7 +25672,7 @@ Map<String, String> _androidr = {
   'rg730': 'RugGear rg730',
   'rk3576_u': 'AndroidSmartDisplay',
 };
-Map<String, String> _androids = {
+const Map<String, String> _androids = {
   's-tron': 's_tron',
   's2': 'Turbo-X s2',
   's5Pro': 'Gini s5Pro',
@@ -25856,7 +25709,7 @@ Map<String, String> _androids = {
   'surface7': 'Active Surface',
   'sweam': 'Sweam',
 };
-Map<String, String> _androidt = {
+const Map<String, String> _androidt = {
   't8332_l40mmeiw_T10_64_k419': 't8332_T10_64_k419',
   'tb8792p1_64_wifi': '荣耀平板V9',
   'telma i401': 'Telma i401 / telma_i401',
@@ -25878,7 +25731,7 @@ Map<String, String> _androidt = {
   'tvbox': 'Proximus TV',
   'twist neo': 'Twist Neo',
 };
-Map<String, String> _androidu = {
+const Map<String, String> _androidu = {
   'uie4027lgu': 'U+tv UHD3',
   'uie4057lgu': 'UHD4T',
   'uiw4030dnm': 'NETBOX',
@@ -25889,7 +25742,7 @@ Map<String, String> _androidu = {
   'ute7057lgu': 'U+tv Soundbar Black',
   'uvh1301': 'Kitchen Hub',
 };
-Map<String, String> _androidv = {
+const Map<String, String> _androidv = {
   'vernee_M5': 'M5',
   'verykool Luna II S4513': 's4513',
   'verykool Wave Pro s5021': 's5021',
@@ -26008,216 +25861,90 @@ Map<String, String> _androidv = {
   'vsi8q_1': 'ViewPadi8Q',
   'vsi8q_1_coho': 'ViewPadi8Q',
 };
-Map<String, String> _androidw = {
+const Map<String, String> _androidw = {
   'waipu.tv Stick (G2)': 'waipu.tv Stick (G2)',
   'weplus_3': 'weplus 3',
   'willow': 'Redmi Note 8T',
   'wolverine12': 'Wolverine12',
   'wolverine7': 'Wolverine7',
 };
-Map<String, String> _androidx = {
+const Map<String, String> _androidx = {
   'x600': 'Le1',
 };
-Map<String, String> _androidy = {
+const Map<String, String> _androidy = {
   'yes': 'Yes / yes',
 };
-Map<String, String> _androidz = {
+const Map<String, String> _androidz = {
   'zork': 'AMD Raven Ridge Chromebook',
   'zx70': 'ZX70',
 };
 String lookupAndroidName(String model) {
   if (model.isEmpty) {
-    return "";
+    return '';
   }
-  String? result;
-  final chunkKey = model.toString()[0];
-  switch (chunkKey) {
-    case '0':
-      result = _android0[model];
-      break;
-    case '1':
-      result = _android1[model];
-      break;
-    case '2':
-      result = _android2[model];
-      break;
-    case '3':
-      result = _android3[model];
-      break;
-    case '4':
-      result = _android4[model];
-      break;
-    case '5':
-      result = _android5[model];
-      break;
-    case '6':
-      result = _android6[model];
-      break;
-    case '7':
-      result = _android7[model];
-      break;
-    case '8':
-      result = _android8[model];
-      break;
-    case '9':
-      result = _android9[model];
-      break;
-    case 'A':
-      result = _androidA[model];
-      break;
-    case 'B':
-      result = _androidB[model];
-      break;
-    case 'C':
-      result = _androidC[model];
-      break;
-    case 'D':
-      result = _androidD[model];
-      break;
-    case 'E':
-      result = _androidE[model];
-      break;
-    case 'F':
-      result = _androidF[model];
-      break;
-    case 'G':
-      result = _androidG[model];
-      break;
-    case 'H':
-      result = _androidH[model];
-      break;
-    case 'I':
-      result = _androidI[model];
-      break;
-    case 'J':
-      result = _androidJ[model];
-      break;
-    case 'K':
-      result = _androidK[model];
-      break;
-    case 'L':
-      result = _androidL[model];
-      break;
-    case 'M':
-      result = _androidM[model];
-      break;
-    case 'N':
-      result = _androidN[model];
-      break;
-    case 'O':
-      result = _androidO[model];
-      break;
-    case 'P':
-      result = _androidP[model];
-      break;
-    case 'Q':
-      result = _androidQ[model];
-      break;
-    case 'R':
-      result = _androidR[model];
-      break;
-    case 'S':
-      result = _androidS[model];
-      break;
-    case 'T':
-      result = _androidT[model];
-      break;
-    case 'U':
-      result = _androidU[model];
-      break;
-    case 'V':
-      result = _androidV[model];
-      break;
-    case 'W':
-      result = _androidW[model];
-      break;
-    case 'X':
-      result = _androidX[model];
-      break;
-    case 'Y':
-      result = _androidY[model];
-      break;
-    case 'Z':
-      result = _androidZ[model];
-      break;
-    case 'a':
-      result = _androida[model];
-      break;
-    case 'b':
-      result = _androidb[model];
-      break;
-    case 'c':
-      result = _androidc[model];
-      break;
-    case 'd':
-      result = _androidd[model];
-      break;
-    case 'e':
-      result = _androide[model];
-      break;
-    case 'f':
-      result = _androidf[model];
-      break;
-    case 'g':
-      result = _androidg[model];
-      break;
-    case 'h':
-      result = _androidh[model];
-      break;
-    case 'i':
-      result = _androidi[model];
-      break;
-    case 'j':
-      result = _androidj[model];
-      break;
-    case 'k':
-      result = _androidk[model];
-      break;
-    case 'l':
-      result = _androidl[model];
-      break;
-    case 'm':
-      result = _androidm[model];
-      break;
-    case 'n':
-      result = _androidn[model];
-      break;
-    case 'o':
-      result = _androido[model];
-      break;
-    case 'p':
-      result = _androidp[model];
-      break;
-    case 'r':
-      result = _androidr[model];
-      break;
-    case 's':
-      result = _androids[model];
-      break;
-    case 't':
-      result = _androidt[model];
-      break;
-    case 'u':
-      result = _androidu[model];
-      break;
-    case 'v':
-      result = _androidv[model];
-      break;
-    case 'w':
-      result = _androidw[model];
-      break;
-    case 'x':
-      result = _androidx[model];
-      break;
-    case 'y':
-      result = _androidy[model];
-      break;
-    case 'z':
-      result = _androidz[model];
-      break;
-    default:
-      result = null;
-      break;
-  }
+  final result = switch (model[0]) {
+    '0' => _android0[model],
+    '1' => _android1[model],
+    '2' => _android2[model],
+    '3' => _android3[model],
+    '4' => _android4[model],
+    '5' => _android5[model],
+    '6' => _android6[model],
+    '7' => _android7[model],
+    '8' => _android8[model],
+    '9' => _android9[model],
+    'A' => _androidA[model],
+    'B' => _androidB[model],
+    'C' => _androidC[model],
+    'D' => _androidD[model],
+    'E' => _androidE[model],
+    'F' => _androidF[model],
+    'G' => _androidG[model],
+    'H' => _androidH[model],
+    'I' => _androidI[model],
+    'J' => _androidJ[model],
+    'K' => _androidK[model],
+    'L' => _androidL[model],
+    'M' => _androidM[model],
+    'N' => _androidN[model],
+    'O' => _androidO[model],
+    'P' => _androidP[model],
+    'Q' => _androidQ[model],
+    'R' => _androidR[model],
+    'S' => _androidS[model],
+    'T' => _androidT[model],
+    'U' => _androidU[model],
+    'V' => _androidV[model],
+    'W' => _androidW[model],
+    'X' => _androidX[model],
+    'Y' => _androidY[model],
+    'Z' => _androidZ[model],
+    'a' => _androida[model],
+    'b' => _androidb[model],
+    'c' => _androidc[model],
+    'd' => _androidd[model],
+    'e' => _androide[model],
+    'f' => _androidf[model],
+    'g' => _androidg[model],
+    'h' => _androidh[model],
+    'i' => _androidi[model],
+    'j' => _androidj[model],
+    'k' => _androidk[model],
+    'l' => _androidl[model],
+    'm' => _androidm[model],
+    'n' => _androidn[model],
+    'o' => _androido[model],
+    'p' => _androidp[model],
+    'r' => _androidr[model],
+    's' => _androids[model],
+    't' => _androidt[model],
+    'u' => _androidu[model],
+    'v' => _androidv[model],
+    'w' => _androidw[model],
+    'x' => _androidx[model],
+    'y' => _androidy[model],
+    'z' => _androidz[model],
+    _ => null,
+  };
   return result ?? model;
 }
