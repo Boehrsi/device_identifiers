@@ -13,10 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-java@v6
-        with:
-          distribution: 'temurin'
-          java-version: '21'
       - uses: dart-lang/setup-dart@v1
 
       - name: Install dependencies
@@ -24,12 +20,6 @@ jobs:
 
       - name: Execute
         run: dart main.dart
-
-      - name: Format Dart
-        run: dart format output/device_identifiers.dart
-
-      - name: Format Kotlin
-        run: curl -sSLO https://github.com/pinterest/ktlint/releases/latest/download/ktlint && chmod a+x ktlint && ./ktlint -F output/DeviceIdentifiers.kt
 
       - name: Test
         run: dart test

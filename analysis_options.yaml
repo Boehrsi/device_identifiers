@@ -1,5 +1,9 @@
 include: package:lints/recommended.yaml
 
+analyzer:
+  exclude:
+    - 'output/**'
+
 linter:
   rules:
     - prefer_final_locals
