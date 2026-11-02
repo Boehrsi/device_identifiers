@@ -1,12 +1,13 @@
 import 'package:csv/csv.dart';
-import 'utils/collections.dart';
+import 'package:device_identifiers/utils/collections.dart';
 import 'package:http/http.dart' as http;
 
 final androidCsv =
     'https://storage.googleapis.com/play_public/supported_devices.csv';
 
-Future<Map<String, Map>> requestAndroidIdentifiers(String target) async {
-  final resultMap = {};
+Future<Map<String, Map<dynamic, dynamic>>> requestAndroidIdentifiers(
+    String target) async {
+  final resultMap = <dynamic, dynamic>{};
   final url = Uri.parse(target);
   final response = await http.get(url);
   final decodedResponse = decode(response);

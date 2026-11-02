@@ -1,16 +1,16 @@
 import 'dart:collection';
 
-extension Adjust on Map {
-  Map sortByKey() => SplayTreeMap.from(
+extension Adjust<K, V> on Map<K, V> {
+  Map<K, V> sortByKey() => SplayTreeMap<K, V>.from(
       this, (left, right) => left.toString().compareTo(right.toString()));
 
-  Map<String, Map> chunk() {
-    String chunkKey = "";
-    final resultMap = <String, Map>{};
+  Map<String, Map<K, V>> chunk() {
+    String chunkKey = '';
+    final resultMap = <String, Map<K, V>>{};
     forEach((key, value) {
       if (chunkKey != key.toString()[0]) {
         chunkKey = key.toString()[0];
-        resultMap[chunkKey] = {}..putIfAbsent(key, () => value);
+        resultMap[chunkKey] = <K, V>{}..putIfAbsent(key, () => value);
       } else {
         resultMap[chunkKey]!.putIfAbsent(key, () => value);
       }

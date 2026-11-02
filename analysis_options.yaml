@@ -3,9 +3,23 @@ include: package:lints/recommended.yaml
 analyzer:
   exclude:
     - 'output/**'
+  language:
+    strict-casts: true
+    strict-inference: true
+    strict-raw-types: true
 
 linter:
   rules:
-    - prefer_final_locals
-    - prefer_final_fields
+    - always_declare_return_types
+    - always_use_package_imports
+    - avoid_relative_lib_imports
+    - cancel_subscriptions
+    - close_sinks
+    - directives_ordering
     - prefer_const_constructors
+    - prefer_final_fields
+    - prefer_final_in_for_each
+    - prefer_final_locals
+    - prefer_single_quotes
+    - unawaited_futures
+    - unnecessary_parenthesis

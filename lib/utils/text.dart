@@ -1,11 +1,9 @@
-import '../targets/target_definition.dart';
+import 'package:device_identifiers/targets/target_definition.dart';
 
-String escape(dynamic content, TargetDefinition target) {
-  if (Type.dart == target.type) {
-    return content.toString().replaceAll("\\", "").replaceAll("'", "\\'");
-  } else if (Type.kotlin == target.type) {
-    return content.toString().replaceAll('\\', '').replaceAll('"', '\\"');
-  } else {
-    throw Exception("Unknown target");
-  }
-}
+String escape(dynamic content, TargetDefinition target) =>
+    switch (target.type) {
+      Type.dart =>
+        content.toString().replaceAll('\\', '').replaceAll("'", "\\'"),
+      Type.kotlin =>
+        content.toString().replaceAll('\\', '').replaceAll('"', '\\"'),
+    };

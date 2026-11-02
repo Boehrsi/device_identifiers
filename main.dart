@@ -1,17 +1,17 @@
 import 'dart:io';
 
-import 'lib/android.dart';
-import 'lib/ios.dart';
-import 'lib/targets/dart.dart';
-import 'lib/targets/kotlin.dart';
-import 'lib/targets/target_definition.dart';
-import 'lib/utils/io.dart';
+import 'package:device_identifiers/sources/android.dart';
+import 'package:device_identifiers/sources/ios.dart';
+import 'package:device_identifiers/targets/dart.dart';
+import 'package:device_identifiers/targets/kotlin.dart';
+import 'package:device_identifiers/targets/target_definition.dart';
+import 'package:device_identifiers/utils/io.dart';
 
 Future<void> main(List<String> args) async {
   final targets = [targetDart, targetKotlin];
   final information = setupInformation();
 
-  final iOsData = await requestIosIdentifiers(iOsJson);
+  final iosData = await requestIosIdentifiers(iosApi);
   final androidData = await requestAndroidIdentifiers(androidCsv);
 
   await Future.forEach(targets, (TargetDefinition target) async {
@@ -20,12 +20,12 @@ Future<void> main(List<String> args) async {
 
     sink.write(information);
     sink.write(target.additionalInformation);
-    sink.writeIosIdentifiers(target, iOsData);
+    sink.writeIosIdentifiers(target, iosData);
     sink.writeIosLookupMethod(target);
     sink.writeAndroidIdentifiers(target, androidData);
     sink.writeAndroidLookupMethod(target, androidData.keys.toList());
 
-    sink.close();
+    await sink.close();
   });
 }
 

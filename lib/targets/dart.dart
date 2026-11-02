@@ -1,4 +1,4 @@
-import 'target_definition.dart';
+import 'package:device_identifiers/targets/target_definition.dart';
 
 String outputFile = 'output/device_identifiers.dart';
 
@@ -16,9 +16,9 @@ String lookupAndroidFooter = '''    _ => null,
   return result ?? model;
 }\n''';
 
-String openIosMap = 'const Map<String, String> _iOs = {\n';
+String openIosMap = 'const Map<String, String> _ios = {\n';
 String lookupIosMap =
-    'String lookupIosName(String model) => _iOs[model] ?? model;\n';
+    'String lookupIosName(String model) => _ios[model] ?? model;\n';
 
 MapEntry mapEntry = (String key, String value) => "  '$key': '$value',\n";
 String closeMap = '};\n';

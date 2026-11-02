@@ -1,24 +1,21 @@
-import 'target_definition.dart';
+import 'package:device_identifiers/targets/target_definition.dart';
 
 String outputFile = 'output/DeviceIdentifiers.kt';
 
-ChunkMapTemplate openAndroidMap = (String chunkKey) {
-  final adjustedchunkKey = _getAdjustedChunkKey(chunkKey);
-  return '''object Android$adjustedchunkKey {
+ChunkMapTemplate openAndroidMap =
+    (String chunkKey) => '''object Android${_getAdjustedChunkKey(chunkKey)} {
     internal val map by lazy {
         buildMap {
 ''';
-};
+
 String lookupAndroidHeader = '''fun lookupAndroidName(model: String): String {
     if (model.isBlank()) {
         return ""
     }
     val result = when (model[0]) {
 ''';
-LookupBody lookupAndroidBody = (String chunkKey) {
-  final adjustedChunkedKey = _getAdjustedChunkKey(chunkKey);
-  return "        '$chunkKey' -> Android$adjustedChunkedKey.map[model]\n";
-};
+LookupBody lookupAndroidBody = (String chunkKey) =>
+    "        '$chunkKey' -> Android${_getAdjustedChunkKey(chunkKey)}.map[model]\n";
 String lookupAndroidFooter = '''        else -> null
     }
     return result ?: model
@@ -41,7 +38,7 @@ String closeMap = '''        }
 
 String _getAdjustedChunkKey(String chunkKey) =>
     chunkKey != chunkKey.toUpperCase()
-        ? "Lowercase${chunkKey.toUpperCase()}"
+        ? 'Lowercase${chunkKey.toUpperCase()}'
         : chunkKey;
 
 String _addtionalInformation = '''// ktlint-disable
